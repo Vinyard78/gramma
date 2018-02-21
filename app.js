@@ -61,6 +61,71 @@ app.get('/mots/', function (req,res){
     })
 })
 
+
+
+
+var http      = require('http');
+var fs = require('fs');
+
+var dataAll;
+
+
+var getData = function(){
+    http.get('http://www.larousse.fr/index/dictionnaires/francais/' + alphabet[letter] + '/' + index, function(res){
+        res.on('data', function(data){
+            dataAll += data;
+
+            if (res.statusCode === 200) {
+                dataAll += data;
+                
+            }
+
+        });
+
+        res.on('end', function () {
+            
+
+            index++;
+
+            if(index <= 70){
+                getData();
+            } else {
+                console.log(alphabet[letter]);
+                letter++;
+                if(letter < 26) {
+                    index = 1;
+                    getData();
+                } else {
+                    fs.writeFile('All.txt', dataAll , function (err) {
+                        if (err) throw err;
+                        console.log('It\'s saved!');
+                    });
+                }
+
+
+                
+            }
+            
+        });
+ 
+        res.on('error', function(e){
+            //console.log(e);
+        });
+ 
+    });
+
+}
+ 
+var index = 1;
+var alphabet = "abcdefghijklmnopqrstuvwxyz";
+var letter = 0;
+setTimeout(()=>{
+    getData();
+},5000);
+
+
+
+
 /*// GET : read one
 app.get('/users/:userId', function (req,res){
     console.log("user details : " + req.params.userId);
