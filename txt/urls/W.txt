@@ -1,0 +1,2551 @@
+undefined<!DOCTYPE html>
+<html lang="fr" itemscope itemtype="http://schema.org/WebPage">
+<head id="Head1" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#" lang="fr">
+    <!-- Larousse.fr, HLVELPDW2, 21/02/2018 17:59:39 -->
+    <meta charset="utf-8" /><meta name="author" content="Éditions Larousse" /><title>
+	Larousse.fr : encyclopédie et dictionnaires gratuits en ligne - Index - Dictionnaire de français
+</title>
+    <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    
+    <!-- REGIE PUB (Params, Habillage(body,oast,oasm,...)) -->
+    <script type="text/javascript">
+        var LAR_config = { "SAS_data": {"sitepage" : "www.larousse.fr/rg", "siteid" : "3598", "type_t" : "1", "type_m" : "2", "type_b" : "5"}, "ga": "UA-8359745-2"};   
+    </script>
+    <!-- call tag-pub body Master via ConfigRegie (specialO<!DOCTYPE html>
+<html lang="fr" itemscope itemtype="http://schema.org/WebPage">
+<head id="Head1" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#" lang="fr">
+    <!-- Larousse.fr, HLVELPDW2, 21/02/2018 17:59:39 -->
+    <meta charset="utf-8" /><meta name="author" content="Éditions Larousse" /><title>
+	Larousse.fr : encyclopédie et dictionnaires gratuits en ligne - Index - Dictionnaire de français
+</title>
+    <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    
+    <!-- REGIE PUB (Params, Habillage(body,oast,oasm,...)) -->
+    <script type="text/javascript">
+        var LAR_config = { "SAS_data": {"sitepage" : "www.larousse.fr/rg", "siteid" : "3598", "type_t" : "1", "type_m" : "2", "type_b" : "5"}, "ga": "UA-8359745-2"};   
+    </script>
+    <!-- call tag-pub body Master via ConfigRegie (specialOP)-->
+    <script type="text/javascript">
+        var script = document.createElement('script');
+        var s2ad_loaded = false;
+        script.type = 'text/javascript';
+        script.setAttribute("async", "async");
+        script.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//vw-sync2ad-delivery.s3.amazonaws.com/SDK-JS/1.0/release/1.0.3/sync2ad.js';
+        script.onreadystatechange = script.onload = function () {
+            if (!s2ad_loaded && (!script.readyState || /loaded|complete/.test(script.readyState))) {
+                s2ad_loaded = true;
+                Sync2Ad.start({
+                    endpoint: 'https://vw-sync2ad-prod.s3.amazonaws.com',                   //v.Mobile 
+                    //endpoint: 'https://vw-sync2ad-preprod-client.s3.amazonaws.com',       //v.Desktop
+                    siteId: 'larous'
+                });
+            }
+        };
+        document.getElementsByTagName('head')[0].appendChild(script);
+    </script>
+    <!-- call tag-pub bottom article -->
+    <script type="text/javascript" id="ean-native-embed-tag" src="//cdn.elasticad.net/native/serve/js/nativeEmbed.gz.js"></script>
+    
+    <link rel="stylesheet" type="text/css" media="screen" href="/menu/menu.201609200706.css" />
+    
+    <link rel="shortcut icon" href="/dictionnaires/assets/img/favicon.ico" />
+
+    
+    
+    
+    
+    
+    <link rel="stylesheet" href="/dictionnaires/assets/css/index.201701311232.css">  
+    <script src="/dictionnaires/assets/js/default.201701311232.js"></script>
+
+    
+    
+    <!--[if lte IE 7]><script src="/dictionnaires/assets/js/ie7-fallback.201701311232.js"></script><![endif]--> 
+
+
+    <style type="text/css" title="currentStyle">@import "http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.0/themes/redmond/jquery-ui.css";</style>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>
+<meta property="og:title" content="Larousse.fr : encyclopédie et dictionnaires gratuits en ligne - Index - Dictionnaire de français" />
+<meta itemprop="name" content="Larousse.fr : encyclopédie et dictionnaires gratuits en ligne - Index - Dictionnaire de français" />
+<meta name="description" content="Des dictionnaires et une encyclopédie gratuite." />
+<meta property="og:description" content="Des dictionnaires et une encyclopédie gratuite." />
+<meta itemprop="description" content="Des dictionnaires et une encyclopédie gratuite." />
+<link rel="canonical" href="http://www.larousse.fr/index/dictionnaires/olf/w/1" />
+<meta property="og:url" content="http://www.larousse.fr/index/dictionnaires/olf/w/1" />
+<meta itemprop="url" content="http://www.larousse.fr/index/dictionnaires/olf/w/1" />
+<meta name="robots" content="index,follow" />
+</head>
+<body  class="olf">
+    <div id="popinInfoCNIL" title="Information Cookies">
+        <p><b>En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de cookies pour vous proposer des publicités adaptées à vos centres
+        d’intérêts, réaliser des statistiques ainsi qu’interagir avec des réseaux sociaux.</b></p>
+        <p><a class="about-cookies" href="/infos/cookies">Pour en savoir plus et paramétrer les cookies </a></p>
+    </div>
+    <div id="cookie-banner"></div>
+    <div id="top">
+        <div id="innerTopDiv" class="inner-top">
+	
+            
+            <div class="social">
+                <div class="fb-follow" data-href="https://www.facebook.com/larousse.fr" data-layout="button" data-show-faces="false"></div>
+                <div class="tw-follow"><a class="twitter-follow-button"  href="https://twitter.com/Larousse_fr"  data-show-count ="false">Suivre @Larousse</a></div>
+            </div>
+
+            
+            <a href="http://www.editions-larousse.fr/actualites-larousse" class="newsletter">Lettre d’information</a>
+            
+            <nav class="lang fr" title="Choisissez votre langue d'interface">
+                <a href="http://www.larousse.fr/" class="fr">Français</a>
+                <a href="http://www.larousse.com/en/" class="en">Anglais</a>
+                <a href="http://www.larousse.com/es/" class="es">Espagnol</a>
+                <a href="http://www.larousse.com/de/" class="de">Allemand</a>
+                <a hrP)-->
+    <script type="text/javascript">
+        var script = document.createElement('script');
+        var s2ad_loaded = false;
+        script.type = 'text/javascript';
+        script.setAttribute("async", "async");
+        script.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//vw-sync2ad-delivery.s3.amazonaws.com/SDK-JS/1.0/release/1.0.3/sync2ad.js';
+        script.onreadystatechange = script.onload = function () {
+            if (!s2ad_loaded && (!script.readyState || /loaded|complete/.test(script.readyState))) {
+                s2ad_loaded = true;
+                Sync2Ad.start({
+                    endpoint: 'https://vw-sync2ad-prod.s3.amazonaws.com',                   //v.Mobile 
+                    //endpoint: 'https://vw-sync2ad-preprod-client.s3.amazonaws.com',       //v.Desktop
+                    siteId: 'larous'
+                });
+            }
+        };
+        document.getElementsByTagName('head')[0].appendChild(script);
+    </script>
+    <!-- call tag-pub bottom article -->
+    <script type="text/javascript" id="ean-native-embed-tag" src="//cdn.elasticad.net/native/serve/js/nativeEmbed.gz.js"></script>
+    
+    <link rel="stylesheet" type="text/css" media="screen" href="/menu/menu.201609200706.css" />
+    
+    <link rel="shortcut icon" href="/dictionnaires/assets/img/favicon.ico" />
+
+    
+    
+    
+    
+    
+    <link rel="stylesheet" href="/dictionnaires/assets/css/index.201701311232.css">  
+    <script src="/dictionnaires/assets/js/default.201701311232.js"></script>
+
+    
+    
+    <!--[if lte IE 7]><script src="/dictionnaires/assets/js/ie7-fallback.201701311232.js"></script><![endif]--> 
+
+
+    <style type="text/css" title="currentStyle">@import "http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.0/themes/redmond/jquery-ui.css";</style>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>
+<meta property="og:title" content="Larousse.fr : encyclopédie et dictionnaires gratuits en ligne - Index - Dictionnaire de français" />
+<meta itemprop="name" content="Larousse.fr : encyclopédie et dictionnaires gratuits en ligne - Index - Dictionnaire de français" />
+<meta name="description" content="Des dictionnaires et une encyclopédie gratuite." />
+<meta property="og:description" content="Des dictionnaires et une encyclopédie gratuite." />
+<meta itemprop="description" content="Des dictionnaires et une encyclopédie gratuite." />
+<link rel="canonical" href="http://www.larousse.fr/index/dictionnaires/olf/w/1" />
+<meta property="og:url" content="http://www.larousse.fr/index/dictionnaires/olf/w/1" />
+<meta itemprop="url" content="http://www.larousse.fr/index/dictionnaires/olf/w/1" />
+<meta name="robots" content="index,follow" />
+</head>
+<body  class="olf">
+    <div id="popinInfoCNIL" title="Information Cookies">
+        <p><b>En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de cookies pour vous proposer des publicités adaptées à vos centres
+        d’intérêts, réaliser des statistiques ainsi qu’interagir avec des réseaux sociaux.</b></p>
+        <p><a class="about-cookies" href="/infos/cookies">Pour en savoir plus et paramétrer les cookies </a></p>
+    </div>
+    <div id="cookie-banner"></div>
+    <div id="top">
+        <div id="innerTopDiv" class="inner-top">
+	
+            
+            <div class="social">
+                <div class="fb-follow" data-href="https://www.facebook.com/larousse.fr" data-layout="button" data-show-faces="false"></div>
+                <div class="tw-follow"><a class="twitter-follow-button"  href="https://twitter.com/Larousse_fr"  data-show-count ="false">Suivre @Larousse</a></div>
+            </div>
+
+            
+            <a href="http://www.editions-larousse.fr/actualites-larousse" class="newsletter">Lettre d’information</a>
+            
+            <nav class="lang fr" title="Choisissez votre langue d'interface">
+                <a href="http://www.larousse.fr/" class="fr">Français</a>
+                <a href="http://www.larousse.com/en/" class="en">Anglais</a>
+                <a href="http://www.larousse.com/es/" class="es">Espagnol</a>
+                <a href="http://www.larousse.com/de/" class="de">Allemand</a>
+                <a href="http://www.larousse.com/it/" class="it">Italien</a>
+            </nav>
+            
+            
+                <a href="/mon-compte/identifier" id="ca-connexion" class="ca-text">Identifiez-vous</a>
+                ou
+                <a href="/mon-compte/nouveau" class="ca-text">Créez un compte</a>
+            
+            
+            
+        
+</div>
+    </div>
+    <div id="page">
+        
+        <header id="header" role="banner">
+            <h1>
+                <a href="/dictionnaires/francais" title="Larousse.fr">Larousse</a> 
+                
+            </h1>
+            
+             <nav id="menu" role="navigation">
+	 <ul class="main">
+		<li class="home">
+			<h2><a href="/">Accueil</a></h2>
+		</li>
+		
+		<li class="olf">
+			<h2><a href="/dictionnaires/francais">Dictionnaires de français</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="/dictionnaires/francais"><b>Toute la langue française</b></a>
+					<ul class="menu-items">
+						<li class="big menu-dico_fr"><h3><a href="/dictionnaires/francais-monolingue">Dictionnaire de français</a></h3></li>
+						<li class="menu-dico_conjug"><h3><a href="/conjugaison">Conjugateur</a></h3></li>
+						<li class="menu-dico_correcteur"><h3><a href="/correcteur">Correcteur</a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="bil">
+			<h2><a href="/dictionnaires/bilingues">Dictionnaires bilingueef="http://www.larousse.com/it/" class="it">Italien</a>
+            </nav>
+            
+            
+                <a href="/mon-compte/identifier" id="ca-connexion" class="ca-text">Identifiez-vous</a>
+                ou
+                <a href="/mon-compte/nouveau" class="ca-text">Créez un compte</a>
+            
+            
+            
+        
+</div>
+    </div>
+    <div id="page">
+        
+        <header id="header" role="banner">
+            <h1>
+                <a href="/dictionnaires/francais" title="Larousse.fr">Larousse</a> 
+                
+            </h1>
+            
+             <nav id="menu" role="navigation">
+	 <ul class="main">
+		<li class="home">
+			<h2><a href="/">Accueil</a></h2>
+		</li>
+		
+		<li class="olf">
+			<h2><a href="/dictionnaires/francais">Dictionnaires de français</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="/dictionnaires/francais"><b>Toute la langue française</b></a>
+					<ul class="menu-items">
+						<li class="big menu-dico_fr"><h3><a href="/dictionnaires/francais-monolingue">Dictionnaire de français</a></h3></li>
+						<li class="menu-dico_conjug"><h3><a href="/conjugaison">Conjugateur</a></h3></li>
+						<li class="menu-dico_correcteur"><h3><a href="/correcteur">Correcteur</a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="bil">
+			<h2><a href="/dictionnaires/bilingues">Dictionnaires bilingues</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="/dictionnaires/bilingues-francais"><b>Français</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_fr_ang"><h3><a href="/dictionnaires/francais-anglais"><span>Dictionnaire</span> français anglais</a></h3></li>
+						<li class="menu-drap_fr_esp"><h3><a href="/dictionnaires/francais-espagnol"><span>Dictionnaire</span> français espagnol</a></h3></li>
+						<li class="menu-drap_fr_all"><h3><a href="/dictionnaires/francais-allemand"><span>Dictionnaire</span> français allemand</a></h3></li>
+						<li class="menu-drap_fr_ital"><h3><a href="/dictionnaires/francais-italien"><span>Dictionnaire</span> français italien</a></h3></li>
+						<li class="menu-drap_fr_ch"><h3><a href="/dictionnaires/francais-chinois"><span>Dictionnaire</span> français chinois</a></h3></li>
+						<li class="menu-drap_fr_ar"><h3><a href="/dictionnaires/francais-arabe"><span>Dictionnaire</span> français arabe</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/dictionnaires/anglais"><b>Anglais</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_ang_fr"><h3><a href="/dictionnaires/anglais-francais"><span>Dictionnaire</span> anglais français</a></h3></li>
+						<li class="menu-drap_ang_esp"><h3><a href="/dictionnaires/anglais-espagnol"><span>Dictionnaire</span> anglais espagnol</a></h3></li>
+						<li class="menu-drap_ang_all"><h3><a href="/dictionnaires/anglais-allemand"><span>Dictionnaire</span> anglais allemand</a></h3></li>
+						<li class="menu-drap_ang_ital"><h3><a href="/dictionnaires/anglais-italien"><span>Dictionnaire</span> anglais-italien</a></h3></li>
+						<li class="menu-gymglish_fr"><h3><a href="http://cours-anglais.larousse.fr/">Cours d'anglais</a></h3></li>
+						<li class="menu-guide_anglais"><h3><a href="/dictionnaires/guide/anglais">Guide de conversation<span> anglais</span></a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/dictionnaires/espagnol"><b>Espagnol</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_esp_fr"><h3><a href="/dictionnaires/espagnol-francais"><span>Dictionnaire</span> espagnol français</a></h3></li>
+						<li class="menu-drap_esp_ang"><h3><a href="/dictionnaires/espagnol-anglais"><span>Dictionnaire</span> espagnol anglais</a></h3></li>
+						<li class="menu-drap_esp_all"><h3><a href="/dictionnaires/espagnol-allemand"><span>Dictionnaire</span> espagnol allemand</a></h3></li>
+						<li class="menu-guide_espagnol"><h3><a href="/dictionnaires/guide/espagnol">Guide de conversation<span> espagnol</span></a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/dictionnaires/italien"><b>Italien</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_ital_fr"><h3><a href="/dictionnaires/italien-francais"><span>Dictionnaire</span> italien français</a></h3></li>
+						<li class="menu-drap_ital_ang"><h3><a href="/dictionnaires/italien-anglais"><span>Dictionnaire</span> italien anglais</a></h3></li>
+						<li class="menu-drap_ital_all"><h3><a href="/dictionnaires/italien-allemand"><span>Dictionnaire</span> italien allemand</a></h3></li>
+						<li class="menu-guide_italien"><h3><a href="/dictionnaires/guide/italien">Guide de conversation<span> italien</span></a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/dictionnaires/allemand"><b>Allemand</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_all_fr"><h3><a href="/dictionnaires/allemand-francais"><span>Dictionnaire</span> allemand français</a></h3></li>
+						<li class="menu-drap_all_ang"><h3><a href="/dictionnaires/allemand-anglais"><span>Dictionnaire</span> allemand anglais</a></h3></li>
+						<li class="menu-drap_all_esp"><h3><a href="/dictionnaires/allemand-espagnol"><span>Dictionnaire</span> allemand espagnol</a></h3></li>
+						<li class="menu-drap_all_ital"><h3><a href="/dictionnaires/allemand-italien"><span>Dictionnaire</span> allemand italien</a></h3></li>
+						<li class="menu-guide_allemand"><h3><a href="/dictionnaires/guide/allemand">Guide de conversation<span> allemand</span></a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="encyclo">
+			<h2><a href="/encyclopedie">Encyclopédie</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<b>Histoire et Politique</b>
+					<ul class="menu-items small">
+						<li class="menu-democratie"><h3><a href="/encyclopedie/divers/democratie/41420">Démocratie</a></h3></li>
+						<li class="menu-rome"><h3><a href="/encyclopedie/divers/Rome_antique/184811">Rome antique</a></h3></li>
+						<li class="menu-moyen-age"><h3><a href="/encyclopedie/divers/Moyen_age/184336">Moyen âge</a></h3></li>
+						<li class="menu-grandesdecouvertes"><h3><a href="/encyclopedie/divers/grandes_decouvertes/184101"><span>Les grandes</span> Découvertes</a></h3></li>
+						<li class="menu-louis14"><h3><a href="/encyclopedie/divers/Louis_XIV/184286">Louis XIV</a></h3></li>
+						<li class="menu-revolutionfr"><h3><a href="/encyclopedie/divers/Revolution_francaise/184321">La Révolution</a></h3></li>
+						<li class="menu-napoleon1"><h3><a href="/encyclopedie/divers/Napoleon_Ier/184359">Napoléon I<sup>er</sup></a></h3></li>
+						<li class="menu-premiereguerremondiale"><h3><a href="/encyclopedie/divers/Premiere_Guerre_mondiale/184616">Guerre 14-18</a></h3></li>
+						<li class="menu-secondeguerremondiale"><h3><a href="/encyclopedie/divers/Seconde_Guerre_mondiale/184615">Guerre 39-45</a></h3></li>
+						<li class="menu-resistance"><h3><a href="/encyclopedie/divers/Resistance/138691">La résistance</a></h3></li>
+						<li class="menu-decolonisation"><h3><a href="/encyclopedie/divers/decolonisation/184339">La décolonisation</a></h3></li>
+						<li class="menu-vreps</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="/dictionnaires/bilingues-francais"><b>Français</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_fr_ang"><h3><a href="/dictionnaires/francais-anglais"><span>Dictionnaire</span> français anglais</a></h3></li>
+						<li class="menu-drap_fr_esp"><h3><a href="/dictionnaires/francais-espagnol"><span>Dictionnaire</span> français espagnol</a></h3></li>
+						<li class="menu-drap_fr_all"><h3><a href="/dictionnaires/francais-allemand"><span>Dictionnaire</span> français allemand</a></h3></li>
+						<li class="menu-drap_fr_ital"><h3><a href="/dictionnaires/francais-italien"><span>Dictionnaire</span> français italien</a></h3></li>
+						<li class="menu-drap_fr_ch"><h3><a href="/dictionnaires/francais-chinois"><span>Dictionnaire</span> français chinois</a></h3></li>
+						<li class="menu-drap_fr_ar"><h3><a href="/dictionnaires/francais-arabe"><span>Dictionnaire</span> français arabe</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/dictionnaires/anglais"><b>Anglais</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_ang_fr"><h3><a href="/dictionnaires/anglais-francais"><span>Dictionnaire</span> anglais français</a></h3></li>
+						<li class="menu-drap_ang_esp"><h3><a href="/dictionnaires/anglais-espagnol"><span>Dictionnaire</span> anglais espagnol</a></h3></li>
+						<li class="menu-drap_ang_all"><h3><a href="/dictionnaires/anglais-allemand"><span>Dictionnaire</span> anglais allemand</a></h3></li>
+						<li class="menu-drap_ang_ital"><h3><a href="/dictionnaires/anglais-italien"><span>Dictionnaire</span> anglais-italien</a></h3></li>
+						<li class="menu-gymglish_fr"><h3><a href="http://cours-anglais.larousse.fr/">Cours d'anglais</a></h3></li>
+						<li class="menu-guide_anglais"><h3><a href="/dictionnaires/guide/anglais">Guide de conversation<span> anglais</span></a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/dictionnaires/espagnol"><b>Espagnol</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_esp_fr"><h3><a href="/dictionnaires/espagnol-francais"><span>Dictionnaire</span> espagnol français</a></h3></li>
+						<li class="menu-drap_esp_ang"><h3><a href="/dictionnaires/espagnol-anglais"><span>Dictionnaire</span> espagnol anglais</a></h3></li>
+						<li class="menu-drap_esp_all"><h3><a href="/dictionnaires/espagnol-allemand"><span>Dictionnaire</span> espagnol allemand</a></h3></li>
+						<li class="menu-guide_espagnol"><h3><a href="/dictionnaires/guide/espagnol">Guide de conversation<span> espagnol</span></a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/dictionnaires/italien"><b>Italien</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_ital_fr"><h3><a href="/dictionnaires/italien-francais"><span>Dictionnaire</span> italien français</a></h3></li>
+						<li class="menu-drap_ital_ang"><h3><a href="/dictionnaires/italien-anglais"><span>Dictionnaire</span> italien anglais</a></h3></li>
+						<li class="menu-drap_ital_all"><h3><a href="/dictionnaires/italien-allemand"><span>Dictionnaire</span> italien allemand</a></h3></li>
+						<li class="menu-guide_italien"><h3><a href="/dictionnaires/guide/italien">Guide de conversation<span> italien</span></a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/dictionnaires/allemand"><b>Allemand</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_all_fr"><h3><a href="/dictionnaires/allemand-francais"><span>Dictionnaire</span> allemand français</a></h3></li>
+						<li class="menu-drap_all_ang"><h3><a href="/dictionnaires/allemand-anglais"><span>Dictionnaire</span> allemand anglais</a></h3></li>
+						<li class="menu-drap_all_esp"><h3><a href="/dictionnaires/allemand-espagnol"><span>Dictionnaire</span> allemand espagnol</a></h3></li>
+						<li class="menu-drap_all_ital"><h3><a href="/dictionnaires/allemand-italien"><span>Dictionnaire</span> allemand italien</a></h3></li>
+						<li class="menu-guide_allemand"><h3><a href="/dictionnaires/guide/allemand">Guide de conversation<span> allemand</span></a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="encyclo">
+			<h2><a href="/encyclopedie">Encyclopédie</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<b>Histoire et Politique</b>
+					<ul class="menu-items small">
+						<li class="menu-democratie"><h3><a href="/encyclopedie/divers/democratie/41420">Démocratie</a></h3></li>
+						<li class="menu-rome"><h3><a href="/encyclopedie/divers/Rome_antique/184811">Rome antique</a></h3></li>
+						<li class="menu-moyen-age"><h3><a href="/encyclopedie/divers/Moyen_age/184336">Moyen âge</a></h3></li>
+						<li class="menu-grandesdecouvertes"><h3><a href="/encyclopedie/divers/grandes_decouvertes/184101"><span>Les grandes</span> Découvertes</a></h3></li>
+						<li class="menu-louis14"><h3><a href="/encyclopedie/divers/Louis_XIV/184286">Louis XIV</a></h3></li>
+						<li class="menu-revolutionfr"><h3><a href="/encyclopedie/divers/Revolution_francaise/184321">La Révolution</a></h3></li>
+						<li class="menu-napoleon1"><h3><a href="/encyclopedie/divers/Napoleon_Ier/184359">Napoléon I<sup>er</sup></a></h3></li>
+						<li class="menu-premiereguerremondiale"><h3><a href="/encyclopedie/divers/Premiere_Guerre_mondiale/184616">Guerre 14-18</a></h3></li>
+						<li class="menu-secondeguerremondiale"><h3><a href="/encyclopedie/divers/Seconde_Guerre_mondiale/184615">Guerre 39-45</a></h3></li>
+						<li class="menu-resistance"><h3><a href="/encyclopedie/divers/Resistance/138691">La résistance</a></h3></li>
+						<li class="menu-decolonisation"><h3><a href="/encyclopedie/divers/decolonisation/184339">La décolonisation</a></h3></li>
+						<li class="menu-vrepublique"><h3><a href="/encyclopedie/divers/Republique/184102">La V<sup>e</sup> République</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<b>Philo, Lettres & Arts</b>
+					<ul class="menu-items small">
+						<li class="menu-style"><h3><a href="/encyclopedie/divers/style/184383">Styles</a></h3></li>
+						<li class="menu-classicisme"><h3><a href="/encyclopedie/nom-commun-nom/classicisme/34375">Classicisme</a></h3></li>
+						<li class="menu-impressionnisme"><h3><a href="/encyclopedie/nom-commun-nom/impressionnisme/60306">Impressionnisme</a></h3></li>
+						<li class="menu-romantisme"><h3><a href="/encyclopedie/nom-commun-nom/romantisme/88916">Romantisme</a></h3></li>
+						<li class="menu-design"><h3><a href="/encyclopedie/divers/design/42408">Design</a></h3></li>
+						<li class="menu-surrealisme"><h3><a href="/encyclopedie/nom-commun-nom/surrealisme/95026">Surréalisme</a></h3></li>
+						<li class="menu-kant"><h3><a href="/encyclopedie/personnage/Emmanuel_Kant/126964">Kant</a></h3></li>
+						<li class="menu-homere"><h3><a href="/encyclopedie/personnage/Homere/124178">Homère</a></h3></li>
+						<li class="menu-hugo"><h3><a href="/encyclopedie/personnage/Victor_Hugo/124393">Victor Hugo</a></h3></li>
+						<li class="menu-poesie"><h3><a href="/encyclopedie/divers/poesie/80884">Poésie</a></h3></li>
+						<li class="menu-beethoven"><h3><a href="/encyclopedie/personnage/Ludwig_van_Beethoven/108152">Beethoven</a></h3></li>
+						<li class="menu-michelange"><h3><a href="/encyclopedie/personnage/Michelangelo_Buonarroti_dit_en_francais_Michel-Ange/133084">Michel-Ange</a></h3></li>						
+					</ul>
+				</li>
+				<li>
+					<b>Géographie</b>
+					<ul class="menu-items small">
+						<li class="menu-histoire_terre"><h3><a href="/encyclopedie/divers/histoire_de_la_Terre/186129">Histoire de la terre</a></h3></li>
+						<li class="menu-climat"><h3><a href="/encyclopedie/divers/climat/184753">Climat</a></h3></li>
+						<li class="menu-population"><h3><a href="/encyclopedie/divers/population/184345">Population</a></h3></li>
+						<li class="menu-demographie"><h3><a href="/encyclopedie/nom-commun-nom/demographie/41433">Démographie</a></h3></li>
+						<li class="menu-mondialisation"><h3><a href="/encyclopedie/divers/mondialisation/184358">Mondialisation</a></h3></li>
+						<li class="menu-geologie"><h3><a href="/encyclopedie/divers/g%C3%A9ologie/186131">Géologie</a></h3></li>
+						<li class="menu-flag-fr"><h3><a href="/encyclopedie/pays/France/120114">France</a></h3></li>
+						<li class="menu-flag-es"><h3><a href="/encyclopedie/pays/Espagne/118438">Espagne</a></h3></li>
+						<li class="menu-flag-cn"><h3><a href="/encyclopedie/pays/Chine/113402">Chine</a></h3></li>
+						<li class="menu-flag-us"><h3><a href="/encyclopedie/pays/%C3%89tats-Unis/118570">États-Unis</a></h3></li>
+						<li class="menu-flag-al"><h3><a href="/encyclopedie/pays/Alg%C3%A9rie/104806">Algérie</a></h3></li>
+						<li class="menu-flag-ca"><h3><a href="/encyclopedie/pays/Canada/111051">Canada</a></h3></li>
+					</ul>
+				</li>
+				<li>
+				<b>Sciences & Médecine</b>
+					<ul class="menu-items small">
+						<li class="menu-cellule"><h3><a href="/encyclopedie/divers/cellule/31685">Cellule</a></h3></li>
+						<li class="menu-cerveau"><h3><a href="/encyclopedie/divers/cerveau/32379">Cerveau</a></h3></li>
+						<li class="menu-genetique"><h3><a href="/encyclopedie/divers/genetique/54999">Génétique</a></h3></li>
+						<li class="menu-photosynthese"><h3><a href="/encyclopedie/divers/photosynthese/79404">Photosynthèse</a></h3></li>
+						<li class="menu-alimentation"><h3><a href="/encyclopedie/divers/alimentation/19933">Alimentation</a></h3></li>
+						<li class="menu-internet"><h3><a href="/encyclopedie/divers/Internet/125060">Internet</a></h3></li>
+						<li class="menu-adaptation"><h3><a href="/encyclopedie/divers/adaptation/18627">Adaptation</a></h3></li>
+						<li class="menu-atome"><h3><a href="/encyclopedie/divers/atome/23753">Atome</a></h3></li>
+						<li class="menu-lumiere"><h3><a href="/encyclopedie/divers/lumiere/66848">Lumière</a></h3></li>
+						<li class="menu-solaire"><h3><a href="/encyclopedie/divers/Syst%A8me_solaire/185915">Système solaire</a></h3></li>
+						<li class="menu-vaccination"><h3><a href="/encyclopedie/divers/vaccination/100537">Vaccination</a></h3></li>
+						<li class="menu-oxygene"><h3><a href="/encyclopedie/divers/oxygene/75929">Oxygène</a></h3></li>
+					</ul>
+				</li>
+				
+			<li>
+				<b>Nature & Écologie</b>
+					<ul class="menu-items">
+						<li class="menu-biodiversite"><h3><a href="/encyclopedie/divers/biodiversite/27064">Biodiversité</a></h3></li>
+						<li class="menu-energie"><h3><a href="/encyclopedie/divers/energie_renouvelable/87381">Énergie renouvelable</a></h3></li>
+						<li class="menu-developpement"><h3><a href="/encyclopedie/divers/developpement_durable/185976">Développement durable</a></h3></li>
+						<li class="menu-rechauffement"><h3><a href="/encyclopedie/divers/rechauffement_climatique/187435">Réchauffement climatique</a></h3></li>
+						<li class="menu-baleine"><h3><a href="/encyclopedie/vie-sauvage/baleine/178164">Baleine</a></h3></li>
+						<li class="menu-fleur"><h3><a href="/encyclopedie/divers/fleur/52487">Fleur</a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="forums"><h2><a href="/forums">Forums</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+				<a href="/forums/francais"><b>Tous les forums</b></a>
+					<ul class="menu-items">
+						<li class="menu-forumfr"><h3><a href="/forums/langue-francaise/">Vos questions de langue française</a></h3></li>
+						<li class="menu-forumen"><h3><a href="/forums/francais-anglais/">Vos questions en français/anglais</a></h3></li>				
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+<li class="jeux"><h2><a href="http://jeux.larousse.fr">Jeux</a></h2>
+						<ul class="menu-inner">
+							
+							<li class="active">
+							<a href="http://jeux.larousse.fr/strategy-games"><b>Jeux de stratégie</b></a>
+								<ul class="menu-items">
+									<li class="menu-sudoku"><h3><a href="http://jeux.larousse.fr/gamedetails/sudoku/">Sudoku</a></h3></li>
+									<li class="menu-jigsaw"><h3><a href="http://jeux.larousse.fr/gamedetails/jigsaw/">Jiqsaw</a></h3></li>				
+									<li class="menu-flipout"><h3><a href="http://jeux.larousse.fr/gamedetails/flip-out/">Flip out</a></h3></li>	
+									<li class="menu-backgammon"><h3><a href="http://jeux.larousse.fr/gamedetails/backgammon/">BackGammon</a></h3></li>
+									<li class="menu-trizzle"><h3><a href="http://jeux.larousse.fr/gamedetails/Trizzle/">Trizzle</a></h3></li>
+									<li class="menu-mjdd"><h3><a href="http://jeux.larousse.fr/gamedetails/mahjongg-dark-dimensions/">Mahjongg Dark Dimensions</a></h3></li>		
+								</ul>
+							</li>
+							
+							<li>
+							<a href="http://jeux.larousse.fr/card-games"><b>Jeux de cartes</b></a>
+								<ul class="menu-items">
+									<li class="menu-klondike"><h3><a href="http://jeux.larousse.fr/gamedetails/klondike-solitaire/">Klondike Solitaire</a></h3></li>
+									<li class="menu-crescent"><h3><a href="http://jeux.larousse.fr/gamedetails/crescent-solitaire/">Crescent Solitaire</a></h3></li>				
+									<li class="menu-pyramid"><h3><a href="http://jeux.larousse.fr/gamedetails/pyramid-solitaire/">Pyramid Solitaire</a></h3></li>	
+									<li class="menu-tripeaks"><h3><a href="http://jeux.larousse.fr/gamedetails/tri-peaks-solitaire/">Tri Peaks Solitaire</a></h3></li>
+									<li class="menu-spider"><h3><a href="http://jeux.larousse.fr/gamedetails/spider-solitaire/">Spider Solitaire</a></h3></li>
+									<li class="menu-blackJack"><h3><a href="http://jeux.larousse.fr/gamedetails/black-jack/">Black Jack</a></h3></li>
+								</ul>			
+							</li>
+							
+							<li>
+							<a href="http://jeux.larousse.fr/arcade-games"><b>Jeux d'arcade</b></a>
+								<ul class="menu-items">
+									<li class="menu-spacehunt"><h3><a href="http://jeux.larousse.fr/gamedetails/space-hunt/">Space hunt</a></h3></li>
+									<li class="menu-roll"><h3><a href="http://jeux.larousse.fr/gamedetails/5roll/">5 roll</a></h3></li>				
+									<li class="menu-kritterkrawler"><h3><a href="http://jeux.larousse.fr/gamedetails/kritter-krawler/">Kritter Krawler</a></h3></li>	
+									<li class="menu-alienattack""><h3><a href="http://jeux.larousse.fr/gamedetails/alien-attack/">Alien Attack</a></h3></li>
+									<li class="menu-score"><h3><a href="http://jeux.larousse.fr/gamedetails/score/">Score</a></h3></li>
+									<li class="menu-matchmerge"><h3><a href="http://jeux.larouublique"><h3><a href="/encyclopedie/divers/Republique/184102">La V<sup>e</sup> République</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<b>Philo, Lettres & Arts</b>
+					<ul class="menu-items small">
+						<li class="menu-style"><h3><a href="/encyclopedie/divers/style/184383">Styles</a></h3></li>
+						<li class="menu-classicisme"><h3><a href="/encyclopedie/nom-commun-nom/classicisme/34375">Classicisme</a></h3></li>
+						<li class="menu-impressionnisme"><h3><a href="/encyclopedie/nom-commun-nom/impressionnisme/60306">Impressionnisme</a></h3></li>
+						<li class="menu-romantisme"><h3><a href="/encyclopedie/nom-commun-nom/romantisme/88916">Romantisme</a></h3></li>
+						<li class="menu-design"><h3><a href="/encyclopedie/divers/design/42408">Design</a></h3></li>
+						<li class="menu-surrealisme"><h3><a href="/encyclopedie/nom-commun-nom/surrealisme/95026">Surréalisme</a></h3></li>
+						<li class="menu-kant"><h3><a href="/encyclopedie/personnage/Emmanuel_Kant/126964">Kant</a></h3></li>
+						<li class="menu-homere"><h3><a href="/encyclopedie/personnage/Homere/124178">Homère</a></h3></li>
+						<li class="menu-hugo"><h3><a href="/encyclopedie/personnage/Victor_Hugo/124393">Victor Hugo</a></h3></li>
+						<li class="menu-poesie"><h3><a href="/encyclopedie/divers/poesie/80884">Poésie</a></h3></li>
+						<li class="menu-beethoven"><h3><a href="/encyclopedie/personnage/Ludwig_van_Beethoven/108152">Beethoven</a></h3></li>
+						<li class="menu-michelange"><h3><a href="/encyclopedie/personnage/Michelangelo_Buonarroti_dit_en_francais_Michel-Ange/133084">Michel-Ange</a></h3></li>						
+					</ul>
+				</li>
+				<li>
+					<b>Géographie</b>
+					<ul class="menu-items small">
+						<li class="menu-histoire_terre"><h3><a href="/encyclopedie/divers/histoire_de_la_Terre/186129">Histoire de la terre</a></h3></li>
+						<li class="menu-climat"><h3><a href="/encyclopedie/divers/climat/184753">Climat</a></h3></li>
+						<li class="menu-population"><h3><a href="/encyclopedie/divers/population/184345">Population</a></h3></li>
+						<li class="menu-demographie"><h3><a href="/encyclopedie/nom-commun-nom/demographie/41433">Démographie</a></h3></li>
+						<li class="menu-mondialisation"><h3><a href="/encyclopedie/divers/mondialisation/184358">Mondialisation</a></h3></li>
+						<li class="menu-geologie"><h3><a href="/encyclopedie/divers/g%C3%A9ologie/186131">Géologie</a></h3></li>
+						<li class="menu-flag-fr"><h3><a href="/encyclopedie/pays/France/120114">France</a></h3></li>
+						<li class="menu-flag-es"><h3><a href="/encyclopedie/pays/Espagne/118438">Espagne</a></h3></li>
+						<li class="menu-flag-cn"><h3><a href="/encyclopedie/pays/Chine/113402">Chine</a></h3></li>
+						<li class="menu-flag-us"><h3><a href="/encyclopedie/pays/%C3%89tats-Unis/118570">États-Unis</a></h3></li>
+						<li class="menu-flag-al"><h3><a href="/encyclopedie/pays/Alg%C3%A9rie/104806">Algérie</a></h3></li>
+						<li class="menu-flag-ca"><h3><a href="/encyclopedie/pays/Canada/111051">Canada</a></h3></li>
+					</ul>
+				</li>
+				<li>
+				<b>Sciences & Médecine</b>
+					<ul class="menu-items small">
+						<li class="menu-cellule"><h3><a href="/encyclopedie/divers/cellule/31685">Cellule</a></h3></li>
+						<li class="menu-cerveau"><h3><a href="/encyclopedie/divers/cerveau/32379">Cerveau</a></h3></li>
+						<li class="menu-genetique"><h3><a href="/encyclopedie/divers/genetique/54999">Génétique</a></h3></li>
+						<li class="menu-photosynthese"><h3><a href="/encyclopedie/divers/photosynthese/79404">Photosynthèse</a></h3></li>
+						<li class="menu-alimentation"><h3><a href="/encyclopedie/divers/alimentation/19933">Alimentation</a></h3></li>
+						<li class="menu-internet"><h3><a href="/encyclopedie/divers/Internet/125060">Internet</a></h3></li>
+						<li class="menu-adaptation"><h3><a href="/encyclopedie/divers/adaptation/18627">Adaptation</a></h3></li>
+						<li class="menu-atome"><h3><a href="/encyclopedie/divers/atome/23753">Atome</a></h3></li>
+						<li class="menu-lumiere"><h3><a href="/encyclopedie/divers/lumiere/66848">Lumière</a></h3></li>
+						<li class="menu-solaire"><h3><a href="/encyclopedie/divers/Syst%A8me_solaire/185915">Système solaire</a></h3></li>
+						<li class="menu-vaccination"><h3><a href="/encyclopedie/divers/vaccination/100537">Vaccination</a></h3></li>
+						<li class="menu-oxygene"><h3><a href="/encyclopedie/divers/oxygene/75929">Oxygène</a></h3></li>
+					</ul>
+				</li>
+				
+			<li>
+				<b>Nature & Écologie</b>
+					<ul class="menu-items">
+						<li class="menu-biodiversite"><h3><a href="/encyclopedie/divers/biodiversite/27064">Biodiversité</a></h3></li>
+						<li class="menu-energie"><h3><a href="/encyclopedie/divers/energie_renouvelable/87381">Énergie renouvelable</a></h3></li>
+						<li class="menu-developpement"><h3><a href="/encyclopedie/divers/developpement_durable/185976">Développement durable</a></h3></li>
+						<li class="menu-rechauffement"><h3><a href="/encyclopedie/divers/rechauffement_climatique/187435">Réchauffement climatique</a></h3></li>
+						<li class="menu-baleine"><h3><a href="/encyclopedie/vie-sauvage/baleine/178164">Baleine</a></h3></li>
+						<li class="menu-fleur"><h3><a href="/encyclopedie/divers/fleur/52487">Fleur</a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="forums"><h2><a href="/forums">Forums</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+				<a href="/forums/francais"><b>Tous les forums</b></a>
+					<ul class="menu-items">
+						<li class="menu-forumfr"><h3><a href="/forums/langue-francaise/">Vos questions de langue française</a></h3></li>
+						<li class="menu-forumen"><h3><a href="/forums/francais-anglais/">Vos questions en français/anglais</a></h3></li>				
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+<li class="jeux"><h2><a href="http://jeux.larousse.fr">Jeux</a></h2>
+						<ul class="menu-inner">
+							
+							<li class="active">
+							<a href="http://jeux.larousse.fr/strategy-games"><b>Jeux de stratégie</b></a>
+								<ul class="menu-items">
+									<li class="menu-sudoku"><h3><a href="http://jeux.larousse.fr/gamedetails/sudoku/">Sudoku</a></h3></li>
+									<li class="menu-jigsaw"><h3><a href="http://jeux.larousse.fr/gamedetails/jigsaw/">Jiqsaw</a></h3></li>				
+									<li class="menu-flipout"><h3><a href="http://jeux.larousse.fr/gamedetails/flip-out/">Flip out</a></h3></li>	
+									<li class="menu-backgammon"><h3><a href="http://jeux.larousse.fr/gamedetails/backgammon/">BackGammon</a></h3></li>
+									<li class="menu-trizzle"><h3><a href="http://jeux.larousse.fr/gamedetails/Trizzle/">Trizzle</a></h3></li>
+									<li class="menu-mjdd"><h3><a href="http://jeux.larousse.fr/gamedetails/mahjongg-dark-dimensions/">Mahjongg Dark Dimensions</a></h3></li>		
+								</ul>
+							</li>
+							
+							<li>
+							<a href="http://jeux.larousse.fr/card-games"><b>Jeux de cartes</b></a>
+								<ul class="menu-items">
+									<li class="menu-klondike"><h3><a href="http://jeux.larousse.fr/gamedetails/klondike-solitaire/">Klondike Solitaire</a></h3></li>
+									<li class="menu-crescent"><h3><a href="http://jeux.larousse.fr/gamedetails/crescent-solitaire/">Crescent Solitaire</a></h3></li>				
+									<li class="menu-pyramid"><h3><a href="http://jeux.larousse.fr/gamedetails/pyramid-solitaire/">Pyramid Solitaire</a></h3></li>	
+									<li class="menu-tripeaks"><h3><a href="http://jeux.larousse.fr/gamedetails/tri-peaks-solitaire/">Tri Peaks Solitaire</a></h3></li>
+									<li class="menu-spider"><h3><a href="http://jeux.larousse.fr/gamedetails/spider-solitaire/">Spider Solitaire</a></h3></li>
+									<li class="menu-blackJack"><h3><a href="http://jeux.larousse.fr/gamedetails/black-jack/">Black Jack</a></h3></li>
+								</ul>			
+							</li>
+							
+							<li>
+							<a href="http://jeux.larousse.fr/arcade-games"><b>Jeux d'arcade</b></a>
+								<ul class="menu-items">
+									<li class="menu-spacehunt"><h3><a href="http://jeux.larousse.fr/gamedetails/space-hunt/">Space hunt</a></h3></li>
+									<li class="menu-roll"><h3><a href="http://jeux.larousse.fr/gamedetails/5roll/">5 roll</a></h3></li>				
+									<li class="menu-kritterkrawler"><h3><a href="http://jeux.larousse.fr/gamedetails/kritter-krawler/">Kritter Krawler</a></h3></li>	
+									<li class="menu-alienattack""><h3><a href="http://jeux.larousse.fr/gamedetails/alien-attack/">Alien Attack</a></h3></li>
+									<li class="menu-score"><h3><a href="http://jeux.larousse.fr/gamedetails/score/">Score</a></h3></li>
+									<li class="menu-matchmerge"><h3><a href="http://jeux.larousse.fr/gamedetails/match-merge/">Match and merge</a></h3></li>	
+								</ul>
+							</li>
+							
+						</ul>
+					</li>
+		
+		<li class="cuisine"><h2><a href="http://cuisine.larousse.fr/">Cuisine</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="http://cuisine.larousse.fr/recettes/rechercher#p=1&z=15&s=r&t=l"><b>Toutes nos recettes</b></a>
+					<ul class="menu-items">
+						<li class="menu-cuisine_cumin"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/entrees">Entrées</a></h3></li>
+						<li class="menu-cuisine_roti"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/plats">Plats</a></h3></li>
+						<li class="menu-cuisine_parfait"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/desserts">Desserts</a></h3></li>
+						<li class="menu-cuisine_boisson"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/boisssons-et-cocktails">Boissons</a></h3></li>
+						<li class="menu-cuisine_bases"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/preparations-de-base">Les basiques</a></h3></li>
+						<li class="menu-cuisine_printemps"><h3><a href="http://cuisine.larousse.fr/tendance/legumes-dhiver-et-legumes-oublies">C'est de saison</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://cuisine.larousse.fr/lecon-experts/"><b>Nos conseils d'experts</bsse.fr/gamedetails/match-merge/">Match and merge</a></h3></li>	
+								</ul>
+							</li>
+							
+						</ul>
+					</li>
+		
+		<li class="cuisine"><h2><a href="http://cuisine.larousse.fr/">Cuisine</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="http://cuisine.larousse.fr/recettes/rechercher#p=1&z=15&s=r&t=l"><b>Toutes nos recettes</b></a>
+					<ul class="menu-items">
+						<li class="menu-cuisine_cumin"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/entrees">Entrées</a></h3></li>
+						<li class="menu-cuisine_roti"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/plats">Plats</a></h3></li>
+						<li class="menu-cuisine_parfait"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/desserts">Desserts</a></h3></li>
+						<li class="menu-cuisine_boisson"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/boisssons-et-cocktails">Boissons</a></h3></li>
+						<li class="menu-cuisine_bases"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/preparations-de-base">Les basiques</a></h3></li>
+						<li class="menu-cuisine_printemps"><h3><a href="http://cuisine.larousse.fr/tendance/legumes-dhiver-et-legumes-oublies">C'est de saison</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://cuisine.larousse.fr/lecon-experts/"><b>Nos conseils d'experts</b></a>
+					<ul class="menu-items">
+						<li class="menu-toursdemain"><h3><a href="http://cuisine.larousse.fr/tours-de-main">Astuces et techniques</a></h3></li>
+						<li class="menu-ingredients"><h3><a href="http://cuisine.larousse.fr/recherche/types/ingredient">Ingrédients</a></h3></li>
+						<li class="menu-cuisinepratique"><h3><a href="http://cuisine.larousse.fr/nos-dossiers-tendances">Cuisine pratique</a></h3></li>
+						<li class="menu-sante"><h3><a href="http://cuisine.larousse.fr/nos-dossiers-sante">Dossiers santé</a></h3></li>
+						<li class="menu-magazines"><h3><a href="http://cuisine.larousse.fr/tendances">Le magazine</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<b>A la une</b>
+					<ul class="menu-items">
+						<li class="menu-cuisine_legere"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/theme-recette/cuisine-legere-minceur-5338">Cuisine légère</a></h3></li>
+						<li class="menu-cuisine_express"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/aperitifs">Apéritifs</a></h3></li>
+						<li class="menu-cuisine_chocolat"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette?search_api_views_fulltext=chocolat">Accro au choco</a></h3></li>
+						<li class="menu-cuisine_enfants"><h3><a href="http://cuisine.larousse.fr/auteur/ricardo-larrivee">RICARDO</a></h3></li>
+						<li class="menu-cuisine_asiatique"><h3><a href="http://cuisine.larousse.fr/recettes/rechercher?entry=OA#p=1&entry=OA&z=15&s=r&t=l">Spécial Pâtisserie</a></h3></li>
+						<li class="menu-cuisine_orientale"><h3><a href="http://cuisine.larousse.fr/tendance/patisserie-orientale-un-doux-regale">Pâtisserie orientale</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://cuisine.larousse.fr/recherche/types/videos"><b>Cuisine en vidéo</b></a>
+					<ul class="menu-items small">
+						<li class="menu-cuisine_macarons"><h3><a href="http://cuisine.larousse.fr/video/macarons-au-chocolat">Macarons<span>chocolat</span></a></h3></li>
+						<li class="menu-cuisine_cupcake"><h3><a href="http://cuisine.larousse.fr/video/cupcakes">Cupcakes</a></h3></li>
+						<li class="menu-cuisine_guimauve"><h3><a href="http://cuisine.larousse.fr/video/guimauve">Guimauve</a></h3></li>
+						<li class="menu-cuisine_souffle"><h3><a href="http://cuisine.larousse.fr/video/souffle-au-fromage">Soufflé fromage</a></h3></li>
+						<li class="menu-cuisine_ratatouille"><h3><a href="http://cuisine.larousse.fr/video/ratatouille">Ratatouille</a></h3></li>
+						<li class="menu-cuisine_sushi"><h3><a href="http://cuisine.larousse.fr/video/sushis-et-makis">Sushis et makis</a></h3></li>
+						<li class="menu-cuisine_tatin"><h3><a href="http://cuisine.larousse.fr/video/tartes-tatin-la-mangue">Tatin manque</a></h3></li>
+						<li class="menu-cuisine_pana_cotta"><h3><a href="http://cuisine.larousse.fr/video/panna-cotta-au-lait-de-coco">Panna cotta</a></h3></li>
+						<li class="menu-cuisine_wok"><h3><a href="http://cuisine.larousse.fr/video/wok-de-legumes">Wok de légumes</a></h3></li>
+						<li class="menu-cuisine_tortilla"><h3><a href="http://cuisine.larousse.fr/video/tortilla">Tortilla</a></h3></li>
+						<li class="menu-cuisine_tiramissu"><h3><a href="http://cuisine.larousse.fr/video/tiramisu">Tiramisu</a></h3></li>
+						<li class="menu-cuisine_tarte_citron"><h3><a href="http://cuisine.larousse.fr/video/tarte-au-citron">Tarte citron</a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		
+		</li>
+		
+		<li class="archives">
+			<h2><a href="/archives">Archives</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="/archives/journaux_annee"><b>Journaux de l'année</b></a>
+					<ul class="menu-items">
+						<li class="menu-jda-1968"><h3><a href="/archives/journaux_annee/1969">Année 1968</a></h3></li>
+						<li class="menu-jda-1973"><h3><a href="/archives/journaux_annee/1974">Année 1973</a></h3></li>
+						<li class="menu-jda-1981"><h3><a href="/archives/journaux_annee/1982">Année 1981</a></h3></li>
+						<li class="menu-jda-1991"><h3><a href="/archives/journaux_annee/1992">Année 1991</a></h3></li>
+						<li class="big menu-jda"><h3><a href="/archives/journaux_annee">Tous les journaux de l'année</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<b>Dictionnaires thématiques</b>
+					<ul class="menu-></a>
+					<ul class="menu-items">
+						<li class="menu-toursdemain"><h3><a href="http://cuisine.larousse.fr/tours-de-main">Astuces et techniques</a></h3></li>
+						<li class="menu-ingredients"><h3><a href="http://cuisine.larousse.fr/recherche/types/ingredient">Ingrédients</a></h3></li>
+						<li class="menu-cuisinepratique"><h3><a href="http://cuisine.larousse.fr/nos-dossiers-tendances">Cuisine pratique</a></h3></li>
+						<li class="menu-sante"><h3><a href="http://cuisine.larousse.fr/nos-dossiers-sante">Dossiers santé</a></h3></li>
+						<li class="menu-magazines"><h3><a href="http://cuisine.larousse.fr/tendances">Le magazine</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<b>A la une</b>
+					<ul class="menu-items">
+						<li class="menu-cuisine_legere"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/theme-recette/cuisine-legere-minceur-5338">Cuisine légère</a></h3></li>
+						<li class="menu-cuisine_express"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/aperitifs">Apéritifs</a></h3></li>
+						<li class="menu-cuisine_chocolat"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette?search_api_views_fulltext=chocolat">Accro au choco</a></h3></li>
+						<li class="menu-cuisine_enfants"><h3><a href="http://cuisine.larousse.fr/auteur/ricardo-larrivee">RICARDO</a></h3></li>
+						<li class="menu-cuisine_asiatique"><h3><a href="http://cuisine.larousse.fr/recettes/rechercher?entry=OA#p=1&entry=OA&z=15&s=r&t=l">Spécial Pâtisserie</a></h3></li>
+						<li class="menu-cuisine_orientale"><h3><a href="http://cuisine.larousse.fr/tendance/patisserie-orientale-un-doux-regale">Pâtisserie orientale</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://cuisine.larousse.fr/recherche/types/videos"><b>Cuisine en vidéo</b></a>
+					<ul class="menu-items small">
+						<li class="menu-cuisine_macarons"><h3><a href="http://cuisine.larousse.fr/video/macarons-au-chocolat">Macarons<span>chocolat</span></a></h3></li>
+						<li class="menu-cuisine_cupcake"><h3><a href="http://cuisine.larousse.fr/video/cupcakes">Cupcakes</a></h3></li>
+						<li class="menu-cuisine_guimauve"><h3><a href="http://cuisine.larousse.fr/video/guimauve">Guimauve</a></h3></li>
+						<li class="menu-cuisine_souffle"><h3><a href="http://cuisine.larousse.fr/video/souffle-au-fromage">Soufflé fromage</a></h3></li>
+						<li class="menu-cuisine_ratatouille"><h3><a href="http://cuisine.larousse.fr/video/ratatouille">Ratatouille</a></h3></li>
+						<li class="menu-cuisine_sushi"><h3><a href="http://cuisine.larousse.fr/video/sushis-et-makis">Sushis et makis</a></h3></li>
+						<li class="menu-cuisine_tatin"><h3><a href="http://cuisine.larousse.fr/video/tartes-tatin-la-mangue">Tatin manque</a></h3></li>
+						<li class="menu-cuisine_pana_cotta"><h3><a href="http://cuisine.larousse.fr/video/panna-cotta-au-lait-de-coco">Panna cotta</a></h3></li>
+						<li class="menu-cuisine_wok"><h3><a href="http://cuisine.larousse.fr/video/wok-de-legumes">Wok de légumes</a></h3></li>
+						<li class="menu-cuisine_tortilla"><h3><a href="http://cuisine.larousse.fr/video/tortilla">Tortilla</a></h3></li>
+						<li class="menu-cuisine_tiramissu"><h3><a href="http://cuisine.larousse.fr/video/tiramisu">Tiramisu</a></h3></li>
+						<li class="menu-cuisine_tarte_citron"><h3><a href="http://cuisine.larousse.fr/video/tarte-au-citron">Tarte citron</a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		
+		</li>
+		
+		<li class="archives">
+			<h2><a href="/archives">Archives</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="/archives/journaux_annee"><b>Journaux de l'année</b></a>
+					<ul class="menu-items">
+						<li class="menu-jda-1968"><h3><a href="/archives/journaux_annee/1969">Année 1968</a></h3></li>
+						<li class="menu-jda-1973"><h3><a href="/archives/journaux_annee/1974">Année 1973</a></h3></li>
+						<li class="menu-jda-1981"><h3><a href="/archives/journaux_annee/1982">Année 1981</a></h3></li>
+						<li class="menu-jda-1991"><h3><a href="/archives/journaux_annee/1992">Année 1991</a></h3></li>
+						<li class="big menu-jda"><h3><a href="/archives/journaux_annee">Tous les journaux de l'année</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<b>Dictionnaires thématiques</b>
+					<ul class="menu-items small">
+						<li class="menu-cinema"><h3><a href="/archives/cinema"><span>Dictionnaire</span>Cinéma (2001)</a></h3></li>
+						<li class="menu-films"><h3><a href="/archives/film"><span>Dictionnaire</span>Films (2005)</a></h3></li>
+						<li class="menu-musique"><h3><a href="/archives/musique"><span>Dictionnaire</span>Musique (2005)</a></h3></li>
+						<li class="menu-litterature"><h3><a href="/archives/peinture"><span>Dictionnaire</span>Littérature (2001)</a></h3></li>
+						<li class="menu-peinture"><h3><a href="/archives/peinture"><span>Dictionnaire</span>Peinture (2003)</a></h3></li>
+						<li class="menu-danse"><h3><a href="/archives/danse"><span>Dictionnaire</span>Danse (1999)</a></h3></li>
+						<li class="menu-medecine"><h3><a href="/archives/medical"><span>Dictionnaire</span>Médical (2006)</a></h3></li>
+						<li class="menu-louis14"><h3><a href="/archives/histoire_de_france"><span>Dictionnaire</span>Histoire de France (2005)</a></h3></li>
+						<li class="menu-economie"><h3><a href="/archives/economie"><span>Dictionnaire</span>Economie (2000)</a></h3></li>
+						<li class="menu-agricole"><h3><a href="/archives/agricole"><span>Dictionnaire</span>Agricole (2002)</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/archives/grande-encyclopedie"><b>La Grande Encyclopédie</b></a>
+					<ul class="menu-items">
+						<li class="big menu-ge"><h3><a href="/archives/grande-encyclopedie">Grande encyclopédie Larousse (1971-1976)</a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="catalogue">
+			<h2><a href="http://www.editions-larousse.fr">Catalogue</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="http://www.editions-larousse.fr"><b>À la une</b></a>
+					<ul class="menu-items">
+						<li class="menu-pl2017"><h3><a href="http://www.editions-larousse.fr/le-petit-larousse-illustre-2018-noel-9782035938435">Larousse illustré</a></h3></li>
+						<li class="menu-Ricardo"><h3><a href="http://cuisine.larousse.fr/livre/desserts-inratables-9782035948137">Desserts inratables</a></h3></li>
+						<li class="menu-cordula"><h3><a href="http://www.editions-larousse.fr/recherche?search_api_views_fulltext=cordula">Cristina Cordula</a></h3></li>
+						<li class="menu-zou"><h3><a href="http://www.editions-larousse.fr/recherche?search_api_views_fulltext=saison+au+zoo">Une saison au zoo</a></h3></li>
+						<li class="menu-truffaut"><h3><a href="http://www.editions-larousse.fr/collections/truffaut">Truffaut</a></h3></li>
+						<li class="menu-yesyoucan"><h3><a href="http://www.editions-larousse.fr/collections/harraps-contemporains">Polars en VO</a></h3></li>
+					</ul>
+				</li>
+			</ul>	
+		</li>                    
+	</ul>
+</nav>
+            
+            
+            
+    <form method="get" action="/dictionnaires/rechercher">
+	    <fieldset>
+		    <input type="search" name="q" placeholder="Rechercher..." value="" autofocus="autofocus" />
+            <input type="hidden" name="l" value="francais" />
+            <input type="hidden" name="culture" value="" />
+		    <button class="icon-search" type="submit"></button>
+        </fieldset>
+    </form>
+
+    
+    <section class="base fr"><h2><a href="/dictionnaires/francais-monolingue" title="DictionnaireMaj Français"><span class="virtual">DictionnaireMaj</span> <span class="source">Français</span></a></h2></section>
+
+        </header>
+        
+        <div class="pub728x90 oast"></div>
+
+        
+        
+        
+    <div id="cphContentMaster_Wrapper" class="wrapper">
+        
+        
+    <section class="breadcrumb olf"> 
+        <ol class="ariane">
+        
+            <li><a href="/index">index</a></li>
+        
+            <li><a href="/index/dictionnaires">dictionnaires</a></li>
+        
+            <li><a href="/index/dictionnaires/francais">francais</a></li>
+        
+            <li><a href="/index/dictionnaires/francais/w/1">w</a></li>
+        
+            <li><a href="/index/dictionnaires/francais/w/1">1</a></li>
+        
+        </ol>
+    </section>
+    
+        
+    <section class="content olf">
+        
+<ul>
+<li><a href="/dictionnaires/francais/W/82671">W. </a></li>
+<li><a href="/dictionnaires/francais/w/82670">w n.m. </a></li>
+<li><a href="/dictionnaires/francais/wad/82672">wad n.m. </a><items small">
+						<li class="menu-cinema"><h3><a href="/archives/cinema"><span>Dictionnaire</span>Cinéma (2001)</a></h3></li>
+						<li class="menu-films"><h3><a href="/archives/film"><span>Dictionnaire</span>Films (2005)</a></h3></li>
+						<li class="menu-musique"><h3><a href="/archives/musique"><span>Dictionnaire</span>Musique (2005)</a></h3></li>
+						<li class="menu-litterature"><h3><a href="/archives/peinture"><span>Dictionnaire</span>Littérature (2001)</a></h3></li>
+						<li class="menu-peinture"><h3><a href="/archives/peinture"><span>Dictionnaire</span>Peinture (2003)</a></h3></li>
+						<li class="menu-danse"><h3><a href="/archives/danse"><span>Dictionnaire</span>Danse (1999)</a></h3></li>
+						<li class="menu-medecine"><h3><a href="/archives/medical"><span>Dictionnaire</span>Médical (2006)</a></h3></li>
+						<li class="menu-louis14"><h3><a href="/archives/histoire_de_france"><span>Dictionnaire</span>Histoire de France (2005)</a></h3></li>
+						<li class="menu-economie"><h3><a href="/archives/economie"><span>Dictionnaire</span>Economie (2000)</a></h3></li>
+						<li class="menu-agricole"><h3><a href="/archives/agricole"><span>Dictionnaire</span>Agricole (2002)</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/archives/grande-encyclopedie"><b>La Grande Encyclopédie</b></a>
+					<ul class="menu-items">
+						<li class="big menu-ge"><h3><a href="/archives/grande-encyclopedie">Grande encyclopédie Larousse (1971-1976)</a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="catalogue">
+			<h2><a href="http://www.editions-larousse.fr">Catalogue</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="http://www.editions-larousse.fr"><b>À la une</b></a>
+					<ul class="menu-items">
+						<li class="menu-pl2017"><h3><a href="http://www.editions-larousse.fr/le-petit-larousse-illustre-2018-noel-9782035938435">Larousse illustré</a></h3></li>
+						<li class="menu-Ricardo"><h3><a href="http://cuisine.larousse.fr/livre/desserts-inratables-9782035948137">Desserts inratables</a></h3></li>
+						<li class="menu-cordula"><h3><a href="http://www.editions-larousse.fr/recherche?search_api_views_fulltext=cordula">Cristina Cordula</a></h3></li>
+						<li class="menu-zou"><h3><a href="http://www.editions-larousse.fr/recherche?search_api_views_fulltext=saison+au+zoo">Une saison au zoo</a></h3></li>
+						<li class="menu-truffaut"><h3><a href="http://www.editions-larousse.fr/collections/truffaut">Truffaut</a></h3></li>
+						<li class="menu-yesyoucan"><h3><a href="http://www.editions-larousse.fr/collections/harraps-contemporains">Polars en VO</a></h3></li>
+					</ul>
+				</li>
+			</ul>	
+		</li>                    
+	</ul>
+</nav>
+            
+            
+            
+    <form method="get" action="/dictionnaires/rechercher">
+	    <fieldset>
+		    <input type="search" name="q" placeholder="Rechercher..." value="" autofocus="autofocus" />
+            <input type="hidden" name="l" value="francais" />
+            <input type="hidden" name="culture" value="" />
+		    <button class="icon-search" type="submit"></button>
+        </fieldset>
+    </form>
+
+    
+    <section class="base fr"><h2><a href="/dictionnaires/francais-monolingue" title="DictionnaireMaj Français"><span class="virtual">DictionnaireMaj</span> <span class="source">Français</span></a></h2></section>
+
+        </header>
+        
+        <div class="pub728x90 oast"></div>
+
+        
+        
+        
+    <div id="cphContentMaster_Wrapper" class="wrapper">
+        
+        
+    <section class="breadcrumb olf"> 
+        <ol class="ariane">
+        
+            <li><a href="/index">index</a></li>
+        
+            <li><a href="/index/dictionnaires">dictionnaires</a></li>
+        
+            <li><a href="/index/dictionnaires/francais">francais</a></li>
+        
+            <li><a href="/index/dictionnaires/francais/w/1">w</a></li>
+        
+            <li><a href="/index/dictionnaires/francais/w/1">1</a></li>
+        
+        </ol>
+    </section>
+    
+        
+    <section class="content olf">
+        
+<ul>
+<li><a href="/dictionnaires/francais/W/82671">W. </a></li>
+<li><a href="/dictionnaires/francais/w/82670">w n.m. </a></li>
+<li><a href="/dictionnaires/francais/wad/82672">wad n.m. </a></li>
+<li><a href="/dictionnaires/francais/wadden/82673">wadden n.m. inv. </a></li>
+<li><a href="/dictionnaires/francais/waders/82674">waders n.m. pl. </a></li>
+<li><a href="/dictionnaires/francais/wading/82675">wading n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagage/82676">wagage n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagn%C3%A9rien_wagn%C3%A9rienne/82677">wagnérien adj. et n. </a></li>
+<li><a href="/dictionnaires/francais/wagn%C3%A9risme/82678">wagnérisme n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagn%C3%A9rite/82679">wagnérite n.f. </a></li>
+<li><a href="/dictionnaires/francais/wagon/82680">wagon n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagon%2Dbar_wagons%2Dbars/82681">wagon-bar n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagon%2Dciterne_wagons%2Dciternes/82682">wagon-citerne n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagon%2D%C3%A9curie_wagons%2D%C3%A9curies/82683">wagon-écurie n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagon%2Dfoudre_wagons%2Dfoudres/82684">wagon-foudre n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagon%2Dlit_wagons%2Dlits/82685">wagon-lit n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagonnet/82686">wagonnet n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagonnette/10910037">wagonnette n.f. </a></li>
+<li><a href="/dictionnaires/francais/wagon%2Dposte_wagons%2Dposte/82687">wagon-poste n.m. </a></li/li>
+<li><a href="/dictionnaires/francais/wadden/82673">wadden n.m. inv. </a></li>
+<li><a href="/dictionnaires/francais/waders/82674">waders n.m. pl. </a></li>
+<li><a href="/dictionnaires/francais/wading/82675">wading n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagage/82676">wagage n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagn%C3%A9rien_wagn%C3%A9rienne/82677">wagnérien adj. et n. </a></li>
+<li><a href="/dictionnaires/francais/wagn%C3%A9risme/82678">wagnérisme n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagn%C3%A9rite/82679">wagnérite n.f. </a></li>
+<li><a href="/dictionnaires/francais/wagon/82680">wagon n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagon%2Dbar_wagons%2Dbars/82681">wagon-bar n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagon%2Dciterne_wagons%2Dciternes/82682">wagon-citerne n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagon%2D%C3%A9curie_wagons%2D%C3%A9curies/82683">wagon-écurie n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagon%2Dfoudre_wagons%2Dfoudres/82684">wagon-foudre n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagon%2Dlit_wagons%2Dlits/82685">wagon-lit n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagonnet/82686">wagonnet n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagonnette/10910037">wagonnette n.f. </a></li>
+<li><a href="/dictionnaires/francais/wagon%2Dposte_wagons%2Dposte/82687">wagon-poste n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagon%2Drestaurant_wagons%2Drestaurants/82688">wagon-restaurant n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagon%2Dtombereau_wagons%2Dtombereaux/82689">wagon-tombereau n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagon%2Dtr%C3%A9mie_wagons%2Dtr%C3%A9mies/82690">wagon-trémie n.m. </a></li>
+<li><a href="/dictionnaires/francais/wahhabisme/82691">wahhabisme n.m. </a></li>
+<li><a href="/dictionnaires/francais/wahhabite/82692">wahhabite adj. et n. </a></li>
+<li><a href="/dictionnaires/francais/WAIS/10910725">WAIS. </a></li>
+<li><a href="/dictionnaires/francais/wait_and_see/82693">wait and see. </a></li>
+<li><a href="/dictionnaires/francais/waka/82694">waka n.m. </a></li>
+<li><a href="/dictionnaires/francais/wakam%C3%A9/186861"><B>wakamé</B> n.m. </a></li>
+<li><a href="/dictionnaires/francais/wakash/82695">wakash n.m. </a></li>
+<li><a href="/dictionnaires/francais/wakeboard/10910269">wakeboard n.m. </a></li>
+<li><a href="/dictionnaires/francais/maladie_de_Waldenstr%C3%B6m/10910726">Waldenström (maladie de). </a></li>
+<li><a href="/dictionnaires/francais/wali/82696">wali n.m. </a></li>
+<li><a href="/dictionnaires/francais/walkie%2Dtalkie_walkies%2Dtalkies/82697">walkie-talkie n.m. </a></li>
+<li><a href="/dictionnaires/francais/Walkman/82698">Walkman n.m. </a></li>
+<li><a href="/dictionnaires/francais/walk%2Dover/82699">walk-over n.m. inv. </a></li>
+<li><a href="/dictionnaires/francais/wallaby_wallabies/82700">wallaby n.m. </a></li>
+<li><a href="/dictionnaires/francais/wall%C3%A9rien_wall%C3%A9rienne/82701">wallérien adj. </a></li>
+<li><a href="/dictionnaires/francais/wallingant_wallingante/82702">wallingant adj. et n. </a></li>
+<li><a href="/dictionnaires/francais/wallisien_wallisienne/82703">wallisien adj. et n. </a></li>
+<li><a href="/dictionnaires/francais/wallon/82705">wallon n.m. </a></li>
+<li><a href="/dictionnaires/francais/wallon_wallonne/82704">wallon adj. et n. </a></li>
+<li><a href="/dictionnaires/francais/wallonisme/82706">wallonisme n.m. </a></li>
+<li><a href="/dictionnaires/francais/wampum/82707">wampum n.m. </a></li>
+<li><a href="/dictionnaires/francais/waouh/186862"><B>waouh</B> interj. </a></li>
+<li><a href="/dictionnaires/francais/WAP/82708">WAP n.m. inv. </a></li>
+<li><a href="/dictionnaires/francais/waqf/10910727">waqf. </a></li>
+<li><a href="/dictionnaires/francais/commande_Ward%2DL%C3%A9onard/82710">Ward-Léonard (commande). </a></li>
+<li><a href="/dictionnaires/francais/wargame/82711">wargame n.m. </a></li>
+<li><a href="/dictionnaires/francais/warning/82712">warning n.m. </a></li>
+<li><a href="/dictionnaires/francais/warrant/82713">warrant n.m. </a></li>
+<li><a href="/dictionnaires/francais/warrantage/82714">warrantage n.m. </a></li>
+<li><a href="/dictionnaires/francais/warranter/82715">warranter v.t. </a></li>
+<li><a href="/dictionnaires/francais/warwickite/82716">warwickite n.f. </a></li>
+<li><a href="/dictionnaires/francais/wash_and_wear/82717">wash and wear adj. inv. </a></li>
+<li><a href="/dictionnaires/francais/washingtonia/82718">washingtonia n.m. </a></li>
+<li><a href="/dictionnaires/francais/wash%2Dprimer/82719">wash-primer n.m. inv. </a></li>
+<li><a href="/dictionnaires/francais/WASP/82720">WASP adj. et n. inv. </a></li>
+<li><a href="/dictionnaires/francais/wassingue/82721">wassingue n.f. </a></li>
+<li><a href="/dictionnaires/francais/wastringue/82722">wastringue n.m. </a></li>
+<li><a href="/dictionnaires/francais/water%2Dcloset_water%2Dclosets/82723">water-closet n.m. </a></li>
+<li><a href="/dictionnaires/francais/water%2Dflooding/82724">water-flooding n.m. </a></li>
+<li><a href="/dictionnaires/francais/watergang/82725">watergang n.m. </a></li>
+<li><a href="/dictionnaires/francais/wateringue/82726">wateringue n.f. </a></li>
+<li><a href="/dictionnaires/francais/water%2Djacket_water%2Djackets/82727">water-jacket n.m. </a></li>
+<li><a href="/dictionnaires/francais/water%2Dpolo_water%2Dpolos/82728">water-polo n.m. </a></li>
+<li><a href="/dictionnaires/francais/waterproof/82729">waterproof adj. inv. </a></li>
+<li><a href="/dictionnaires/francais/waters/82730">waters n.m. pl. </a></li>
+<li><a href="/dictionnaires/francais/waterzo%C3%AF/82731">waterzoï n.m. </a></li>
+<li><a href="/dictionnaires/francais/watsonia/82732">watsonia n.m. </a></li>
+<li><a href="/dictionnaires/francais/watt/82733">watt n.m. </a></li>
+<li><a href="/dictionnaires/francais/watt%C3%A9_watt%C3%A9e/82734">watté adj. </a></li>
+<li><a href="/dictionnaires/francais/wattheure/82735">wattheure n.m. </a></li>
+<li><a href="/dictionnaires/francais/wattheurem%C3%A8tre/82736">wattheuremètre n.m. </a></li>
+<li><a href="/dictionnaires/francais/wattman_wattmen/82737">wattman n.m. </a></li>
+<li><a href="/dictionnaires/francais/wattm%C3%A8tre/82738">wattmètre n.m. </a></li>
+<li><a href="/dictionnaires/francais/wavellite/82739">wavellite n.f. </a></li>
+<li><a href="/dictionnaires/francais/wa%2Dwa/82740">wa-wa adj. inv. </a></li>
+<li><a href="/dictionnaires/francais/wax/82741">wax n.m. </a></li>
+<li><a href="/dictionnaires/francais/wayang/82742">wayang n.m. </a></li>
+<li><a href="/dictionnaires/francais/Wb/82743">Wb. </a></li>
+<li><a href="/dictionnaires/francais/W_%2DC_/82744">W.-C. n.m. </a></li>
+<li><a href="/dictionnaires/francais/W_%2DC_/82745">W.-C. n.m. pl.  </a></li>
+<li><a href="/dictionnaires/francais/wealdien/82746">wealdien n.m. </a></li>
+<li><a href="/dictionnaires/francais/Web/82747">Web n.m. </a></li>
+<li><a href="/dictionnaires/francais/webcam/82748">webcam n.f. </a></li>
+<li><a href="/dictionnaires/francais/webcam%C3%A9ra/82749">webcaméra n.f. </a></li>
+<li><a href="/dictionnaires/francais/weber/82750">weber n.m. </a></li>
+<li><a href="/dictionnaires/francais/weblog/10910118">weblog n.m. </a></li>
+<li><a href="/dictionnaires/francais/webmestre/82751">webmestre n. </a></li>
+<li><a href="/dictionnaires/francais/webographie/186863"><B>webographie</B> n.f. </a></li>
+<li><a href="/dictionnaires/francais/webradio/10910454">webradio n.f. </a></li>
+<li><a href="/dictionnaires/francais/webst%C3%A9rite/82752">webstérite n.f. </a></li>
+<li><a href="/dictionnaires/francais/webt%C3%A9l%C3%A9/10910455">webtélé n.f. </a></li>
+<li><a href="/dictionnaires/francais/webzine/10910456">webzine n.m. </a></li>
+<li><a href="/dictionnaires/francais/weeder/82753">weeder n.m. </a></li>
+<li><a href="/dictionnaires/francais/week%2Dend_week%2Dends/82754">week-end n.m. </a></li>
+<li><a href="/dictionnaires/francais/wehnelt/82755">wehnelt n.m. </a></li>
+<li><a href="/dictionnaires/francais/weichi/82756">weichi n.m. </a></li>
+<li><a href="/dictionnaires/francais/maladie_de_Weir_Mitchell/82757">Weir Mitchell (maladie de). </a></li>
+<li><a href="/dictionnaires/francais/wellingtonia/82758">wellingtonia n.m. </a></li>
+<li><a href="/dictionnaires/francais/welsh/82759">welsh n.m. </a></li>
+<li><a href="/dictionnaires/francais/welsh_rare_bit_welsh_rare_bits/82760">welsh rare bit n.m. </a></li>
+<li><a href="/dictionnaires/francais/welsh%2Dspringer_welsh%2Dspringers/82761">welsh-springer n.m. </a></li>
+<li><a href="/dictionnaires/francais/welsh%2Dterrier_welsh%2Dterriers/82762">welsh-terrier n.m. </a></li>
+<li><a href="/dictionnaires/francais/welter/82763">welter n.m. et adj. </a></li>
+<li><a href="/dictionnaires/francais/welwitschia/82764">welwitschia n.m. </a></li>
+<li><a href="/dictionnaires/francais/wende/82765">wende n.m. </a></li>
+<li><a href="/dictionnaires/francais/weng%C3%A9/10910352">wengé n.m. </a></li>
+<li><a href="/dictionnaires/francais/wenlockien/82766">wenlockien n.m. </a></li>
+<li><a href="/dictionnaires/francais/wenren_hua/10910728">wenren hua. </a></li>
+<li><a href="/dictionnaires/francais/werf%C3%A9nien/82767">werfénien n.m. </a></li>
+<li><a href="/dictionnaires/francais/wergeld/82768">wergeld n.m. </a></li>
+<li><a href="/dictionnaires/francais/wern%C3%A9rite/82769">wernérite n.f. </a></li>
+<li><a href="/dictionnaires/francais/op%C3%A9ration_de_Wertheim/82770">Wertheim (opération de). </a></li>
+<li><a href="/dictionnaires/francais/westerlies/82771">westerlies n.m. pl. </a></li>
+<li><a href="/dictionnaires/francais/western/82772">western n.m. </a></li>
+<li><a href="/dictionnaires/francais/western/82773">western adj. </a></li>
+<li><a href="/dictionnaires/francais/western%2Dspaghetti_westerns%2Dspaghettis/82774">western-spaghetti n.m. </a></li>
+<li><a href="/dictionnaires/francais/race_des_West%2DHighlands/82775">West-Highlands (race des). </a></li>
+<li><a href="/dictionnaires/francais/westique/82776">westique n.m. </a></li>
+<li><a href="/dictionnaires/francais/pile_Weston/82777">Weston (pile). </a></li>
+<li><a href="/dictionnaires/francais/westphalien/82779">westphalien n.m. </a></li>
+<li><a href="/dictionnaires/francais/westphalien_westphalienne/82778">westphalien adj. et n. </a></li>
+<li><a href="/dictionnaires/francais/wetback/82780">wetback n.m. </a></li>
+<li><a href="/dictionnaires/francais/Wh/82781">Wh. </a></li>
+<li><a href="/dictionnaires/francais/wharf/82782">wharf n.m. </a></li>
+<li><a href="/dictionnaires/francais/canal_de_Wharton/82783">Wharton (canal de). </a></li>
+<li><a href="/dictionnaires/francais/whewellite/82784">whewellite n.f. </a></li>
+<li><a href="/dictionnaires/francais/whig/82785">whig n. </a></li>
+<li><a href="/dictionnaires/francais/whig/82786">whig adj. </a></li>
+<li><a href="/dictionnaires/francais/whip/82787">whip n.m. </a></li>
+<li><a href="/dictionnaires/francais/whipcord/82788">whipcord n.m. </a></li>
+<li><a href="/dictionnaires/francais/whippet/82789">whippet n.m. </a></li>
+<li><a href="/dictionnaires/francais/whisker/82790">whisker n.m. </a></li>
+<li><a href="/dictionnaires/francais/whiskey/82791">whiskey n.m. </a></li>
+<li><a href="/dictionnaires/francais/whisky_whiskys/82792">whisky n.m. </a></li>
+<li><a href="/dictionnaires/francais/whist/82793">whist n.m. </a></li>
+<li><a href="/dictionnaires/francais/white%2Dspirit/82794">white-spirit n.m. </a></li>
+<li><a href="/dictionnaires/francais/Who_s_Who%C2%A0_/10910729">Who's Who ? </a></li>
+<li><a href="/dictionnaires/francais/widget/186864"><B>widget</B> n.m. </a></li>
+<li><a href="/dictionnaires/francais/wienerli/82795">wienerli n.m. </a></li>
+<li><a href="/dictionnaires/francais/wi-fi/10910038">wi-fi n.m. inv. </a></li>
+<li><a href="/dictionnaires/francais/wigwam/82796">wigwam n.m. </a></li>
+<li><a href="/dictionnaires/francais/wiki/186865"><B>wiki</B> n.m. </a></li>
+<li><a href="/dictionnaires/francais/wilaya/82797">wilaya n.f. </a></li>
+<li><a href="/dictionnaires/francais/will%C3%A9mite/82798">willémite n.f. </a></li>
+<li><a href="/dictionnaires/francais/Williamine/82800">Williamine n.f. </a></li>
+<li><a href="/dictionnaires/francais/williams/82799">williams n.f. </a></li>
+<li><a href="/dictionnaires/francais/maladie_de_Wilson/82801">Wilson (maladie de). </a></li>
+<li><a href="/dictionnaires/francais/Wimax/10910457">Wimax n.m. inv. </a></li>
+<li><a href="/dictionnaires/francais/winch_winchs/82802">winch n.m. </a></li>
+<li><a href="/dictionnaires/francais/Winchester/82803">Winchester n.f. </a></li>
+<li><a href="/dictionnaires/francais/syst%C3%A8me_Windows/10910039">Windows (système). </a></li>
+<li><a href="/dictionnaires/francais/windows/82804">windows n.f. pl. </a></li>
+<li><a href="/dictionnaires/francais/Windsurf/82805">Windsurf n.m. </a></li>
+<li><a href="/dictionnaires/francais/winglet/186866"><B>winglet</B> n.m. </a></li>
+<li><a href="/dictionnaires/francais/m%C3%A9thode_de_Winnetka/10910462">Wi>
+<li><a href="/dictionnaires/francais/wagon%2Drestaurant_wagons%2Drestaurants/82688">wagon-restaurant n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagon%2Dtombereau_wagons%2Dtombereaux/82689">wagon-tombereau n.m. </a></li>
+<li><a href="/dictionnaires/francais/wagon%2Dtr%C3%A9mie_wagons%2Dtr%C3%A9mies/82690">wagon-trémie n.m. </a></li>
+<li><a href="/dictionnaires/francais/wahhabisme/82691">wahhabisme n.m. </a></li>
+<li><a href="/dictionnaires/francais/wahhabite/82692">wahhabite adj. et n. </a></li>
+<li><a href="/dictionnaires/francais/WAIS/10910725">WAIS. </a></li>
+<li><a href="/dictionnaires/francais/wait_and_see/82693">wait and see. </a></li>
+<li><a href="/dictionnaires/francais/waka/82694">waka n.m. </a></li>
+<li><a href="/dictionnaires/francais/wakam%C3%A9/186861"><B>wakamé</B> n.m. </a></li>
+<li><a href="/dictionnaires/francais/wakash/82695">wakash n.m. </a></li>
+<li><a href="/dictionnaires/francais/wakeboard/10910269">wakeboard n.m. </a></li>
+<li><a href="/dictionnaires/francais/maladie_de_Waldenstr%C3%B6m/10910726">Waldenström (maladie de). </a></li>
+<li><a href="/dictionnaires/francais/wali/82696">wali n.m. </a></li>
+<li><a href="/dictionnaires/francais/walkie%2Dtalkie_walkies%2Dtalkies/82697">walkie-talkie n.m. </a></li>
+<li><a href="/dictionnaires/francais/Walkman/82698">Walkman n.m. </a></li>
+<li><a href="/dictionnaires/francais/walk%2Dover/82699">walk-over n.m. inv. </a></li>
+<li><a href="/dictionnaires/francais/wallaby_wallabies/82700">wallaby n.m. </a></li>
+<li><a href="/dictionnaires/francais/wall%C3%A9rien_wall%C3%A9rienne/82701">wallérien adj. </a></li>
+<li><a href="/dictionnaires/francais/wallingant_wallingante/82702">wallingant adj. et n. </a></li>
+<li><a href="/dictionnaires/francais/wallisien_wallisienne/82703">wallisien adj. et n. </a></li>
+<li><a href="/dictionnaires/francais/wallon/82705">wallon n.m. </a></li>
+<li><a href="/dictionnaires/francais/wallon_wallonne/82704">wallon adj. et n. </a></li>
+<li><a href="/dictionnaires/francais/wallonisme/82706">wallonisme n.m. </a></li>
+<li><a href="/dictionnaires/francais/wampum/82707">wampum n.m. </a></li>
+<li><a href="/dictionnaires/francais/waouh/186862"><B>waouh</B> interj. </a></li>
+<li><a href="/dictionnaires/francais/WAP/82708">WAP n.m. inv. </a></li>
+<li><a href="/dictionnaires/francais/waqf/10910727">waqf. </a></li>
+<li><a href="/dictionnaires/francais/commande_Ward%2DL%C3%A9onard/82710">Ward-Léonard (commande). </a></li>
+<li><a href="/dictionnaires/francais/wargame/82711">wargame n.m. </a></li>
+<li><a href="/dictionnaires/francais/warning/82712">warning n.m. </a></li>
+<li><a href="/dictionnaires/francais/warrant/82713">warrant n.m. </a></li>
+<li><a href="/dictionnaires/francais/warrantage/82714">warrantage n.m. </a></li>
+<li><a href="/dictionnaires/francais/warranter/82715">warranter v.t. </a></li>
+<li><a href="/dictionnaires/francais/warwickite/82716">warwickite n.f. </a></li>
+<li><a href="/dictionnaires/francais/wash_and_wear/82717">wash and wear adj. inv. </a></li>
+<li><a href="/dictionnaires/francais/washingtonia/82718">washingtonia n.m. </a></li>
+<li><a href="/dictionnaires/francais/wash%2Dprimer/82719">wash-primer n.m. inv. </a></li>
+<li><a href="/dictionnaires/francais/WASP/82720">WASP adj. et n. inv. </a></li>
+<li><a href="/dictionnaires/francais/wassingue/82721">wassingue n.f. </a></li>
+<li><a href="/dictionnaires/francais/wastringue/82722">wastringue n.m. </a></li>
+<li><a href="/dictionnaires/francais/water%2Dcloset_water%2Dclosets/82723">water-closet n.m. </a></li>
+<li><a href="/dictionnaires/francais/water%2Dflooding/82724">water-flooding n.m. </a></li>
+<li><a href="/dictionnaires/francais/watergang/82725">watergang n.m. </a></li>
+<li><a href="/dictionnaires/francais/wateringue/82726">wateringue n.f. </a></li>
+<li><a href="/dictionnaires/francais/water%2Djacket_water%2Djackets/82727">water-jacket n.m. </a></li>
+<li><a href="/dictionnaires/francais/water%2Dpolo_water%2Dpolos/82728">water-polo n.m. </a></li>
+<li><a href="/dictionnaires/francais/waterproof/82729">waterproof adj. inv. </a></li>
+<li><a href="/dictionnaires/francais/waters/82730">waters n.m. pl. </a></li>
+<li><a href="/dictionnaires/francais/waterzo%C3%AF/82731">waterzoï n.m. </a></li>
+<li><a href="/dictionnaires/francais/watsonia/82732">watsonia n.m. </a></li>
+<li><a href="/dictionnaires/francais/watt/82733">watt n.m. </a></li>
+<li><a href="/dictionnaires/francais/watt%C3%A9_watt%C3%A9e/82734">watté adj. </a></li>
+<li><a href="/dictionnaires/francais/wattheure/82735">wattheure n.m. </a></li>
+<li><a href="/dictionnaires/francais/wattheurem%C3%A8tre/82736">wattheuremètre n.m. </a></li>
+<li><a href="/dictionnaires/francais/wattman_wattmen/82737">wattman n.m. </a></li>
+<li><a href="/dictionnaires/francais/wattm%C3%A8tre/82738">wattmètre n.m. </a></li>
+<li><a href="/dictionnaires/francais/wavellite/82739">wavellite n.f. </a></li>
+<li><a href="/dictionnaires/francais/wa%2Dwa/82740">wa-wa adj. inv. </a></li>
+<li><a href="/dictionnaires/francais/wax/82741">wax n.m. </a></li>
+<li><a href="/dictionnaires/francais/wayang/82742">wayang n.m. </a></li>
+<li><a href="/dictionnaires/francais/Wb/82743">Wb. </a></li>
+<li><a href="/dictionnaires/francais/W_%2DC_/82744">W.-C. n.m. </a></li>
+<li><a href="/dictionnaires/francais/W_%2DC_/82745">W.-C. n.m. pl.  </a></li>
+<li><a href="/dictionnaires/francais/wealdien/82746">wealdien n.m. </a></li>
+<li><a href="/dictionnaires/francais/Web/82747">Web n.m. </a></li>
+<li><a href="/dictionnaires/francais/webcam/82748">webcam n.f. </a></li>
+<li><a href="/dictionnaires/francais/webcam%C3%A9ra/82749">webcaméra n.f. </a></li>
+<li><a href="/dictionnaires/francais/weber/82750">weber n.m. </a></li>
+<li><a href="/dictionnaires/francais/weblog/10910118">weblog n.m. </a></li>
+<li><a href="/dictionnaires/francais/webmestre/82751">webmestre n. </a></li>
+<li><a href="/dictionnaires/francais/webographie/186863"><B>webographie</B> n.f. </a></li>
+<li><a href="/dictionnaires/francais/webradio/10910454">webradio n.f. </a></li>
+<li><a href="/dictionnaires/francais/webst%C3%A9rite/82752">webstérite n.f. </a></li>
+<li><a href="/dictionnaires/francais/webt%C3%A9l%C3%A9/10910455">webtélé n.f. </a></li>
+<li><a href="/dictionnaires/francais/webzine/10910456">webzine n.m. </a></li>
+<li><a href="/dictionnaires/francais/weeder/82753">weeder n.m. </a></li>
+<li><a href="/dictionnaires/francais/week%2Dend_week%2Dends/82754">week-end n.m. </a></li>
+<li><a href="/dictionnaires/francais/wehnelt/82755">wehnelt n.m. </a></li>
+<li><a href="/dictionnaires/francais/weichi/82756">weichi n.m. </a></li>
+<li><a href="/dictionnaires/francais/maladie_de_Weir_Mitchell/82757">Weir Mitchell (maladie de). </a></li>
+<li><a href="/dictionnaires/francais/wellingtonia/82758">wellingtonia n.m. </a></li>
+<li><a href="/dictionnaires/francais/welsh/82759">welsh n.m. </a></li>
+<li><a href="/dictionnaires/francais/welsh_rare_bit_welsh_rare_bits/82760">welsh rare bit n.m. </a></li>
+<li><a href="/dictionnaires/francais/welsh%2Dspringer_welsh%2Dspringers/82761">welsh-springer n.m. </a></li>
+<li><a href="/dictionnaires/francais/welsh%2Dterrier_welsh%2Dterriers/82762">welsh-terrier n.m. </a></li>
+<li><a href="/dictionnaires/francais/welter/82763">welter n.m. et adj. </a></li>
+<li><a href="/dictionnaires/francais/welwitschia/82764">welwitschia n.m. </a></li>
+<li><a href="/dictionnaires/francais/wende/82765">wende n.m. </a></li>
+<li><a href="/dictionnaires/francais/weng%C3%A9/10910352">wengé n.m. </a></li>
+<li><a href="/dictionnaires/francais/wenlockien/82766">wenlockien n.m. </a></li>
+<li><a href="/dictionnaires/francais/wenren_hua/10910728">wenren hua. </a></li>
+<li><a href="/dictionnaires/francais/werf%C3%A9nien/82767">werfénien n.m. </a></li>
+<li><a href="/dictionnaires/francais/wergeld/82768">wergeld n.m. </a></li>
+<li><a href="/dictionnaires/francais/wern%C3%A9rite/82769">wernérite n.f. </a></li>
+<li><a href="/dictionnaires/francais/op%C3%A9ration_de_Wertheim/82770">Wertheim (opération de). </a></li>
+<li><a href="/dictionnaires/francais/westerlies/82771">westerlies n.m. pl. </a></li>
+<li><a href="/dictionnaires/francais/western/82772">western n.m. </a></li>
+<li><a href="/dictionnaires/francais/western/82773">western adj. </a></li>
+<li><a href="/dictionnaires/francais/western%2Dspaghetti_westerns%2Dspaghettis/82774">western-spaghetti n.m. </a></li>
+<li><a href="/dictionnaires/francais/race_des_West%2DHighlands/82775">West-Highlands (race des). </a></li>
+<li><a href="/dictionnaires/francais/westique/82776">westique n.m. </a></li>
+<li><a href="/dictionnaires/francais/pile_Weston/82777">Weston (pile). </a></li>
+<li><a href="/dictionnaires/francais/westphalien/82779">westphalien n.m. </a></li>
+<li><a href="/dictionnaires/francais/westphalien_westphalienne/82778">westphalien adj. et n. </a></li>
+<li><a href="/dictionnaires/francais/wetback/82780">wetback n.m. </a></li>
+<li><a href="/dictionnaires/francais/Wh/82781">Wh. </a></li>
+<li><a href="/dictionnaires/francais/wharf/82782">wharf n.m. </a></li>
+<li><a href="/dictionnaires/francais/canal_de_Wharton/82783">Wharton (canal de). </a></li>
+<li><a href="/dictionnaires/francais/whewellite/82784">whewellite n.f. </a></li>
+<li><a href="/dictionnaires/francais/whig/82785">whig n. </a></li>
+<li><a href="/dictionnaires/francais/whig/82786">whig adj. </a></li>
+<li><a href="/dictionnaires/francais/whip/82787">whip n.m. </a></li>
+<li><a href="/dictionnaires/francais/whipcord/82788">whipcord n.m. </a></li>
+<li><a href="/dictionnaires/francais/whippet/82789">whippet n.m. </a></li>
+<li><a href="/dictionnaires/francais/whisker/82790">whisker n.m. </a></li>
+<li><a href="/dictionnaires/francais/whiskey/82791">whiskey n.m. </a></li>
+<li><a href="/dictionnaires/francais/whisky_whiskys/82792">whisky n.m. </a></li>
+<li><a href="/dictionnaires/francais/whist/82793">whist n.m. </a></li>
+<li><a href="/dictionnaires/francais/white%2Dspirit/82794">white-spirit n.m. </a></li>
+<li><a href="/dictionnaires/francais/Who_s_Who%C2%A0_/10910729">Who's Who ? </a></li>
+<li><a href="/dictionnaires/francais/widget/186864"><B>widget</B> n.m. </a></li>
+<li><a href="/dictionnaires/francais/wienerli/82795">wienerli n.m. </a></li>
+<li><a href="/dictionnaires/francais/wi-fi/10910038">wi-fi n.m. inv. </a></li>
+<li><a href="/dictionnaires/francais/wigwam/82796">wigwam n.m. </a></li>
+<li><a href="/dictionnaires/francais/wiki/186865"><B>wiki</B> n.m. </a></li>
+<li><a href="/dictionnaires/francais/wilaya/82797">wilaya n.f. </a></li>
+<li><a href="/dictionnaires/francais/will%C3%A9mite/82798">willémite n.f. </a></li>
+<li><a href="/dictionnaires/francais/Williamine/82800">Williamine n.f. </a></li>
+<li><a href="/dictionnaires/francais/williams/82799">williams n.f. </a></li>
+<li><a href="/dictionnaires/francais/maladie_de_Wilson/82801">Wilson (maladie de). </a></li>
+<li><a href="/dictionnaires/francais/Wimax/10910457">Wimax n.m. inv. </a></li>
+<li><a href="/dictionnaires/francais/winch_winchs/82802">winch n.m. </a></li>
+<li><a href="/dictionnaires/francais/Winchester/82803">Winchester n.f. </a></li>
+<li><a href="/dictionnaires/francais/syst%C3%A8me_Windows/10910039">Windows (système). </a></li>
+<li><a href="/dictionnaires/francais/windows/82804">windows n.f. pl. </a></li>
+<li><a href="/dictionnaires/francais/Windsurf/82805">Windsurf n.m. </a></li>
+<li><a href="/dictionnaires/francais/winglet/186866"><B>winglet</B> n.m. </a></li>
+<li><a href="/dictionnaires/francais/m%C3%A9thode_de_Winnetka/10910462">Winnetka (méthode de). </a></li>
+<li><a href="/dictionnaires/francais/%C3%A9corce_de_Winter/82806">Winter (écorce de). </a></li>
+<li><a href="/dictionnaires/francais/winteranac%C3%A9e/82807">winteranacée n.f. </a></li>
+<li><a href="/dictionnaires/francais/wintergreen/82808">wintergreen n.m. </a></li>
+<li><a href="/dictionnaires/francais/wint%C3%A9risation/82809">wintérisation n.f. </a></li>
+<li><a href="/dictionnaires/francais/canal_de_Wirsung/10910730">Wirsung (canal de). </a></li>
+<li><a href="/dictionnaires/francais/WISC/82810">WISC. </a></li>
+<li><a href="/dictionnaires/francais/wishbone/82811">wishbone n.m. </a></li>
+<li><a href="/dictionnaires/francais/wisigothique/82812">wisigothique adj. </a></li>
+<li><a href="/dictionnaires/francais/syndrome_de_Wiskott%2DAldrich/82813">Wiskott-Aldrich (syndrome de). </a></li>
+<li><a href="/dictionnaires/francais/wit/10910364">wit n.m. </a></li>
+<li><a href="/dictionnaires/francais/witenagemot/82814">witenagemot n.m. </a></li>
+<li><a href="/dictionnaires/francais/with%C3%A9rite/82815">withérite n.f. </a></li>
+<li><a href="/dictionnaires/francais/witloof/82816">witloof n.f. </a></li>
+<li><a href="/dictionnaires/francais/witz/82817">witz n.m. </a></li>
+<li><a href="/dictionnaires/francais/indice_de_Wobbe/10910731">Wobbe (indice de). </a></li>
+<li><a href="/dictionnaires/francais/wohlfahrtia/82818">wohlfahrtia n.f. </a></li>
+<li><a href="/dictionnaires/francais/wok/8nnetka (méthode de). </a></li>
+<li><a href="/dictionnaires/francais/%C3%A9corce_de_Winter/82806">Winter (écorce de). </a></li>
+<li><a href="/dictionnaires/francais/winteranac%C3%A9e/82807">winteranacée n.f. </a></li>
+<li><a href="/dictionnaires/francais/wintergreen/82808">wintergreen n.m. </a></li>
+<li><a href="/dictionnaires/francais/wint%C3%A9risation/82809">wintérisation n.f. </a></li>
+<li><a href="/dictionnaires/francais/canal_de_Wirsung/10910730">Wirsung (canal de). </a></li>
+<li><a href="/dictionnaires/francais/WISC/82810">WISC. </a></li>
+<li><a href="/dictionnaires/francais/wishbone/82811">wishbone n.m. </a></li>
+<li><a href="/dictionnaires/francais/wisigothique/82812">wisigothique adj. </a></li>
+<li><a href="/dictionnaires/francais/syndrome_de_Wiskott%2DAldrich/82813">Wiskott-Aldrich (syndrome de). </a></li>
+<li><a href="/dictionnaires/francais/wit/10910364">wit n.m. </a></li>
+<li><a href="/dictionnaires/francais/witenagemot/82814">witenagemot n.m. </a></li>
+<li><a href="/dictionnaires/francais/with%C3%A9rite/82815">withérite n.f. </a></li>
+<li><a href="/dictionnaires/francais/witloof/82816">witloof n.f. </a></li>
+<li><a href="/dictionnaires/francais/witz/82817">witz n.m. </a></li>
+<li><a href="/dictionnaires/francais/indice_de_Wobbe/10910731">Wobbe (indice de). </a></li>
+<li><a href="/dictionnaires/francais/wohlfahrtia/82818">wohlfahrtia n.f. </a></li>
+<li><a href="/dictionnaires/francais/wok/82819">wok n.m. </a></li>
+<li><a href="/dictionnaires/francais/canal_de_Wolff/10910732">Wolff (canal de). </a></li>
+<li><a href="/dictionnaires/francais/wolffia/82820">wolffia n.m. </a></li>
+<li><a href="/dictionnaires/francais/wolfram/82821">wolfram n.m. </a></li>
+<li><a href="/dictionnaires/francais/wolframate/82822">wolframate n.m. </a></li>
+<li><a href="/dictionnaires/francais/wollastonite/82823">wollastonite n.f. </a></li>
+<li><a href="/dictionnaires/francais/wolof/56900">wolof n.m. </a></li>
+<li><a href="/dictionnaires/francais/wombat/82824">wombat n.m. </a></li>
+<li><a href="/dictionnaires/francais/won/82825">won n.m. </a></li>
+<li><a href="/dictionnaires/francais/alliage_de_Wood/82826">Wood (alliage de). </a></li>
+<li><a href="/dictionnaires/francais/woofer/82827">woofer n.m. </a></li>
+<li><a href="/dictionnaires/francais/Woolmark/186867"><B>Woolmark</B> n.f. </a></li>
+<li><a href="/dictionnaires/francais/acier_Wootz/82828">Wootz (acier). </a></li>
+<li><a href="/dictionnaires/francais/porcelaine_de_Worcester/10910733">Worcester (porcelaine de). </a></li>
+<li><a href="/dictionnaires/francais/workhouse/82829">workhouse n.m. </a></li>
+<li><a href="/dictionnaires/francais/workshop/82830">workshop n.m. </a></li>
+<li><a href="/dictionnaires/francais/world_music_world_musics/82831">world music n.f. </a></li>
+<li><a href="/dictionnaires/francais/World_Wide_Web/82832">World Wide Web n.m. inv. </a></li>
+<li><a2819">wok n.m. </a></li>
+<li><a href="/dictionnaires/francais/canal_de_Wolff/10910732">Wolff (canal de). </a></li>
+<li><a href="/dictionnaires/francais/wolffia/82820">wolffia n.m. </a></li>
+<li><a href="/dictionnaires/francais/wolfram/82821">wolfram n.m. </a></li>
+<li><a href="/dictionnaires/francais/wolframate/82822">wolframate n.m. </a></li>
+<li><a href="/dictionnaires/francais/wollastonite/82823">wollastonite n.f. </a></li>
+<li><a href="/dictionnaires/francais/wolof/56900">wolof n.m. </a></li>
+<li><a href="/dictionnaires/francais/wombat/82824">wombat n.m. </a></li>
+<li><a href="/dictionnaires/francais/won/82825">won n.m. </a></li>
+<li><a href="/dictionnaires/francais/alliage_de_Wood/82826">Wood (alliage de). </a></li>
+<li><a href="/dictionnaires/francais/woofer/82827">woofer n.m. </a></li>
+<li><a href="/dictionnaires/francais/Woolmark/186867"><B>Woolmark</B> n.f. </a></li>
+<li><a href="/dictionnaires/francais/acier_Wootz/82828">Wootz (acier). </a></li>
+<li><a href="/dictionnaires/francais/porcelaine_de_Worcester/10910733">Worcester (porcelaine de). </a></li>
+<li><a href="/dictionnaires/francais/workhouse/82829">workhouse n.m. </a></li>
+<li><a href="/dictionnaires/francais/workshop/82830">workshop n.m. </a></li>
+<li><a href="/dictionnaires/francais/world_music_world_musics/82831">world music n.f. </a></li>
+<li><a href="/dictionnaires/francais/World_Wide_Web/82832">World Wide Web n.m. inv. </a></li>
+<li><a href="/dictionnaires/francais/wormien/82833">wormien adj.m. </a></li>
+<li><a href="/dictionnaires/francais/worsted/82834">worsted n.m. </a></li>
+<li><a href="/dictionnaires/francais/wrapping/82835">wrapping n.m. </a></li>
+<li><a href="/dictionnaires/francais/syst%C3%A8me_Wright/82836">Wright (système). </a></li>
+<li><a href="/dictionnaires/francais/wu/82837">wu n.m. </a></li>
+<li><a href="/dictionnaires/francais/wuch%C3%A9reriose/82838">wuchéreriose n.f. </a></li>
+<li><a href="/dictionnaires/francais/wulf%C3%A9nite/82839">wulfénite n.f. </a></li>
+<li><a href="/dictionnaires/francais/w%C3%BCrm/82840">würm n.m. </a></li>
+<li><a href="/dictionnaires/francais/w%C3%BCrmien_w%C3%BCrmienne/82841">würmien adj. </a></li>
+</ul>
+
+
+    </section>
+    
+        
+    
+    <section class="pages olf">
+        <ol>
+    
+        <li class="sel"><a href="#1">1</a></li> 
+    
+        <li><a href="/index/dictionnaires/francais/w/2">2</a></li> 
+    
+        </ol>
+    </section>
+    
+    
+    
+    <div class="pub oasm"></div>
+
+    </div>
+
+        
+
+        
+        
+            
+            <div ID="gads-pub" class="gads pub970x90" data-client="ca-pub-4268982420376658" data-slot="4523353946" data-width="970" data-height="90"></div>
+
+            <div class="socialwrapper">
+                <div id="fb-root"></div>
+                <div class="facebook"><div class="fb-like-box" data-href="https://www.facebook.com/larousse.fr" data-width="390" data-height="246" data-show-faces="false" data-stream="true" data-header="false"></div></div>
+                <div class="googleplus"><div class="g-page" data-width="190" data-href="//plus.google.com/114879733152009050025" data-showtagline="false" data-showcoverphoto="false" data-rel="publisher"></div></div>
+                <div class="twitter"><a class="twitter-timeline" data-dnt="true" href="https://twitter.com/search?q=%40laroussecuisine" data-widget-id="352009878644072449">Tweets sur @laroussecuisine</a></div>
+            </div>
+        
+        
+        <footer id="footer" class="footerwrapper" role="contentinfo">
+            <a href="/index/dictionnaires/olf/w/1">Index</a>
+            <a href="/infos/charte">Charte d’utilisation</a>
+            <a href="/infos/credits">Crédits</a>
+            <a href="/infos/cgu">Conditions générales d’utilisation</a>
+            <a href="/infos/confidentialite">Charte de confidentialité</a>
+            <a href="/infos/cookies">Cookies</a>
+            <a href="/infos/contact">Nous contacter</a>
+            <a href="/infos/support">Support</a>
+            <a href="http://www.editions-larousse.fr">Le site des Éditions Larousse</a>
+            <a href="/infos/education">Larousse-edu.fr</a>
+            <span>&copy; Larousse</span>
+        </footer>
+    </div>
+    
+    
+</body>
+</html> href="/dictionnaires/francais/wormien/82833">wormien adj.m. </a></li>
+<li><a href="/dictionnaires/francais/worsted/82834">worsted n.m. </a></li>
+<li><a href="/dictionnaires/francais/wrapping/82835">wrapping n.m. </a></li>
+<li><a href="/dictionnaires/francais/syst%C3%A8me_Wright/82836">Wright (système). </a></li>
+<li><a href="/dictionnaires/francais/wu/82837">wu n.m. </a></li>
+<li><a href="/dictionnaires/francais/wuch%C3%A9reriose/82838">wuchéreriose n.f. </a></li>
+<li><a href="/dictionnaires/francais/wulf%C3%A9nite/82839">wulfénite n.f. </a></li>
+<li><a href="/dictionnaires/francais/w%C3%BCrm/82840">würm n.m. </a></li>
+<li><a href="/dictionnaires/francais/w%C3%BCrmien_w%C3%BCrmienne/82841">würmien adj. </a></li>
+</ul>
+
+
+    </section>
+    
+        
+    
+    <section class="pages olf">
+        <ol>
+    
+        <li class="sel"><a href="#1">1</a></li> 
+    
+        <li><a href="/index/dictionnaires/francais/w/2">2</a></li> 
+    
+        </ol>
+    </section>
+    
+    
+    
+    <div class="pub oasm"></div>
+
+    </div>
+
+        
+
+        
+        
+            
+            <div ID="gads-pub" class="gads pub970x90" data-client="ca-pub-4268982420376658" data-slot="4523353946" data-width="970" data-height="90"></div>
+
+            <div class="socialwrapper">
+                <div id="fb-root"></div>
+                <div class="facebook"><div class="fb-like-box" data-href="https://www.facebook.com/larousse.fr" data-width="390" data-height="246" data-show-faces="false" data-stream="true" data-header="false"></div></div>
+                <div class="googleplus"><div class="g-page" data-width="190" data-href="//plus.google.com/114879733152009050025" data-showtagline="false" data-showcoverphoto="false" data-rel="publisher"></div></div>
+                <div class="twitter"><a class="twitter-timeline" data-dnt="true" href="https://twitter.com/search?q=%40laroussecuisine" data-widget-id="352009878644072449">Tweets sur @laroussecuisine</a></div>
+            </div>
+        
+        
+        <footer id="footer" class="footerwrapper" role="contentinfo">
+            <a href="/index/dictionnaires/olf/w/1">Index</a>
+            <a href="/infos/charte">Charte d’utilisation</a>
+            <a href="/infos/credits">Crédits</a>
+            <a href="/infos/cgu">Conditions générales d’utilisation</a>
+            <a href="/infos/confidentialite">Charte de confidentialité</a>
+            <a href="/infos/cookies">Cookies</a>
+            <a href="/infos/contact">Nous contacter</a>
+            <a href="/infos/support">Support</a>
+            <a href="http://www.editions-larousse.fr">Le site des Éditions Larousse</a>
+            <a href="/infos/education">Larousse-edu.fr</a>
+            <span>&copy; Larousse</span>
+        </footer>
+    </div>
+    
+    
+</body>
+</html><!DOCTYPE html>
+<html lang="fr" itemscope itemtype="http://schema.org/WebPage">
+<head id="Head1" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#" lang="fr">
+    <!-- Larousse.fr, HLVELPDW1, 21/02/2018 17:59:39 -->
+    <meta charset="utf-8" /><meta name="author" content="Éditions Larousse" /><title>
+	Larousse.fr : encyclopédie et dictionnaires gratuits en ligne - Index - Dictionnaire de français
+</title>
+    <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    
+    <!-- REGIE PUB (Params, Habillage(body,oast,oasm,...)) -->
+    <script type="text/javascript">
+        var LAR_config = { "SAS_data": {"sitepage" : "www.larousse.fr/rg", "siteid" : "3598", "type_t" : "1", "type_m" : "2", "type_b" : "5"}, "ga": "UA-8359745-2"};   
+    </script>
+    <!-- call tag-pub body Master via ConfigRegie (specialO<!DOCTYPE html>
+<html lang="fr" itemscope itemtype="http://schema.org/WebPage">
+<head id="Head1" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#" lang="fr">
+    <!-- Larousse.fr, HLVELPDW1, 21/02/2018 17:59:39 -->
+    <meta charset="utf-8" /><meta name="author" content="Éditions Larousse" /><title>
+	Larousse.fr : encyclopédie et dictionnaires gratuits en ligne - Index - Dictionnaire de français
+</title>
+    <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    
+    <!-- REGIE PUB (Params, Habillage(body,oast,oasm,...)) -->
+    <script type="text/javascript">
+        var LAR_config = { "SAS_data": {"sitepage" : "www.larousse.fr/rg", "siteid" : "3598", "type_t" : "1", "type_m" : "2", "type_b" : "5"}, "ga": "UA-8359745-2"};   
+    </script>
+    <!-- call tag-pub body Master via ConfigRegie (specialOP)-->
+    <script type="text/javascript">
+        var script = document.createElement('script');
+        var s2ad_loaded = false;
+        script.type = 'text/javascript';
+        script.setAttribute("async", "async");
+        script.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//vw-sync2ad-delivery.s3.amazonaws.com/SDK-JS/1.0/release/1.0.3/sync2ad.js';
+        script.onreadystatechange = script.onload = function () {
+            if (!s2ad_loaded && (!script.readyState || /loaded|complete/.test(script.readyState))) {
+                s2ad_loaded = true;
+                Sync2Ad.start({
+                    endpoint: 'https://vw-sync2ad-prod.s3.amazonaws.com',                   //v.Mobile 
+                    //endpoint: 'https://vw-sync2ad-preprod-client.s3.amazonaws.com',       //v.Desktop
+                    siteId: 'larous'
+                });
+            }
+        };
+        document.getElementsByTagName('head')[0].appendChild(script);
+    </script>
+    <!-- call tag-pub bottom article -->
+    <script type="text/javascript" id="ean-native-embed-tag" src="//cdn.elasticad.net/native/serve/js/nativeEmbed.gz.js"></script>
+    
+    <link rel="stylesheet" type="text/css" media="screen" href="/menu/menu.201609200706.css" />
+    
+    <link rel="shortcut icon" href="/dictionnaires/assets/img/favicon.ico" />
+
+    
+    
+    
+    
+    
+    <link rel="stylesheet" href="/dictionnaires/assets/css/index.201701311232.css">  
+    <script src="/dictionnaires/assets/js/default.201701311232.js"></script>
+
+    
+    
+    <!--[if lte IE 7]><script src="/dictionnaires/assets/js/ie7-fallback.201701311232.js"></script><![endif]--> 
+
+
+    <style type="text/css" title="currentStyle">@import "http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.0/themes/redmond/jquery-ui.css";</style>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>
+<meta property="og:title" content="Larousse.fr : encyclopédie et dictionnaires gratuits en ligne - Index - Dictionnaire de français" />
+<meta itemprop="name" content="Larousse.fr : encyclopédie et dictionnaires gratuits en ligne - Index - Dictionnaire de français" />
+<meta name="description" content="Des dictionnaires et une encyclopédie gratuite." />
+<meta property="og:description" content="Des dictionnaires et une encyclopédie gratuite." />
+<meta itemprop="description" content="Des dictionnaires et une encyclopédie gratuite." />
+<link rel="canonical" href="http://www.larousse.fr/index/dictionnaires/olf/w/2" />
+<meta property="og:url" content="http://www.larousse.fr/index/dictionnaires/olf/w/2" />
+<meta itemprop="url" content="http://www.larousse.fr/index/dictionnaires/olf/w/2" />
+<meta name="robots" content="index,follow" />
+</head>
+<body  class="olf">
+    <div id="popinInfoCNIL" title="Information Cookies">
+        <p><b>En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de cookies pour vous proposer des publicités adaptées à vos centres
+        d’intérêts, réaliser des statistiques ainsi qu’interagir avec des réseaux sociaux.</b></p>
+        <p><a class="about-cookies" href="/infos/cookies">Pour en savoir plus et paramétrer les cookies </a></p>
+    </div>
+    <div id="cookie-banner"></div>
+    <div id="top">
+        <div id="innerTopDiv" class="inner-top">
+	
+            
+            <div class="social">
+                <div class="fb-follow" data-href="https://www.facebook.com/larousse.fr" data-layout="button" data-show-faces="false"></div>
+                <div class="tw-follow"><a class="twitter-follow-button"  href="https://twitter.com/Larousse_fr"  data-show-count ="false">Suivre @Larousse</a></div>
+            </div>
+
+            
+            <a href="http://www.editions-larousse.fr/actualites-larousse" class="newsletter">Lettre d’information</a>
+            
+            <nav class="lang fr" title="Choisissez votre langue d'interface">
+                <a href="http://www.larousse.fr/" class="fr">Français</a>
+                <a href="http://www.larousse.com/en/" class="en">Anglais</a>
+                <a href="http://www.larousse.com/es/" class="es">Espagnol</a>
+                <a href="http://www.larousse.com/de/" class="de">Allemand</a>
+                <a hrP)-->
+    <script type="text/javascript">
+        var script = document.createElement('script');
+        var s2ad_loaded = false;
+        script.type = 'text/javascript';
+        script.setAttribute("async", "async");
+        script.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//vw-sync2ad-delivery.s3.amazonaws.com/SDK-JS/1.0/release/1.0.3/sync2ad.js';
+        script.onreadystatechange = script.onload = function () {
+            if (!s2ad_loaded && (!script.readyState || /loaded|complete/.test(script.readyState))) {
+                s2ad_loaded = true;
+                Sync2Ad.start({
+                    endpoint: 'https://vw-sync2ad-prod.s3.amazonaws.com',                   //v.Mobile 
+                    //endpoint: 'https://vw-sync2ad-preprod-client.s3.amazonaws.com',       //v.Desktop
+                    siteId: 'larous'
+                });
+            }
+        };
+        document.getElementsByTagName('head')[0].appendChild(script);
+    </script>
+    <!-- call tag-pub bottom article -->
+    <script type="text/javascript" id="ean-native-embed-tag" src="//cdn.elasticad.net/native/serve/js/nativeEmbed.gz.js"></script>
+    
+    <link rel="stylesheet" type="text/css" media="screen" href="/menu/menu.201609200706.css" />
+    
+    <link rel="shortcut icon" href="/dictionnaires/assets/img/favicon.ico" />
+
+    
+    
+    
+    
+    
+    <link rel="stylesheet" href="/dictionnaires/assets/css/index.201701311232.css">  
+    <script src="/dictionnaires/assets/js/default.201701311232.js"></script>
+
+    
+    
+    <!--[if lte IE 7]><script src="/dictionnaires/assets/js/ie7-fallback.201701311232.js"></script><![endif]--> 
+
+
+    <style type="text/css" title="currentStyle">@import "http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.0/themes/redmond/jquery-ui.css";</style>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>
+<meta property="og:title" content="Larousse.fr : encyclopédie et dictionnaires gratuits en ligne - Index - Dictionnaire de français" />
+<meta itemprop="name" content="Larousse.fr : encyclopédie et dictionnaires gratuits en ligne - Index - Dictionnaire de français" />
+<meta name="description" content="Des dictionnaires et une encyclopédie gratuite." />
+<meta property="og:description" content="Des dictionnaires et une encyclopédie gratuite." />
+<meta itemprop="description" content="Des dictionnaires et une encyclopédie gratuite." />
+<link rel="canonical" href="http://www.larousse.fr/index/dictionnaires/olf/w/2" />
+<meta property="og:url" content="http://www.larousse.fr/index/dictionnaires/olf/w/2" />
+<meta itemprop="url" content="http://www.larousse.fr/index/dictionnaires/olf/w/2" />
+<meta name="robots" content="index,follow" />
+</head>
+<body  class="olf">
+    <div id="popinInfoCNIL" title="Information Cookies">
+        <p><b>En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de cookies pour vous proposer des publicités adaptées à vos centres
+        d’intérêts, réaliser des statistiques ainsi qu’interagir avec des réseaux sociaux.</b></p>
+        <p><a class="about-cookies" href="/infos/cookies">Pour en savoir plus et paramétrer les cookies </a></p>
+    </div>
+    <div id="cookie-banner"></div>
+    <div id="top">
+        <div id="innerTopDiv" class="inner-top">
+	
+            
+            <div class="social">
+                <div class="fb-follow" data-href="https://www.facebook.com/larousse.fr" data-layout="button" data-show-faces="false"></div>
+                <div class="tw-follow"><a class="twitter-follow-button"  href="https://twitter.com/Larousse_fr"  data-show-count ="false">Suivre @Larousse</a></div>
+            </div>
+
+            
+            <a href="http://www.editions-larousse.fr/actualites-larousse" class="newsletter">Lettre d’information</a>
+            
+            <nav class="lang fr" title="Choisissez votre langue d'interface">
+                <a href="http://www.larousse.fr/" class="fr">Français</a>
+                <a href="http://www.larousse.com/en/" class="en">Anglais</a>
+                <a href="http://www.larousse.com/es/" class="es">Espagnol</a>
+                <a href="http://www.larousse.com/de/" class="de">Allemand</a>
+                <a href="http://www.larousse.com/it/" class="it">Italien</a>
+            </nav>
+            
+            
+                <a href="/mon-compte/identifier" id="ca-connexion" class="ca-text">Identifiez-vous</a>
+                ou
+                <a href="/mon-compte/nouveau" class="ca-text">Créez un compte</a>
+            
+            
+            
+        
+</div>
+    </div>
+    <div id="page">
+        
+        <header id="header" role="banner">
+            <h1>
+                <a href="/dictionnaires/francais" title="Larousse.fr">Larousse</a> 
+                
+            </h1>
+            
+             <nav id="menu" role="navigation">
+	 <ul class="main">
+		<li class="home">
+			<h2><a href="/">Accueil</a></h2>
+		</li>
+		
+		<li class="olf">
+			<h2><a href="/dictionnaires/francais">Dictionnaires de français</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="/dictionnaires/francais"><b>Toute la langue française</b></a>
+					<ul class="menu-items">
+						<li class="big menu-dico_fr"><h3><a href="/dictionnaires/francais-monolingue">Dictionnaire de français</a></h3></li>
+						<li class="menu-dico_conjug"><h3><a href="/conjugaison">Conjugateur</a></h3></li>
+						<li class="menu-dico_correcteur"><h3><a href="/correcteur">Correcteur</a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="bil">
+			<h2><a href="/dictionnaires/bilingues">Dictionnaires bilingueef="http://www.larousse.com/it/" class="it">Italien</a>
+            </nav>
+            
+            
+                <a href="/mon-compte/identifier" id="ca-connexion" class="ca-text">Identifiez-vous</a>
+                ou
+                <a href="/mon-compte/nouveau" class="ca-text">Créez un compte</a>
+            
+            
+            
+        
+</div>
+    </div>
+    <div id="page">
+        
+        <header id="header" role="banner">
+            <h1>
+                <a href="/dictionnaires/francais" title="Larousse.fr">Larousse</a> 
+                
+            </h1>
+            
+             <nav id="menu" role="navigation">
+	 <ul class="main">
+		<li class="home">
+			<h2><a href="/">Accueil</a></h2>
+		</li>
+		
+		<li class="olf">
+			<h2><a href="/dictionnaires/francais">Dictionnaires de français</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="/dictionnaires/francais"><b>Toute la langue française</b></a>
+					<ul class="menu-items">
+						<li class="big menu-dico_fr"><h3><a href="/dictionnaires/francais-monolingue">Dictionnaire de français</a></h3></li>
+						<li class="menu-dico_conjug"><h3><a href="/conjugaison">Conjugateur</a></h3></li>
+						<li class="menu-dico_correcteur"><h3><a href="/correcteur">Correcteur</a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="bil">
+			<h2><a href="/dictionnaires/bilingues">Dictionnaires bilingues</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="/dictionnaires/bilingues-francais"><b>Français</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_fr_ang"><h3><a href="/dictionnaires/francais-anglais"><span>Dictionnaire</span> français anglais</a></h3></li>
+						<li class="menu-drap_fr_esp"><h3><a href="/dictionnaires/francais-espagnol"><span>Dictionnaire</span> français espagnol</a></h3></li>
+						<li class="menu-drap_fr_all"><h3><a href="/dictionnaires/francais-allemand"><span>Dictionnaire</span> français allemand</a></h3></li>
+						<li class="menu-drap_fr_ital"><h3><a href="/dictionnaires/francais-italien"><span>Dictionnaire</span> français italien</a></h3></li>
+						<li class="menu-drap_fr_ch"><h3><a href="/dictionnaires/francais-chinois"><span>Dictionnaire</span> français chinois</a></h3></li>
+						<li class="menu-drap_fr_ar"><h3><a href="/dictionnaires/francais-arabe"><span>Dictionnaire</span> français arabe</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/dictionnaires/anglais"><b>Anglais</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_ang_fr"><h3><a href="/dictionnaires/anglais-francais"><span>Dictionnaire</span> anglais français</a></h3></li>
+						<li class="menu-drap_ang_esp"><h3><a href="/dictionnaires/anglais-espagnol"><span>Dictionnaire</span> anglais espagnol</a></h3></li>
+						<li class="menu-drap_ang_all"><h3><a href="/dictionnaires/anglais-allemand"><span>Dictionnaire</span> anglais allemand</a></h3></li>
+						<li class="menu-drap_ang_ital"><h3><a href="/dictionnaires/anglais-italien"><span>Dictionnaire</span> anglais-italien</a></h3></li>
+						<li class="menu-gymglish_fr"><h3><a href="http://cours-anglais.larousse.fr/">Cours d'anglais</a></h3></li>
+						<li class="menu-guide_anglais"><h3><a href="/dictionnaires/guide/anglais">Guide de conversation<span> anglais</span></a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/dictionnaires/espagnol"><b>Espagnol</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_esp_fr"><h3><a href="/dictionnaires/espagnol-francais"><span>Dictionnaire</span> espagnol français</a></h3></li>
+						<li class="menu-drap_esp_ang"><h3><a href="/dictionnaires/espagnol-anglais"><span>Dictionnaire</span> espagnol anglais</a></h3></li>
+						<li class="menu-drap_esp_all"><h3><a href="/dictionnaires/espagnol-allemand"><span>Dictionnaire</span> espagnol allemand</a></h3></li>
+						<li class="menu-guide_espagnol"><h3><a href="/dictionnaires/guide/espagnol">Guide de conversation<span> espagnol</span></a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/dictionnaires/italien"><b>Italien</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_ital_fr"><h3><a href="/dictionnaires/italien-francais"><span>Dictionnaire</span> italien français</a></h3></li>
+						<li class="menu-drap_ital_ang"><h3><a href="/dictionnaires/italien-anglais"><span>Dictionnaire</span> italien anglais</a></h3></li>
+						<li class="menu-drap_ital_all"><h3><a href="/dictionnaires/italien-allemand"><span>Dictionnaire</span> italien allemand</a></h3></li>
+						<li class="menu-guide_italien"><h3><a href="/dictionnaires/guide/italien">Guide de conversation<span> italien</span></a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/dictionnaires/allemand"><b>Allemand</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_all_fr"><h3><a href="/dictionnaires/allemand-francais"><span>Dictionnaire</span> allemand français</a></h3></li>
+						<li class="menu-drap_all_ang"><h3><a href="/dictionnaires/allemand-anglais"><span>Dictionnaire</span> allemand anglais</a></h3></li>
+						<li class="menu-drap_all_esp"><h3><a href="/dictionnaires/allemand-espagnol"><span>Dictionnaire</span> allemand espagnol</a></h3></li>
+						<li class="menu-drap_all_ital"><h3><a href="/dictionnaires/allemand-italien"><span>Dictionnaire</span> allemand italien</a></h3></li>
+						<li class="menu-guide_allemand"><h3><a href="/dictionnaires/guide/allemand">Guide de conversation<span> allemand</span></a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="encyclo">
+			<h2><a href="/encyclopedie">Encyclopédie</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<b>Histoire et Politique</b>
+					<ul class="menu-items small">
+						<li class="menu-democratie"><h3><a href="/encyclopedie/divers/democratie/41420">Démocratie</a></h3></li>
+						<li class="menu-rome"><h3><a href="/encyclopedie/divers/Rome_antique/184811">Rome antique</a></h3></li>
+						<li class="menu-moyen-age"><h3><a href="/encyclopedie/divers/Moyen_age/184336">Moyen âge</a></h3></li>
+						<li class="menu-grandesdecouvertes"><h3><a href="/encyclopedie/divers/grandes_decouvertes/184101"><span>Les grandes</span> Découvertes</a></h3></li>
+						<li class="menu-louis14"><h3><a href="/encyclopedie/divers/Louis_XIV/184286">Louis XIV</a></h3></li>
+						<li class="menu-revolutionfr"><h3><a href="/encyclopedie/divers/Revolution_francaise/184321">La Révolution</a></h3></li>
+						<li class="menu-napoleon1"><h3><a href="/encyclopedie/divers/Napoleon_Ier/184359">Napoléon I<sup>er</sup></a></h3></li>
+						<li class="menu-premiereguerremondiale"><h3><a href="/encyclopedie/divers/Premiere_Guerre_mondiale/184616">Guerre 14-18</a></h3></li>
+						<li class="menu-secondeguerremondiale"><h3><a href="/encyclopedie/divers/Seconde_Guerre_mondiale/184615">Guerre 39-45</a></h3></li>
+						<li class="menu-resistance"><h3><a href="/encyclopedie/divers/Resistance/138691">La résistance</a></h3></li>
+						<li class="menu-decolonisation"><h3><a href="/encyclopedie/divers/decolonisation/184339">La décolonisation</a></h3></li>
+						<li class="menu-vreps</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="/dictionnaires/bilingues-francais"><b>Français</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_fr_ang"><h3><a href="/dictionnaires/francais-anglais"><span>Dictionnaire</span> français anglais</a></h3></li>
+						<li class="menu-drap_fr_esp"><h3><a href="/dictionnaires/francais-espagnol"><span>Dictionnaire</span> français espagnol</a></h3></li>
+						<li class="menu-drap_fr_all"><h3><a href="/dictionnaires/francais-allemand"><span>Dictionnaire</span> français allemand</a></h3></li>
+						<li class="menu-drap_fr_ital"><h3><a href="/dictionnaires/francais-italien"><span>Dictionnaire</span> français italien</a></h3></li>
+						<li class="menu-drap_fr_ch"><h3><a href="/dictionnaires/francais-chinois"><span>Dictionnaire</span> français chinois</a></h3></li>
+						<li class="menu-drap_fr_ar"><h3><a href="/dictionnaires/francais-arabe"><span>Dictionnaire</span> français arabe</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/dictionnaires/anglais"><b>Anglais</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_ang_fr"><h3><a href="/dictionnaires/anglais-francais"><span>Dictionnaire</span> anglais français</a></h3></li>
+						<li class="menu-drap_ang_esp"><h3><a href="/dictionnaires/anglais-espagnol"><span>Dictionnaire</span> anglais espagnol</a></h3></li>
+						<li class="menu-drap_ang_all"><h3><a href="/dictionnaires/anglais-allemand"><span>Dictionnaire</span> anglais allemand</a></h3></li>
+						<li class="menu-drap_ang_ital"><h3><a href="/dictionnaires/anglais-italien"><span>Dictionnaire</span> anglais-italien</a></h3></li>
+						<li class="menu-gymglish_fr"><h3><a href="http://cours-anglais.larousse.fr/">Cours d'anglais</a></h3></li>
+						<li class="menu-guide_anglais"><h3><a href="/dictionnaires/guide/anglais">Guide de conversation<span> anglais</span></a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/dictionnaires/espagnol"><b>Espagnol</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_esp_fr"><h3><a href="/dictionnaires/espagnol-francais"><span>Dictionnaire</span> espagnol français</a></h3></li>
+						<li class="menu-drap_esp_ang"><h3><a href="/dictionnaires/espagnol-anglais"><span>Dictionnaire</span> espagnol anglais</a></h3></li>
+						<li class="menu-drap_esp_all"><h3><a href="/dictionnaires/espagnol-allemand"><span>Dictionnaire</span> espagnol allemand</a></h3></li>
+						<li class="menu-guide_espagnol"><h3><a href="/dictionnaires/guide/espagnol">Guide de conversation<span> espagnol</span></a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/dictionnaires/italien"><b>Italien</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_ital_fr"><h3><a href="/dictionnaires/italien-francais"><span>Dictionnaire</span> italien français</a></h3></li>
+						<li class="menu-drap_ital_ang"><h3><a href="/dictionnaires/italien-anglais"><span>Dictionnaire</span> italien anglais</a></h3></li>
+						<li class="menu-drap_ital_all"><h3><a href="/dictionnaires/italien-allemand"><span>Dictionnaire</span> italien allemand</a></h3></li>
+						<li class="menu-guide_italien"><h3><a href="/dictionnaires/guide/italien">Guide de conversation<span> italien</span></a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/dictionnaires/allemand"><b>Allemand</b></a>
+					<ul class="menu-items">
+						<li class="menu-drap_all_fr"><h3><a href="/dictionnaires/allemand-francais"><span>Dictionnaire</span> allemand français</a></h3></li>
+						<li class="menu-drap_all_ang"><h3><a href="/dictionnaires/allemand-anglais"><span>Dictionnaire</span> allemand anglais</a></h3></li>
+						<li class="menu-drap_all_esp"><h3><a href="/dictionnaires/allemand-espagnol"><span>Dictionnaire</span> allemand espagnol</a></h3></li>
+						<li class="menu-drap_all_ital"><h3><a href="/dictionnaires/allemand-italien"><span>Dictionnaire</span> allemand italien</a></h3></li>
+						<li class="menu-guide_allemand"><h3><a href="/dictionnaires/guide/allemand">Guide de conversation<span> allemand</span></a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="encyclo">
+			<h2><a href="/encyclopedie">Encyclopédie</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<b>Histoire et Politique</b>
+					<ul class="menu-items small">
+						<li class="menu-democratie"><h3><a href="/encyclopedie/divers/democratie/41420">Démocratie</a></h3></li>
+						<li class="menu-rome"><h3><a href="/encyclopedie/divers/Rome_antique/184811">Rome antique</a></h3></li>
+						<li class="menu-moyen-age"><h3><a href="/encyclopedie/divers/Moyen_age/184336">Moyen âge</a></h3></li>
+						<li class="menu-grandesdecouvertes"><h3><a href="/encyclopedie/divers/grandes_decouvertes/184101"><span>Les grandes</span> Découvertes</a></h3></li>
+						<li class="menu-louis14"><h3><a href="/encyclopedie/divers/Louis_XIV/184286">Louis XIV</a></h3></li>
+						<li class="menu-revolutionfr"><h3><a href="/encyclopedie/divers/Revolution_francaise/184321">La Révolution</a></h3></li>
+						<li class="menu-napoleon1"><h3><a href="/encyclopedie/divers/Napoleon_Ier/184359">Napoléon I<sup>er</sup></a></h3></li>
+						<li class="menu-premiereguerremondiale"><h3><a href="/encyclopedie/divers/Premiere_Guerre_mondiale/184616">Guerre 14-18</a></h3></li>
+						<li class="menu-secondeguerremondiale"><h3><a href="/encyclopedie/divers/Seconde_Guerre_mondiale/184615">Guerre 39-45</a></h3></li>
+						<li class="menu-resistance"><h3><a href="/encyclopedie/divers/Resistance/138691">La résistance</a></h3></li>
+						<li class="menu-decolonisation"><h3><a href="/encyclopedie/divers/decolonisation/184339">La décolonisation</a></h3></li>
+						<li class="menu-vrepublique"><h3><a href="/encyclopedie/divers/Republique/184102">La V<sup>e</sup> République</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<b>Philo, Lettres & Arts</b>
+					<ul class="menu-items small">
+						<li class="menu-style"><h3><a href="/encyclopedie/divers/style/184383">Styles</a></h3></li>
+						<li class="menu-classicisme"><h3><a href="/encyclopedie/nom-commun-nom/classicisme/34375">Classicisme</a></h3></li>
+						<li class="menu-impressionnisme"><h3><a href="/encyclopedie/nom-commun-nom/impressionnisme/60306">Impressionnisme</a></h3></li>
+						<li class="menu-romantisme"><h3><a href="/encyclopedie/nom-commun-nom/romantisme/88916">Romantisme</a></h3></li>
+						<li class="menu-design"><h3><a href="/encyclopedie/divers/design/42408">Design</a></h3></li>
+						<li class="menu-surrealisme"><h3><a href="/encyclopedie/nom-commun-nom/surrealisme/95026">Surréalisme</a></h3></li>
+						<li class="menu-kant"><h3><a href="/encyclopedie/personnage/Emmanuel_Kant/126964">Kant</a></h3></li>
+						<li class="menu-homere"><h3><a href="/encyclopedie/personnage/Homere/124178">Homère</a></h3></li>
+						<li class="menu-hugo"><h3><a href="/encyclopedie/personnage/Victor_Hugo/124393">Victor Hugo</a></h3></li>
+						<li class="menu-poesie"><h3><a href="/encyclopedie/divers/poesie/80884">Poésie</a></h3></li>
+						<li class="menu-beethoven"><h3><a href="/encyclopedie/personnage/Ludwig_van_Beethoven/108152">Beethovenublique"><h3><a href="/encyclopedie/divers/Republique/184102">La V<sup>e</sup> République</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<b>Philo, Lettres & Arts</b>
+					<ul class="menu-items small">
+						<li class="menu-style"><h3><a href="/encyclopedie/divers/style/184383">Styles</a></h3></li>
+						<li class="menu-classicisme"><h3><a href="/encyclopedie/nom-commun-nom/classicisme/34375">Classicisme</a></h3></li>
+						<li class="menu-impressionnisme"><h3><a href="/encyclopedie/nom-commun-nom/impressionnisme/60306">Impressionnisme</a></h3></li>
+						<li class="menu-romantisme"><h3><a href="/encyclopedie/nom-commun-nom/romantisme/88916">Romantisme</a></h3></li>
+						<li class="menu-design"><h3><a href="/encyclopedie/divers/design/42408">Design</a></h3></li>
+						<li class="menu-surrealisme"><h3><a href="/encyclopedie/nom-commun-nom/surrealisme/95026">Surréalisme</a></h3></li>
+						<li class="menu-kant"><h3><a href="/encyclopedie/personnage/Emmanuel_Kant/126964">Kant</a></h3></li>
+						<li class="menu-homere"><h3><a href="/encyclopedie/personnage/Homere/124178">Homère</a></h3></li>
+						<li class="menu-hugo"><h3><a href="/encyclopedie/personnage/Victor_Hugo/124393">Victor Hugo</a></h3></li>
+						<li class="menu-poesie"><h3><a href="/encyclopedie/divers/poesie/80884">Poésie</a></h3></li>
+						<li class="menu-beethoven"><h3><a href="/encyclopedie/personnage/Ludwig_van_Beethoven/108152">Beethoven</a></h3></li>
+						<li class="menu-michelange"><h3><a href="/encyclopedie/personnage/Michelangelo_Buonarroti_dit_en_francais_Michel-Ange/133084">Michel-Ange</a></h3></li>						
+					</ul>
+				</li>
+				<li>
+					<b>Géographie</b>
+					<ul class="menu-items small">
+						<li class="menu-histoire_terre"><h3><a href="/encyclopedie/divers/histoire_de_la_Terre/186129">Histoire de la terre</a></h3></li>
+						<li class="menu-climat"><h3><a href="/encyclopedie/divers/climat/184753">Climat</a></h3></li>
+						<li class="menu-population"><h3><a href="/encyclopedie/divers/population/184345">Population</a></h3></li>
+						<li class="menu-demographie"><h3><a href="/encyclopedie/nom-commun-nom/demographie/41433">Démographie</a></h3></li>
+						<li class="menu-mondialisation"><h3><a href="/encyclopedie/divers/mondialisation/184358">Mondialisation</a></h3></li>
+						<li class="menu-geologie"><h3><a href="/encyclopedie/divers/g%C3%A9ologie/186131">Géologie</a></h3></li>
+						<li class="menu-flag-fr"><h3><a href="/encyclopedie/pays/France/120114">France</a></h3></li>
+						<li class="menu-flag-es"><h3><a href="/encyclopedie/pays/Espagne/118438">Espagne</a></h3></li>
+						<li class="menu-flag-cn"><h3><a href="/encyclopedie/pays/Chine/113402">Chine</a></h3></li>
+						<li class="menu-flag-us"><h3><a href="/encyclopedie/pays/%C3%89tats-Unis/118570">États-Unis</a></h3></li>
+						<li class="menu-flag-al"><h3><a href="/encyclopedie/pays/Alg%C3%A9rie/104806">Algérie</a></h3></li>
+						<li class="menu-flag-ca"><h3><a href="/encyclopedie/pays/Canada/111051">Canada</a></h3></li>
+					</ul>
+				</li>
+				<li>
+				<b>Sciences & Médecine</b>
+					<ul class="menu-items small">
+						<li class="menu-cellule"><h3><a href="/encyclopedie/divers/cellule/31685">Cellule</a></h3></li>
+						<li class="menu-cerveau"><h3><a href="/encyclopedie/divers/cerveau/32379">Cerveau</a></h3></li>
+						<li class="menu-genetique"><h3><a href="/encyclopedie/divers/genetique/54999">Génétique</a></h3></li>
+						<li class="menu-photosynthese"><h3><a href="/encyclopedie/divers/photosynthese/79404">Photosynthèse</a></h3></li>
+						<li class="menu-alimentation"><h3><a href="/encyclopedie/divers/alimentation/19933">Alimentation</a></h3></li>
+						<li class="menu-internet"><h3><a href="/encyclopedie/divers/Internet/125060">Internet</a></h3></li>
+						<li class="menu-adaptation"><h3><a href="/encyclopedie/divers/adaptation/18627">Adaptation</a></h3></li>
+						<li class="menu-atome"><h3><a href="/encyclopedie/divers/atome/23753">Atome</a></h3></li>
+						<li class="menu-lumiere"><h3><a href="/encyclopedie/divers/lumiere/66848">Lumière</a></h3></li>
+						<li class="menu-solaire"><h3><a href="/encyclopedie/divers/Syst%A8me_solaire/185915">Système solaire</a></h3></li>
+						<li class="menu-vaccination"><h3><a href="/encyclopedie/divers/vaccination/100537">Vaccination</a></h3></li>
+						<li class="menu-oxygene"><h3><a href="/encyclopedie/divers/oxygene/75929">Oxygène</a></h3></li>
+					</ul>
+				</li>
+				
+			<li>
+				<b>Nature & Écologie</b>
+					<ul class="menu-items">
+						<li class="menu-biodiversite"><h3><a href="/encyclopedie/divers/biodiversite/27064">Biodiversité</a></h3></li>
+						<li class="menu-energie"><h3><a href="/encyclopedie/divers/energie_renouvelable/87381">Énergie renouvelable</a></h3></li>
+						<li class="menu-developpement"><h3><a href="/encyclopedie/divers/developpement_durable/185976">Développement durable</a></h3></li>
+						<li class="menu-rechauffement"><h3><a href="/encyclopedie/divers/rechauffement_climatique/187435">Réchauffement climatique</a></h3></li>
+						<li class="menu-baleine"><h3><a href="/encyclopedie/vie-sauvage/baleine/178164">Baleine</a></h3></li>
+						<li class="menu-fleur"><h3><a href="/encyclopedie/divers/fleur/52487">Fleur</a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="forums"><h2><a href="/forums">Forums</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+				<a href="/forums/francais"><b>Tous les forums</b></a>
+					<ul class="menu-items">
+						<li class="menu-forumfr"><h3><a href="/forums/langue-francaise/">Vos questions de langue française</a></h3></li>
+						<li class="menu-forumen"><h3><a href="/forums/francais-anglais/">Vos questions en français/anglais</a></h3></li>				
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+<li class="jeux"><h2><a href="http://jeux.larousse.fr">Jeux</a></h2>
+						<ul class="menu-inner">
+							
+							<li class="active">
+							<a href="http://jeux.larousse.fr/strategy-games"><b>Jeux de stratégie</b></a>
+								<ul class="menu-items">
+									<li class="menu-sudoku"><h3><a href="http://jeux.larousse.fr/gamedetails/sudoku/">Sudoku</a></h3></li>
+									<li class="menu-jigsaw"><h3><a href="http://jeux.larousse.fr/gamedetails/jigsaw/">Jiqsaw</a></h3></li>				
+									<li class="menu-flipout"><h3><a href="http://jeux.larousse.fr/gamedetails/flip-out/">Flip out</a></h3></li>	
+									<li class="menu-backgammon"><h3><a href="http://jeux.larousse.fr/gamedetails/backgammon/">BackGammon</a></h3></li>
+									<li class="menu-trizzle"><h3><a href="http://jeux.larousse.fr/gamedetails/Trizzle/">Trizzle</a></h3></li>
+									<li class="menu-mjdd"><h3><a href="http://jeux.larousse.fr/gamedetails/mahjongg-dark-dimensions/">Mahjongg Dark Dimensions</a></h3></li>		
+								</ul>
+							</li>
+							
+							<li>
+							<a href="http://jeux.larousse.fr/card-games"><b>Jeux de cartes</b></a>
+								<ul class="menu-items">
+									<li class="menu-klondike"><h3><a href="http://jeux.larousse.fr/gamedetails/klondike-solitaire/">Klondike Solitaire</a></h3></li>
+									<li class="menu-crescent"><h3><a href="http://jeux.larousse.fr/gamedetails/crescent-solitaire/">Crescent Solitaire</a></h3></li>				
+									<li class="menu-pyramid"><h3><a href="http://jeux.larousse.fr/gamedetails/pyramid-solitaire/">Pyramid Solitaire</a></h3></li>	
+									<li class="menu-tripeaks"><h3><a href="http://jeux.larousse.fr/gamedetails/tri-peaks-solitaire/">Tri Peaks Solitaire</a></h3></li>
+									<li class="menu-spider"><h3><a href="http://jeux.larousse.fr/gamedetails/spider-solitaire/">Spider Solitaire</a></h3></li>
+									<li class="menu-blackJack"><h3><a href="http://jeux.larousse.fr/gamedetails/black-jack/">Black Jack</a></h3></li>
+								</ul>			
+							</li>
+							
+							<li>
+							<a href="http://jeux.larousse.fr/arcade-games"><b>Jeux d'arcade</b></a>
+								<ul class="menu-items">
+									<li class="menu-spacehunt"><h3><a href="http://jeux.larousse.fr/gamedetails/space-hunt/">Space hunt</a></h3></li>
+									<li class="menu-roll"><h3><a href="http://jeux.larousse.fr/gamedetails/5roll/">5 roll</a></h3></li>				
+									<li class="menu-kritterkrawler"><h3><a href="http://jeux.larousse.fr/gamedetails/kritter-krawler/">Kritter Krawler</a></h3></li>	
+									<li class="menu-alienattack""><h3><a href="http://jeux.larousse.fr/gamedetails/alien-attack/">Alien Attack</a></h3></li>
+									<li class="menu-score"><h3><a href="http://jeux.larousse.fr/gamedetails/score/">Score</a></h3></li>
+									<li class="menu-matchmerge"><h3><a href="http://jeux.larou</a></h3></li>
+						<li class="menu-michelange"><h3><a href="/encyclopedie/personnage/Michelangelo_Buonarroti_dit_en_francais_Michel-Ange/133084">Michel-Ange</a></h3></li>						
+					</ul>
+				</li>
+				<li>
+					<b>Géographie</b>
+					<ul class="menu-items small">
+						<li class="menu-histoire_terre"><h3><a href="/encyclopedie/divers/histoire_de_la_Terre/186129">Histoire de la terre</a></h3></li>
+						<li class="menu-climat"><h3><a href="/encyclopedie/divers/climat/184753">Climat</a></h3></li>
+						<li class="menu-population"><h3><a href="/encyclopedie/divers/population/184345">Population</a></h3></li>
+						<li class="menu-demographie"><h3><a href="/encyclopedie/nom-commun-nom/demographie/41433">Démographie</a></h3></li>
+						<li class="menu-mondialisation"><h3><a href="/encyclopedie/divers/mondialisation/184358">Mondialisation</a></h3></li>
+						<li class="menu-geologie"><h3><a href="/encyclopedie/divers/g%C3%A9ologie/186131">Géologie</a></h3></li>
+						<li class="menu-flag-fr"><h3><a href="/encyclopedie/pays/France/120114">France</a></h3></li>
+						<li class="menu-flag-es"><h3><a href="/encyclopedie/pays/Espagne/118438">Espagne</a></h3></li>
+						<li class="menu-flag-cn"><h3><a href="/encyclopedie/pays/Chine/113402">Chine</a></h3></li>
+						<li class="menu-flag-us"><h3><a href="/encyclopedie/pays/%C3%89tats-Unis/118570">États-Unis</a></h3></li>
+						<li class="menu-flag-al"><h3><a href="/encyclopedie/pays/Alg%C3%A9rie/104806">Algérie</a></h3></li>
+						<li class="menu-flag-ca"><h3><a href="/encyclopedie/pays/Canada/111051">Canada</a></h3></li>
+					</ul>
+				</li>
+				<li>
+				<b>Sciences & Médecine</b>
+					<ul class="menu-items small">
+						<li class="menu-cellule"><h3><a href="/encyclopedie/divers/cellule/31685">Cellule</a></h3></li>
+						<li class="menu-cerveau"><h3><a href="/encyclopedie/divers/cerveau/32379">Cerveau</a></h3></li>
+						<li class="menu-genetique"><h3><a href="/encyclopedie/divers/genetique/54999">Génétique</a></h3></li>
+						<li class="menu-photosynthese"><h3><a href="/encyclopedie/divers/photosynthese/79404">Photosynthèse</a></h3></li>
+						<li class="menu-alimentation"><h3><a href="/encyclopedie/divers/alimentation/19933">Alimentation</a></h3></li>
+						<li class="menu-internet"><h3><a href="/encyclopedie/divers/Internet/125060">Internet</a></h3></li>
+						<li class="menu-adaptation"><h3><a href="/encyclopedie/divers/adaptation/18627">Adaptation</a></h3></li>
+						<li class="menu-atome"><h3><a href="/encyclopedie/divers/atome/23753">Atome</a></h3></li>
+						<li class="menu-lumiere"><h3><a href="/encyclopedie/divers/lumiere/66848">Lumière</a></h3></li>
+						<li class="menu-solaire"><h3><a href="/encyclopedie/divers/Syst%A8me_solaire/185915">Système solaire</a></h3></li>
+						<li class="menu-vaccination"><h3><a href="/encyclopedie/divers/vaccination/100537">Vaccination</a></h3></li>
+						<li class="menu-oxygene"><h3><a href="/encyclopedie/divers/oxygene/75929">Oxygène</a></h3></li>
+					</ul>
+				</li>
+				
+			<li>
+				<b>Nature & Écologie</b>
+					<ul class="menu-items">
+						<li class="menu-biodiversite"><h3><a href="/encyclopedie/divers/biodiversite/27064">Biodiversité</a></h3></li>
+						<li class="menu-energie"><h3><a href="/encyclopedie/divers/energie_renouvelable/87381">Énergie renouvelable</a></h3></li>
+						<li class="menu-developpement"><h3><a href="/encyclopedie/divers/developpement_durable/185976">Développement durable</a></h3></li>
+						<li class="menu-rechauffement"><h3><a href="/encyclopedie/divers/rechauffement_climatique/187435">Réchauffement climatique</a></h3></li>
+						<li class="menu-baleine"><h3><a href="/encyclopedie/vie-sauvage/baleine/178164">Baleine</a></h3></li>
+						<li class="menu-fleur"><h3><a href="/encyclopedie/divers/fleur/52487">Fleur</a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="forums"><h2><a href="/forums">Forums</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+				<a href="/forums/francais"><b>Tous les forums</b></a>
+					<ul class="menu-items">
+						<li class="menu-forumfr"><h3><a href="/forums/langue-francaise/">Vos questions de langue française</a></h3></li>
+						<li class="menu-forumen"><h3><a href="/forums/francais-anglais/">Vos questions en français/anglais</a></h3></li>				
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+<li class="jeux"><h2><a href="http://jeux.larousse.fr">Jeux</a></h2>
+						<ul class="menu-inner">
+							
+							<li class="active">
+							<a href="http://jeux.larousse.fr/strategy-games"><b>Jeux de stratégie</b></a>
+								<ul class="menu-items">
+									<li class="menu-sudoku"><h3><a href="http://jeux.larousse.fr/gamedetails/sudoku/">Sudoku</a></h3></li>
+									<li class="menu-jigsaw"><h3><a href="http://jeux.larousse.fr/gamedetails/jigsaw/">Jiqsaw</a></h3></li>				
+									<li class="menu-flipout"><h3><a href="http://jeux.larousse.fr/gamedetails/flip-out/">Flip out</a></h3></li>	
+									<li class="menu-backgammon"><h3><a href="http://jeux.larousse.fr/gamedetails/backgammon/">BackGammon</a></h3></li>
+									<li class="menu-trizzle"><h3><a href="http://jeux.larousse.fr/gamedetails/Trizzle/">Trizzle</a></h3></li>
+									<li class="menu-mjdd"><h3><a href="http://jeux.larousse.fr/gamedetails/mahjongg-dark-dimensions/">Mahjongg Dark Dimensions</a></h3></li>		
+								</ul>
+							</li>
+							
+							<li>
+							<a href="http://jeux.larousse.fr/card-games"><b>Jeux de cartes</b></a>
+								<ul class="menu-items">
+									<li class="menu-klondike"><h3><a href="http://jeux.larousse.fr/gamedetails/klondike-solitaire/">Klondike Solitaire</a></h3></li>
+									<li class="menu-crescent"><h3><a href="http://jeux.larousse.fr/gamedetails/crescent-solitaire/">Crescent Solitaire</a></h3></li>				
+									<li class="menu-pyramid"><h3><a href="http://jeux.larousse.fr/gamedetails/pyramid-solitaire/">Pyramid Solitaire</a></h3></li>	
+									<li class="menu-tripeaks"><h3><a href="http://jeux.larousse.fr/gamedetails/tri-peaks-solitaire/">Tri Peaks Solitaire</a></h3></li>
+									<li class="menu-spider"><h3><a href="http://jeux.larousse.fr/gamedetails/spider-solitaire/">Spider Solitaire</a></h3></li>
+									<li class="menu-blackJack"><h3><a href="http://jeux.larousse.fr/gamedetails/black-jack/">Black Jack</a></h3></li>
+								</ul>			
+							</li>
+							
+							<li>
+							<a href="http://jeux.larousse.fr/arcade-games"><b>Jeux d'arcade</b></a>
+								<ul class="menu-items">
+									<li class="menu-spacehunt"><h3><a href="http://jeux.larousse.fr/gamedetails/space-hunt/">Space hunt</a></h3></li>
+									<li class="menu-roll"><h3><a href="http://jeux.larousse.fr/gamedetails/5roll/">5 roll</a></h3></li>				
+									<li class="menu-kritterkrawler"><h3><a href="http://jeux.larousse.fr/gamedetails/kritter-krawler/">Kritter Krawler</a></h3></li>	
+									<li class="menu-alienattack""><h3><a href="http://jeux.larousse.fr/gamedetails/alien-attack/">Alien Attack</a></h3></li>
+									<li class="menu-score"><h3><a href="http://jeux.larousse.fr/gamedetails/score/">Score</a></h3></li>
+									<li class="menu-matchmerge"><h3><a href="http://jeux.larousse.fr/gamedetails/match-merge/">Match and merge</a></h3></li>	
+								</ul>
+							</li>
+							
+						</ul>
+					</li>
+		
+		<li class="cuisine"><h2><a href="http://cuisine.larousse.fr/">Cuisine</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="http://cuisine.larousse.fr/recettes/rechercher#p=1&z=15&s=r&t=l"><b>Toutes nos recettes</b></a>
+					<ul class="menu-items">
+						<li class="menu-cuisine_cumin"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/entrees">Entrées</a></h3></li>
+						<li class="menu-cuisine_roti"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/plats">Plats</a></h3></li>
+						<li class="menu-cuisine_parfait"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/desserts">Desserts</a></h3></li>
+						<li class="menu-cuisine_boisson"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/boisssons-et-cocktails">Boissons</a></h3></li>
+						<li class="menu-cuisine_bases"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/preparations-de-base">Les basiques</a></h3></li>
+						<li class="menu-cuisine_printemps"><h3><a href="http://cuisine.larousse.fr/tendance/legumes-dhiver-et-legumes-oublies">C'est de saison</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://cuisine.larousse.fr/lecon-experts/"><b>Nos conseils d'experts</bsse.fr/gamedetails/match-merge/">Match and merge</a></h3></li>	
+								</ul>
+							</li>
+							
+						</ul>
+					</li>
+		
+		<li class="cuisine"><h2><a href="http://cuisine.larousse.fr/">Cuisine</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="http://cuisine.larousse.fr/recettes/rechercher#p=1&z=15&s=r&t=l"><b>Toutes nos recettes</b></a>
+					<ul class="menu-items">
+						<li class="menu-cuisine_cumin"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/entrees">Entrées</a></h3></li>
+						<li class="menu-cuisine_roti"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/plats">Plats</a></h3></li>
+						<li class="menu-cuisine_parfait"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/desserts">Desserts</a></h3></li>
+						<li class="menu-cuisine_boisson"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/boisssons-et-cocktails">Boissons</a></h3></li>
+						<li class="menu-cuisine_bases"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/preparations-de-base">Les basiques</a></h3></li>
+						<li class="menu-cuisine_printemps"><h3><a href="http://cuisine.larousse.fr/tendance/legumes-dhiver-et-legumes-oublies">C'est de saison</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://cuisine.larousse.fr/lecon-experts/"><b>Nos conseils d'experts</b></a>
+					<ul class="menu-items">
+						<li class="menu-toursdemain"><h3><a href="http://cuisine.larousse.fr/tours-de-main">Astuces et techniques</a></h3></li>
+						<li class="menu-ingredients"><h3><a href="http://cuisine.larousse.fr/recherche/types/ingredient">Ingrédients</a></h3></li>
+						<li class="menu-cuisinepratique"><h3><a href="http://cuisine.larousse.fr/nos-dossiers-tendances">Cuisine pratique</a></h3></li>
+						<li class="menu-sante"><h3><a href="http://cuisine.larousse.fr/nos-dossiers-sante">Dossiers santé</a></h3></li>
+						<li class="menu-magazines"><h3><a href="http://cuisine.larousse.fr/tendances">Le magazine</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<b>A la une</b>
+					<ul class="menu-items">
+						<li class="menu-cuisine_legere"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/theme-recette/cuisine-legere-minceur-5338">Cuisine légère</a></h3></li>
+						<li class="menu-cuisine_express"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/aperitifs">Apéritifs</a></h3></li>
+						<li class="menu-cuisine_chocolat"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette?search_api_views_fulltext=chocolat">Accro au choco</a></h3></li>
+						<li class="menu-cuisine_enfants"><h3><a href="http://cuisine.larousse.fr/auteur/ricardo-larrivee">RICARDO</a></h3></li>
+						<li class="menu-cuisine_asiatique"><h3><a href="http://cuisine.larousse.fr/recettes/rechercher?entry=OA#p=1&entry=OA&z=15&s=r&t=l">Spécial Pâtisserie</a></h3></li>
+						<li class="menu-cuisine_orientale"><h3><a href="http://cuisine.larousse.fr/tendance/patisserie-orientale-un-doux-regale">Pâtisserie orientale</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://cuisine.larousse.fr/recherche/types/videos"><b>Cuisine en vidéo</b></a>
+					<ul class="menu-items small">
+						<li class="menu-cuisine_macarons"><h3><a href="http://cuisine.larousse.fr/video/macarons-au-chocolat">Macarons<span>chocolat</span></a></h3></li>
+						<li class="menu-cuisine_cupcake"><h3><a href="http://cuisine.larousse.fr/video/cupcakes">Cupcakes</a></h3></li>
+						<li class="menu-cuisine_guimauve"><h3><a href="http://cuisine.larousse.fr/video/guimauve">Guimauve</a></h3></li>
+						<li class="menu-cuisine_souffle"><h3><a href="http://cuisine.larousse.fr/video/souffle-au-fromage">Soufflé fromage</a></h3></li>
+						<li class="menu-cuisine_ratatouille"><h3><a href="http://cuisine.larousse.fr/video/ratatouille">Ratatouille</a></h3></li>
+						<li class="menu-cuisine_sushi"><h3><a href="http://cuisine.larousse.fr/video/sushis-et-makis">Sushis et makis</a></h3></li>
+						<li class="menu-cuisine_tatin"><h3><a href="http://cuisine.larousse.fr/video/tartes-tatin-la-mangue">Tatin manque</a></h3></li>
+						<li class="menu-cuisine_pana_cotta"><h3><a href="http://cuisine.larousse.fr/video/panna-cotta-au-lait-de-coco">Panna cotta</a></h3></li>
+						<li class="menu-cuisine_wok"><h3><a href="http://cuisine.larousse.fr/video/wok-de-legumes">Wok de légumes</a></h3></li>
+						<li class="menu-cuisine_tortilla"><h3><a href="http://cuisine.larousse.fr/video/tortilla">Tortilla</a></h3></li>
+						<li class="menu-cuisine_tiramissu"><h3><a href="http://cuisine.larousse.fr/video/tiramisu">Tiramisu</a></h3></li>
+						<li class="menu-cuisine_tarte_citron"><h3><a href="http://cuisine.larousse.fr/video/tarte-au-citron">Tarte citron</a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		
+		</li>
+		
+		<li class="archives">
+			<h2><a href="/archives">Archives</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="/archives/journaux_annee"><b>Journaux de l'année</b></a>
+					<ul class="menu-items">
+						<li class="menu-jda-1968"><h3><a href="/archives/journaux_annee/1969">Année 1968</a></h3></li>
+						<li class="menu-jda-1973"><h3><a href="/archives/journaux_annee/1974">Année 1973</a></h3></li>
+						<li class="menu-jda-1981"><h3><a href="/archives/journaux_annee/1982">Année 1981</a></h3></li>
+						<li class="menu-jda-1991"><h3><a href="/archives/journaux_annee/1992">Année 1991</a></h3></li>
+						<li class="big menu-jda"><h3><a href="/archives/journaux_annee">Tous les journaux de l'année</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<b>Dictionnaires thématiques</b>
+					<ul class="menu-items small">
+						<li class="menu-cinema"><h3><a href="/archives/cinema"><span>Dictionnaire</span>Cinéma (2001)</a></h3></li>
+						<li class="menu-films"><h3><a href="/archives/film"><span>Dictionnaire</span>Films (2005)</a></h3></li>
+						<li class="menu-musique"><h3><a href="/archives/musique"><span>Dictionnaire</span>Musique (2005)</a></h3></li>
+						<li class="menu-litterature"><h3><a href="/archives/peinture"><span>Dictionnaire</span>Littérature (2001)</a></h3></li>
+						<li class="menu-peinture"><h3><a href="/archives/peinture"><span>Dictionnaire</span>Peinture (2003)</a></h3></li>
+						<li class="menu-danse"><h3><a href="/archives/danse"><span>Dictionnaire</span>Danse (1999)</a></h3></li>
+						<li class="menu-medecine"><h3><a href="/archives/medical"><span>Dictionnaire</span>Médical (2006)</a></h3></li>
+						<li class="menu-louis14"><h3><a href="/archives/histoire_de_france"><span>Dictionnaire</span>Histoire de France (2005)</a></h3></li>
+						<li class="menu-economie"><h3><a href="/archives/economie"><span>Dictionnaire</span>Economie (2000)</a></h3></li>
+						<li class="menu-agricole"><h3><a href="/archives/agricole"><span>Dictionnaire</span>Agricole (2002)</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/archives/grande-encyclopedie"><b>La Grande Encyclopédie</b></a>
+					<ul class="menu-items">
+						<li class="big menu-ge"><h3><a href="/archives/grande-encyclopedie">Grande encyclopédie Larousse (1971-1976)</a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="catalogue">
+			<h2><a href="http://www.editions-larousse.fr">Catalogue</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="http://www.editions-larousse.fr"><b>À la une</b></a>
+					<ul class="menu-items">
+						<li class="menu-pl2017"><h3><a href="http://www.editions-larousse.fr/le-petit-larousse-illustre-2018-noel-9782035938435">Larousse illustré</a></h3></li>
+						<li class="menu-Ricardo"><h3><a href="http://cuisine.larousse.fr/livre/desserts-inratables-9782035948137">Desserts inratables</a></h3></li>
+						<li class="menu-cordula"><h3><a href="http://www.editions-larousse.fr/recherche?search_api_views_fulltext=cordula">Cristina Cordula</a></h3></li>
+						<li class="menu-zou"><h3><a href="http://www.editions-larousse.fr/recherche?search_api_views_fulltext=saison+au+zoo">Une saison au zoo</a></h3></li>
+						<li class="menu-truffaut"><h3><a href="http://www.editions-larousse.fr/collections/truffaut">Truffaut</a></h3></li>
+						<li class="menu-yesyoucan"><h3><a href="http://www.editions-larousse.fr/collections/harraps-contemporains">Polars en VO</a></h3></li>
+					</ul>
+				</li>
+			</ul>	
+		</li>                    
+	</ul>
+</nav>
+            
+            
+            
+    <form method="get" action="/dictionnaires/rechercher">
+	    <fieldset>
+		    <input type="search" name="q" placeholder="Rechercher..." value="" autofocus="autofocus" />
+            <input type="hidden" name="l" value="francais" />
+            <input type="hidden" name="culture" value="" />
+		    <button class="icon-search" type="submit"></button>
+        </fieldset>
+    </form>
+
+    
+    <section class="base fr"><h2><a href="/dictionnaires/francais-monolingue" title="DictionnaireMaj Français"><span class="virtual">DictionnaireMaj</span> <span class="source">Français</span></a></h2></section>
+
+        </header>
+        
+        <div class="pub728x90 oast"></div>
+
+        
+        
+        
+    <div id="cphContentMaster_Wrapper" class="wrapper">
+        
+        
+    <section class="breadcrumb olf"> 
+        <ol class="ariane">
+        
+            <li><a href="/index">index</a></li>
+        
+            <li><a href="/index/dictionnaires">dictionnaires</a></li>
+        
+            <li><a href="/index/dictionnaires/francais">francais</a></li>
+        
+            <li><a href="/index/dictionnaires/francais/w/1">w</a></li>
+        
+            <li><a href="/index/dictionnaires/francais/w/2">2</a></li>
+        
+        </ol>
+    </section>
+    
+        
+    <section class="content olf">
+        
+<ul>
+<li><a href="/dictionnaires/francais/wurtzite/82842">wurtzite n.f. </a></li>
+<li><a href="/dictionnaires/francais/wushu/82843">wushu n.m. </a></li>
+<li><a href="/dictionnaires/francais></a>
+					<ul class="menu-items">
+						<li class="menu-toursdemain"><h3><a href="http://cuisine.larousse.fr/tours-de-main">Astuces et techniques</a></h3></li>
+						<li class="menu-ingredients"><h3><a href="http://cuisine.larousse.fr/recherche/types/ingredient">Ingrédients</a></h3></li>
+						<li class="menu-cuisinepratique"><h3><a href="http://cuisine.larousse.fr/nos-dossiers-tendances">Cuisine pratique</a></h3></li>
+						<li class="menu-sante"><h3><a href="http://cuisine.larousse.fr/nos-dossiers-sante">Dossiers santé</a></h3></li>
+						<li class="menu-magazines"><h3><a href="http://cuisine.larousse.fr/tendances">Le magazine</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<b>A la une</b>
+					<ul class="menu-items">
+						<li class="menu-cuisine_legere"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/theme-recette/cuisine-legere-minceur-5338">Cuisine légère</a></h3></li>
+						<li class="menu-cuisine_express"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette/type-de-plat/aperitifs">Apéritifs</a></h3></li>
+						<li class="menu-cuisine_chocolat"><h3><a href="http://cuisine.larousse.fr/recherche/types/recette?search_api_views_fulltext=chocolat">Accro au choco</a></h3></li>
+						<li class="menu-cuisine_enfants"><h3><a href="http://cuisine.larousse.fr/auteur/ricardo-larrivee">RICARDO</a></h3></li>
+						<li class="menu-cuisine_asiatique"><h3><a href="http://cuisine.larousse.fr/recettes/rechercher?entry=OA#p=1&entry=OA&z=15&s=r&t=l">Spécial Pâtisserie</a></h3></li>
+						<li class="menu-cuisine_orientale"><h3><a href="http://cuisine.larousse.fr/tendance/patisserie-orientale-un-doux-regale">Pâtisserie orientale</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="http://cuisine.larousse.fr/recherche/types/videos"><b>Cuisine en vidéo</b></a>
+					<ul class="menu-items small">
+						<li class="menu-cuisine_macarons"><h3><a href="http://cuisine.larousse.fr/video/macarons-au-chocolat">Macarons<span>chocolat</span></a></h3></li>
+						<li class="menu-cuisine_cupcake"><h3><a href="http://cuisine.larousse.fr/video/cupcakes">Cupcakes</a></h3></li>
+						<li class="menu-cuisine_guimauve"><h3><a href="http://cuisine.larousse.fr/video/guimauve">Guimauve</a></h3></li>
+						<li class="menu-cuisine_souffle"><h3><a href="http://cuisine.larousse.fr/video/souffle-au-fromage">Soufflé fromage</a></h3></li>
+						<li class="menu-cuisine_ratatouille"><h3><a href="http://cuisine.larousse.fr/video/ratatouille">Ratatouille</a></h3></li>
+						<li class="menu-cuisine_sushi"><h3><a href="http://cuisine.larousse.fr/video/sushis-et-makis">Sushis et makis</a></h3></li>
+						<li class="menu-cuisine_tatin"><h3><a href="http://cuisine.larousse.fr/video/tartes-tatin-la-mangue">Tatin manque</a></h3></li>
+						<li class="menu-cuisine_pana_cotta"><h3><a href="http://cuisine.larousse.fr/video/panna-cotta-au-lait-de-coco">Panna cotta</a></h3></li>
+						<li class="menu-cuisine_wok"><h3><a href="http://cuisine.larousse.fr/video/wok-de-legumes">Wok de légumes</a></h3></li>
+						<li class="menu-cuisine_tortilla"><h3><a href="http://cuisine.larousse.fr/video/tortilla">Tortilla</a></h3></li>
+						<li class="menu-cuisine_tiramissu"><h3><a href="http://cuisine.larousse.fr/video/tiramisu">Tiramisu</a></h3></li>
+						<li class="menu-cuisine_tarte_citron"><h3><a href="http://cuisine.larousse.fr/video/tarte-au-citron">Tarte citron</a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		
+		</li>
+		
+		<li class="archives">
+			<h2><a href="/archives">Archives</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="/archives/journaux_annee"><b>Journaux de l'année</b></a>
+					<ul class="menu-items">
+						<li class="menu-jda-1968"><h3><a href="/archives/journaux_annee/1969">Année 1968</a></h3></li>
+						<li class="menu-jda-1973"><h3><a href="/archives/journaux_annee/1974">Année 1973</a></h3></li>
+						<li class="menu-jda-1981"><h3><a href="/archives/journaux_annee/1982">Année 1981</a></h3></li>
+						<li class="menu-jda-1991"><h3><a href="/archives/journaux_annee/1992">Année 1991</a></h3></li>
+						<li class="big menu-jda"><h3><a href="/archives/journaux_annee">Tous les journaux de l'année</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<b>Dictionnaires thématiques</b>
+					<ul class="menu-items small">
+						<li class="menu-cinema"><h3><a href="/archives/cinema"><span>Dictionnaire</span>Cinéma (2001)</a></h3></li>
+						<li class="menu-films"><h3><a href="/archives/film"><span>Dictionnaire</span>Films (2005)</a></h3></li>
+						<li class="menu-musique"><h3><a href="/archives/musique"><span>Dictionnaire</span>Musique (2005)</a></h3></li>
+						<li class="menu-litterature"><h3><a href="/archives/peinture"><span>Dictionnaire</span>Littérature (2001)</a></h3></li>
+						<li class="menu-peinture"><h3><a href="/archives/peinture"><span>Dictionnaire</span>Peinture (2003)</a></h3></li>
+						<li class="menu-danse"><h3><a href="/archives/danse"><span>Dictionnaire</span>Danse (1999)</a></h3></li>
+						<li class="menu-medecine"><h3><a href="/archives/medical"><span>Dictionnaire</span>Médical (2006)</a></h3></li>
+						<li class="menu-louis14"><h3><a href="/archives/histoire_de_france"><span>Dictionnaire</span>Histoire de France (2005)</a></h3></li>
+						<li class="menu-economie"><h3><a href="/archives/economie"><span>Dictionnaire</span>Economie (2000)</a></h3></li>
+						<li class="menu-agricole"><h3><a href="/archives/agricole"><span>Dictionnaire</span>Agricole (2002)</a></h3></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/archives/grande-encyclopedie"><b>La Grande Encyclopédie</b></a>
+					<ul class="menu-items">
+						<li class="big menu-ge"><h3><a href="/archives/grande-encyclopedie">Grande encyclopédie Larousse (1971-1976)</a></h3></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="catalogue">
+			<h2><a href="http://www.editions-larousse.fr">Catalogue</a></h2>
+			<ul class="menu-inner">
+				<li class="active">
+					<a href="http://www.editions-larousse.fr"><b>À la une</b></a>
+					<ul class="menu-items">
+						<li class="menu-pl2017"><h3><a href="http://www.editions-larousse.fr/le-petit-larousse-illustre-2018-noel-9782035938435">Larousse illustré</a></h3></li>
+						<li class="menu-Ricardo"><h3><a href="http://cuisine.larousse.fr/livre/desserts-inratables-9782035948137">Desserts inratables</a></h3></li>
+						<li class="menu-cordula"><h3><a href="http://www.editions-larousse.fr/recherche?search_api_views_fulltext=cordula">Cristina Cordula</a></h3></li>
+						<li class="menu-zou"><h3><a href="http://www.editions-larousse.fr/recherche?search_api_views_fulltext=saison+au+zoo">Une saison au zoo</a></h3></li>
+						<li class="menu-truffaut"><h3><a href="http://www.editions-larousse.fr/collections/truffaut">Truffaut</a></h3></li>
+						<li class="menu-yesyoucan"><h3><a href="http://www.editions-larousse.fr/collections/harraps-contemporains">Polars en VO</a></h3></li>
+					</ul>
+				</li>
+			</ul>	
+		</li>                    
+	</ul>
+</nav>
+            
+            
+            
+    <form method="get" action="/dictionnaires/rechercher">
+	    <fieldset>
+		    <input type="search" name="q" placeholder="Rechercher..." value="" autofocus="autofocus" />
+            <input type="hidden" name="l" value="francais" />
+            <input type="hidden" name="culture" value="" />
+		    <button class="icon-search" type="submit"></button>
+        </fieldset>
+    </form>
+
+    
+    <section class="base fr"><h2><a href="/dictionnaires/francais-monolingue" title="DictionnaireMaj Français"><span class="virtual">DictionnaireMaj</span> <span class="source">Français</span></a></h2></section>
+
+        </header>
+        
+        <div class="pub728x90 oast"></div>
+
+        
+        
+        
+    <div id="cphContentMaster_Wrapper" class="wrapper">
+        
+        
+    <section class="breadcrumb olf"> 
+        <ol class="ariane">
+        
+            <li><a href="/index">index</a></li>
+        
+            <li><a href="/index/dictionnaires">dictionnaires</a></li>
+        
+            <li><a href="/index/dictionnaires/francais">francais</a></li>
+        
+            <li><a href="/index/dictionnaires/francais/w/1">w</a></li>
+        
+            <li><a href="/index/dictionnaires/francais/w/2">2</a></li>
+        
+        </ol>
+    </section>
+    
+        
+    <section class="content olf">
+        
+<ul>
+<li><a href="/dictionnaires/francais/wurtzite/82842">wurtzite n.f. </a></li>
+<li><a href="/dictionnaires/francais/wushu/82843">wushu n.m. </a></li>
+<li><a href="/dictionnaires/francais/ww/82844">ww. </a></li>
+<li><a href="/dictionnaires/francais/wyandotte/82845">wyandotte n.f. et adj. </a></li>
+<li><a href="/dictionnaires/francais/WYSIWYG/82846">WYSIWYG. </a></li>
+</ul>
+
+
+    </section>
+    
+        
+    
+    <section class="pages olf">
+        <ol>
+    
+        <li><a href="/index/dictionnaires/francais/w/1">1</a></li> 
+    
+        <li class="sel"><a href="#2">2</a></li> 
+    
+        </ol>
+    </section>
+    
+    
+    
+    <div class="pub oasm"></div>
+
+    </div>
+
+        
+
+        
+        
+            
+            <div ID="gads-pub" class="gads pub970x90" data-client="ca-pub-4268982420376658" data-slot="4523353946" data-width="970" data-height="90"></div>
+
+            <div class="socialwrapper">
+                <div id="fb-root"></div>
+                <div class="facebook"><div class="fb-like-box" data-href="https://www.facebook.com/larousse.fr" data-width="390" data-height="246" data-show-faces="false" data-stream="true" data-header="false"></div></div>
+                <div class="googleplus"><div class="g-page" data-width="190" data-href="//plus.google.com/114879733152009050025" data-showtagline="false" data-showcoverphoto="false" data-rel="publisher"></div></div>
+                <div class="twitter"><a class="twitter-timeline" data-dnt="true" href="https://twitter.com/search?q=%40laroussecuisine" data-widget-id="352009878644072449">Tweets sur @laroussecuisine</a></div>
+            </div>
+        
+        
+        <footer id="footer" class="footerwrapper" role="contentinfo">
+            <a href="/index/dictionnaires/olf/w/2">Index</a>
+            <a href="/infos/charte">Charte d’utilisation</a>
+            <a href="/infos/credits">Crédits</a>
+            <a href="/infos/cgu">Conditions générales d’utilisation</a>
+            <a href="/infos/confidentialite">Charte de confidentialité</a>
+            <a href="/infos/cookies">Cookies</a>
+            <a href="/infos/contact">Nous contacter</a>
+            <a href="/infos/support">Support</a>
+            <a href="http://www.editions-larousse.fr">Le site des Éditions Larousse</a>
+            <a href="/infos/education">Larousse-edu.fr</a>
+            <span>&copy; Larousse</span>
+        </footer>
+    </div>
+    
+    
+</body>
+</html>/ww/82844">ww. </a></li>
+<li><a href="/dictionnaires/francais/wyandotte/82845">wyandotte n.f. et adj. </a></li>
+<li><a href="/dictionnaires/francais/WYSIWYG/82846">WYSIWYG. </a></li>
+</ul>
+
+
+    </section>
+    
+        
+    
+    <section class="pages olf">
+        <ol>
+    
+        <li><a href="/index/dictionnaires/francais/w/1">1</a></li> 
+    
+        <li class="sel"><a href="#2">2</a></li> 
+    
+        </ol>
+    </section>
+    
+    
+    
+    <div class="pub oasm"></div>
+
+    </div>
+
+        
+
+        
+        
+            
+            <div ID="gads-pub" class="gads pub970x90" data-client="ca-pub-4268982420376658" data-slot="4523353946" data-width="970" data-height="90"></div>
+
+            <div class="socialwrapper">
+                <div id="fb-root"></div>
+                <div class="facebook"><div class="fb-like-box" data-href="https://www.facebook.com/larousse.fr" data-width="390" data-height="246" data-show-faces="false" data-stream="true" data-header="false"></div></div>
+                <div class="googleplus"><div class="g-page" data-width="190" data-href="//plus.google.com/114879733152009050025" data-showtagline="false" data-showcoverphoto="false" data-rel="publisher"></div></div>
+                <div class="twitter"><a class="twitter-timeline" data-dnt="true" href="https://twitter.com/search?q=%40laroussecuisine" data-widget-id="352009878644072449">Tweets sur @laroussecuisine</a></div>
+            </div>
+        
+        
+        <footer id="footer" class="footerwrapper" role="contentinfo">
+            <a href="/index/dictionnaires/olf/w/2">Index</a>
+            <a href="/infos/charte">Charte d’utilisation</a>
+            <a href="/infos/credits">Crédits</a>
+            <a href="/infos/cgu">Conditions générales d’utilisation</a>
+            <a href="/infos/confidentialite">Charte de confidentialité</a>
+            <a href="/infos/cookies">Cookies</a>
+            <a href="/infos/contact">Nous contacter</a>
+            <a href="/infos/support">Support</a>
+            <a href="http://www.editions-larousse.fr">Le site des Éditions Larousse</a>
+            <a href="/infos/education">Larousse-edu.fr</a>
+            <span>&copy; Larousse</span>
+        </footer>
+    </div>
+    
+    
+</body>
+</html>

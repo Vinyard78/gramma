@@ -14,6 +14,9 @@ MongoClient.connect(MONGODBURL, (err, client) => {
   db = client.db(DATABASENAME);
   app.listen(PORT, () => {
     console.log('listening on ' + PORT);
+  }).on('error', function(err){
+    console.log('on error handler');
+    console.log(err);
   })
 });
 
@@ -70,7 +73,9 @@ var fs = require('fs');
 var dataAll;
 
 
-var getData = function(){
+
+
+var getUrlsMots = function(){
     http.get('http://www.larousse.fr/index/dictionnaires/francais/' + alphabet[letter] + '/' + index, function(res){
         res.on('data', function(data){
             dataAll += data;
@@ -88,13 +93,13 @@ var getData = function(){
             index++;
 
             if(index <= 70){
-                getData();
+                getUrlsMots();
             } else {
                 console.log(alphabet[letter]);
                 letter++;
                 if(letter < 26) {
                     index = 1;
-                    getData();
+                    getUrlsMots();
                 } else {
                     fs.writeFile('All.txt', dataAll , function (err) {
                         if (err) throw err;
@@ -119,9 +124,91 @@ var getData = function(){
 var index = 1;
 var alphabet = "abcdefghijklmnopqrstuvwxyz";
 var letter = 0;
+
 setTimeout(()=>{
-    getData();
+    //getUrlsMots();
 },5000);
+
+
+
+var listeUrlMots = require('./listeUrlMots');
+var indexDef = 0;
+var dataAllDef = "";
+var dataPart = "";
+
+var getDefs = function(){
+    http.get(listeUrlMots.urls[indexDef], function(res){
+        res.on('data', function(data){
+            //dataAll += data;
+
+            if (res.statusCode === 200) {
+                dataPart += data;
+                
+            }
+
+        });
+
+        res.on('end', function () {
+            
+            dataAllDef += dataPart.substring(
+                dataPart.lastIndexOf('<article class="BlocDefinition content" role="article">'),
+                dataPart.indexOf("</article>", 
+                    dataPart.lastIndexOf('<article class="BlocDefinition content" role="article">')
+                )
+            ) + "</article>";
+
+            dataPart = "";
+
+            console.log(listeUrlMots.urls[indexDef]);
+            indexDef++;
+
+            if(indexDef < listeUrlMots.urls.length){
+                fs.writeFile('AllDefs.txt', dataAllDef , function (err) {
+                    if (err) {
+                        console.log(err);
+                        indexDef--;
+                        getDefs();
+                    }
+                    console.log('It\'s saved!');
+                    //setTimeout(()=>{
+                        getDefs();
+                    //},4000);
+                });
+            } else {
+                fs.writeFile('AllDefs.txt', dataAllDef , function (err) {
+                    if (err) throw err;
+                    console.log('It\'s saved!');
+                });
+            }
+            
+        });
+ 
+        res.on('error', function(e){
+            console.log(e);
+            getDefs();
+        });
+ 
+    });
+
+}
+
+setTimeout(()=>{
+    //getDefs();
+},5000);
+
+
+/*var urlMotTemp = [];
+
+listeUrlMots.urls.forEach((element)=>{
+    if(urlMotTemp.indexOf(element) == -1 && element.substring(0,46) === "http://www.larousse.fr/dictionnaires/francais/" ){
+        urlMotTemp.push(element);
+    }
+});
+
+fs.writeFile('urlAgain.txt', urlMotTemp.join('","') , function (err) {
+    if (err) throw err;
+    console.log('It\'s saved!');
+});*/
 
 
 

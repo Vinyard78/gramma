@@ -1,4 +1,4 @@
 @echo off
 
-cd "D:\Perso\Projets\gramma"
+cd "E:\Vinyard78\gramma"
 npm run dev
