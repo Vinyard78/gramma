@@ -197,6 +197,70 @@ setTimeout(()=>{
 },5000);
 
 
+
+var listeUrlImgs = require('./listeUrlImgs');
+var indexDefImg = 0;
+var dataAllImg = "";
+var dataPartImg = "";
+
+var getImgs = function(){
+    http.get(listeUrlImgs.urls[indexDefImg], function(res){
+        res.on('data', function(data){
+            //dataAll += data;
+
+            if (res.statusCode === 200) {
+                dataPartImg += data;
+                
+            }
+
+        });
+
+        res.on('end', function () {
+
+             dataAllImg += dataPartImg;
+
+
+            dataPartImg = "";
+
+            console.log(listeUrlImgs.urls[indexDefImg]);
+            indexDefImg++;
+
+            if(indexDefImg < listeUrlImgs.urls.length){
+                fs.writeFile('AllImg' + indexDefImg, dataAllImg , function (err) {
+                    if (err) {
+                        console.log(err);
+                        indexDefImg--;
+                        getImgs();
+                    }
+                    dataAllImg = "";
+                    console.log('It\'s saved!');
+                    //setTimeout(()=>{
+                        getImgs();
+                    //},4000);
+                });
+            } else {
+                fs.writeFile('Allimg' + indexDefImg, dataAllImg , function (err) {
+                    if (err) throw err;
+                    dataAllImg = "";
+                    console.log('It\'s saved!');
+                });
+            }
+            
+        });
+ 
+        res.on('error', function(e){
+            console.log(e);
+            getImgs();
+        });
+ 
+    });
+
+}
+
+setTimeout(()=>{
+    //getImgs();
+},5000);
+
 /*var urlMotTemp = [];
 
 listeUrlMots.urls.forEach((element)=>{
