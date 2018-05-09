@@ -10,12 +10,26 @@
 							"adresse":
 								[
 									{
-										"valeur": "abattage</h2><p class="LienAdresse">ou </p><p class="indicateurDefinition">vieux </p><h2 class="AdresseDefinition">abatage"
+										"valeur": "abattage"
 									}
 								],
-							"catgram": "nom masculin"
+							
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "abatage"
+									}
+								],
+							"indicateurDefinition": 
+								[
+									"vieux"
+								]
+							
 						}
-					]
+					],
+				"catgram": "nom masculin"
 			}
 		],
 	"definitions":
@@ -258,13 +272,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "abiétacée</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">abiétinée"
+										"valeur": "abiétacée"
 									}
-								],
-							"catgram": "nom féminin",
-							"origine": "latin <i>abies, </i>sapin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "abiétinée"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin",
+				"origine": "latin <i>abies, </i>sapin"
 			}
 		],
 	"definitions":
@@ -3333,8 +3355,28 @@
 {
 
 	"orthographe": "maladie d'Alzheimer",
-<h2 class="AdresseDefinition">maladie d'Alzheimer</h2><p class="OrigineDefinition">(du nom du neurologue allemand Alois Alzheimer [Marktbreit 1864-Breslau 1917])</p>
-	<ul class="Definitions">
+	"propriétés":
+		[
+			{
+				"variantes":
+					[
+						{
+							"adresse":
+								[
+									{
+										"valeur": "maladie d'Alzheimer"
+									}
+								],
+							"origine": "du nom du neurologue allemand Alois Alzheimer [Marktbreit 1864-Breslau 1917]"
+						}
+					]
+			}
+		],
+	"definitions":
+		[
+			{
+				"division":
+					[
 						{
 							"content": 
 								[
@@ -5181,12 +5223,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "aquaculture</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">aquiculture"
+										"valeur": "aquaculture"
 									}
-								],
-							"catgram": "nom féminin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "aquiculture"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin"
 			}
 		],
 	"definitions":
@@ -8310,12 +8360,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "auto sacramental, autos sacramentales<span class="RemarqueDefinition"> ou </span>autos sacramentals<br><span class="OrigineDefinition">(mots espagnols signifiant <i>représentation du Saint-Sacrement</i>)</span></h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">auto"
+										"valeur": "auto sacramental, autos sacramentales<span class="RemarqueDefinition"> ou </span>autos sacramentals<br><span class="OrigineDefinition">(mots espagnols signifiant <i>représentation du Saint-Sacrement</i>)</span>"
 									}
-								],
-							"catgram": "nom masculin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "auto"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin"
 			}
 		],
 	"definitions":
@@ -10591,13 +10649,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "basket-ball, basket-balls</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">basket, baskets"
+										"valeur": "basket-ball, basket-balls"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "anglais <i>basket-ball, </i>de <i>basket, </i>panier, et <i>ball</i>"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "basket, baskets"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "anglais <i>basket-ball, </i>de <i>basket, </i>panier, et <i>ball</i>"
 			}
 		],
 	"definitions":
@@ -11415,13 +11481,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "béluga</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">bélouga"
+										"valeur": "béluga"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "russe <i>belouga,</i> de <i>belyï,</i> blanc"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "bélouga"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "russe <i>belouga,</i> de <i>belyï,</i> blanc"
 			}
 		],
 	"definitions":
@@ -12039,13 +12113,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "bilharzie</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">bilharzia"
+										"valeur": "bilharzie"
 									}
-								],
-							"catgram": "nom féminin",
-							"origine": "de T. Bilharz, nom propre"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "bilharzia"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin",
+				"origine": "de T. Bilharz, nom propre"
 			}
 		],
 	"definitions":
@@ -12291,12 +12373,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "biotechnologie</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">biotechnique"
+										"valeur": "biotechnologie"
 									}
-								],
-							"catgram": "nom féminin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "biotechnique"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin"
 			}
 		],
 	"definitions":
@@ -15249,12 +15339,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "cacaoyer</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">cacaotier"
+										"valeur": "cacaoyer"
 									}
-								],
-							"catgram": "nom masculin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "cacaotier"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin"
 			}
 		],
 	"definitions":
@@ -15324,13 +15422,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "cactacée</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">cactée"
+										"valeur": "cactacée"
 									}
-								],
-							"catgram": "nom féminin",
-							"origine": "de cactus"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "cactée"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin",
+				"origine": "de cactus"
 			}
 		],
 	"definitions":
@@ -16034,12 +16140,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "califat</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">khalifat"
+										"valeur": "califat"
 									}
-								],
-							"catgram": "nom masculin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "khalifat"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin"
 			}
 		],
 	"definitions":
@@ -16125,13 +16239,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "calmar</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">calamar"
+										"valeur": "calmar"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "italien <i>calamaro</i>"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "calamar"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "italien <i>calamaro</i>"
 			}
 		],
 	"definitions":
@@ -19439,13 +19561,25 @@
 							"adresse":
 								[
 									{
-										"valeur": "césium</h2><p class="LienAdresse">ou </p><p class="indicateurDefinition">vieux </p><h2 class="AdresseDefinition">cæsium"
+										"valeur": "césium"
+									}
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "cæsium"
 									}
 								],
-							"catgram": "nom masculin",
-							"origine": "latin <i>caesius</i>, bleu"
+							"indicateurDefinition": 
+								[
+									"vieux"
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "latin <i>caesius</i>, bleu"
 			}
 		],
 	"definitions":
@@ -23819,13 +23953,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "clé</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">clef"
+										"valeur": "clé"
 									}
-								],
-							"catgram": "nom féminin",
-							"origine": "latin <i>clavis</i>"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "clef"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin",
+				"origine": "latin <i>clavis</i>"
 			}
 		],
 	"definitions":
@@ -24716,13 +24858,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "colley</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">collie"
+										"valeur": "colley"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "anglais <i>collie, </i>peut-être du gaélique <i>cuilean, </i>chien"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "collie"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "anglais <i>collie, </i>peut-être du gaélique <i>cuilean, </i>chien"
 			}
 		],
 	"definitions":
@@ -25740,12 +25890,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "composée</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">composacée"
+										"valeur": "composée"
 									}
-								],
-							"catgram": "nom féminin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "composacée"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin"
 			}
 		],
 	"definitions":
@@ -28113,13 +28271,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "cordé</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">chordé"
+										"valeur": "cordé"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "de corde"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "chordé"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "de corde"
 			}
 		],
 	"definitions":
@@ -30145,7 +30311,25 @@
 										"valeur": "couvaison"
 									}
 								],
-							"catgram": "nom féminin</p><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">couvage</h2><p class="CatgramDefinition">nom masculin</p><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">couverie</h2><p class="CatgramDefinition">nom féminin"
+							"catgram": "nom féminin"
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "couvage"
+									}
+								],
+							"catgram": "nom masculin"
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "couverie"
+									}
+								],
+							"catgram": "nom féminin"
 						}
 					]
 			}
@@ -35508,12 +35692,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "dinosaure</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">dinosaurien"
+										"valeur": "dinosaure"
 									}
-								],
-							"catgram": "nom masculin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "dinosaurien"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin"
 			}
 		],
 	"definitions":
@@ -37916,12 +38108,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "écholocation</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">écholocalisation"
+										"valeur": "écholocation"
 									}
-								],
-							"catgram": "nom féminin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "écholocalisation"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin"
 			}
 		],
 	"definitions":
@@ -39581,12 +39781,24 @@
 							"adresse":
 								[
 									{
-										"valeur": "embryogenèse</h2><p class="LienAdresse">ou </p><p class="indicateurDefinition">vieux </p><h2 class="AdresseDefinition">embryogénie"
+										"valeur": "embryogenèse"
+									}
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "embryogénie"
 									}
 								],
-							"catgram": "nom féminin"
+							"indicateurDefinition": 
+								[
+									"vieux"
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin"
 			}
 		],
 	"definitions":
@@ -47784,13 +47996,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "fœhn</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">föhn"
+										"valeur": "fœhn"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "suisse allemand <i>föhn, </i>du latin <i>favonius, </i>vent tiède"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "föhn"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "suisse allemand <i>föhn, </i>du latin <i>favonius, </i>vent tiède"
 			}
 		],
 	"definitions":
@@ -51786,12 +52006,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "gastéropode</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">gastropode"
+										"valeur": "gastéropode"
 									}
-								],
-							"catgram": "nom masculin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "gastropode"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin"
 			}
 		],
 	"definitions":
@@ -53866,13 +54094,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "graminée</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">graminacée"
+										"valeur": "graminée"
 									}
-								],
-							"catgram": "nom féminin",
-							"origine": "latin <i>gramineus</i>, de <i>gramen, -inis</i>, gazon"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "graminacée"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin",
+				"origine": "latin <i>gramineus</i>, de <i>gramen, -inis</i>, gazon"
 			}
 		],
 	"definitions":
@@ -58002,13 +58238,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "*house music, house musics</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">*house"
+										"valeur": "*house music, house musics"
 									}
-								],
-							"catgram": "nom féminin",
-							"origine": "mots anglais, de <i>Warehouse</i>, l'Entrepôt, nom d'un club de Chicago [où est née cette musique]"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "*house"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin",
+				"origine": "mots anglais, de <i>Warehouse</i>, l'Entrepôt, nom d'un club de Chicago [où est née cette musique]"
 			}
 		],
 	"definitions":
@@ -61466,12 +61710,28 @@
 							"adresse":
 								[
 									{
-										"valeur": "jaïnisme</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">djaïnisme</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">jinisme"
+										"valeur": "jaïnisme"
 									}
-								],
-							"catgram": "nom masculin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "djaïnisme"
+									}
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "jinisme"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin"
 			}
 		],
 	"definitions":
@@ -67395,13 +67655,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "majolique</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">maïolique"
+										"valeur": "majolique"
 									}
-								],
-							"catgram": "nom féminin",
-							"origine": "italien <i>majolica, </i>de l'île de Majorque"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "maïolique"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin",
+				"origine": "italien <i>majolica, </i>de l'île de Majorque"
 			}
 		],
 	"definitions":
@@ -67544,13 +67812,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "mamelouk</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">mameluk"
+										"valeur": "mamelouk"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "arabe <i>mamlūk,</i> celui qui est possédé"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "mameluk"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "arabe <i>mamlūk,</i> celui qui est possédé"
 			}
 		],
 	"definitions":
@@ -74023,11 +74299,60 @@
 {
 
 	"orthographe": "moustérien",
-
-<h2 class="AdresseDefinition">moustérien, moustérienne</h2><p class="LienAdresse">ou </p>
-<h2 class="AdresseDefinition">moustiérien, moustiérienne</h2><p class="CatgramDefinition">adjectif</p><p class="OrigineDefinition">(de Moustier, nom propre)</p>
-<h2 class="AdresseDefinition">moustérien</h2><p class="LienAdresse">ou </p>
-<h2 class="AdresseDefinition">moustiérien</h2><p class="CatgramDefinition">nom masculin</p><p class="OrigineDefinition">(de Moustier, nom propre)</p>	<ul class="Definitions">
+	"propriétés":
+		[
+			{
+				"variantes":
+					[
+						{
+							"adresse":
+								[
+									{
+										"valeur": "moustérien, moustérienne"
+									}
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "moustiérien, moustiérienne"
+									}
+								]
+						}
+					],
+				"origine": "de Moustier, nom propre",
+				"catgram": "adjectif"
+			},
+			{
+				"variantes":
+					[
+						{
+							"adresse":
+								[
+									{
+										"valeur": "moustérien"
+									}
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "moustiérien"
+									}
+								]
+						}
+					],
+				"origine": "de Moustier, nom propre",
+				"catgram": "nom masculin"
+			}
+		],
+	"definitions":
+		[
+			{
+				"division":
+					[
 						{
 							"content": 
 								[
@@ -79765,13 +80090,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "orang-outan, orangs-outans</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">orang-outang, orangs-outangs"
+										"valeur": "orang-outan, orangs-outans"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "malais <i>orang-hutān, </i>homme des forêts"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "orang-outang, orangs-outangs"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "malais <i>orang-hutān, </i>homme des forêts"
 			}
 		],
 	"definitions":
@@ -85752,12 +86085,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "phylloxéra</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">phylloxera"
+										"valeur": "phylloxéra"
 									}
-								],
-							"catgram": "nom masculin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "phylloxera"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin"
 			}
 		],
 	"definitions":
@@ -86649,13 +86990,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "pipeline</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">pipe-line, pipe-lines"
+										"valeur": "pipeline"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "anglais <i>pipe,</i> tuyau, et <i>line,</i> ligne"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "pipe-line, pipe-lines"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "anglais <i>pipe,</i> tuyau, et <i>line,</i> ligne"
 			}
 		],
 	"definitions":
@@ -86687,13 +87036,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "piranha</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">piraya"
+										"valeur": "piranha"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "portugais <i>piranha,</i> du tupi"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "piraya"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "portugais <i>piranha,</i> du tupi"
 			}
 		],
 	"definitions":
@@ -87765,12 +88122,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "plateforme</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">plate-forme, plates-formes"
+										"valeur": "plateforme"
 									}
-								],
-							"catgram": "nom féminin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "plate-forme, plates-formes"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin"
 			}
 		],
 	"definitions":
@@ -87971,12 +88336,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "pleuronectiforme</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">pleuronecte"
+										"valeur": "pleuronectiforme"
 									}
-								],
-							"catgram": "nom masculin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "pleuronecte"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin"
 			}
 		],
 	"definitions":
@@ -92663,12 +93036,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "ptérosaure</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">ptérosaurien"
+										"valeur": "ptérosaure"
 									}
-								],
-							"catgram": "nom masculin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "ptérosaurien"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin"
 			}
 		],
 	"definitions":
@@ -98915,10 +99296,19 @@
 										"valeur": "samouraï"
 									}
 								],
-							"catgram": "nom masculin</p><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">samurai</h2><p class="CatgramDefinition">nom masculin invariable",
-							"origine": "japonais <i>samurai</i>, de <i>samurau</i>, servir"
+							"catgram": "nom masculin"
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "samurai"
+									}
+								],
+							"catgram": "nom masculin invariable",
 						}
-					]
+					],
+				"origine": "japonais <i>samurai</i>, de <i>samurau</i>, servir"
 			}
 		],
 	"definitions":
@@ -99066,13 +99456,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "sanskrit</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">sanscrit"
+										"valeur": "sanskrit"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "de samsk ta, parfait"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "sanscrit"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "de samsk ta, parfait"
 			}
 		],
 	"definitions":
@@ -99626,13 +100024,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "scanner</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">scanneur"
+										"valeur": "scanner"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "anglais <i>scanner, </i>de <i>to scan, </i>balayer"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "scanneur"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "anglais <i>scanner, </i>de <i>to scan, </i>balayer"
 			}
 		],
 	"definitions":
@@ -101542,13 +101948,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "shamisen</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">samisen"
+										"valeur": "shamisen"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "japonais <i>shamisen</i>"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "samisen"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "japonais <i>shamisen</i>"
 			}
 		],
 	"definitions":
@@ -101580,12 +101994,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "shaouabti</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">chaouabti"
+										"valeur": "shaouabti"
 									}
-								],
-							"catgram": "nom masculin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "chaouabti"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin"
 			}
 		],
 	"definitions":
@@ -101617,13 +102039,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "shintoïsme</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition"></h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">shinto"
+										"valeur": "shintoïsme"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "japonais <i>shintō</i>"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "shinto"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "japonais <i>shintō</i>"
 			}
 		],
 	"definitions":
@@ -101893,13 +102323,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "silure</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">siluroïde"
+										"valeur": "silure"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "latin <i>silurus, </i>du grec <i>silouros</i>"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "siluroïde"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "latin <i>silurus, </i>du grec <i>silouros</i>"
 			}
 		],
 	"definitions":
@@ -102178,12 +102616,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "sismologie</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">séismologie"
+										"valeur": "sismologie"
 									}
-								],
-							"catgram": "nom féminin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "séismologie"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin"
 			}
 		],
 	"definitions":
@@ -103341,12 +103787,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "soul music</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">soul"
+										"valeur": "soul music"
 									}
-								],
-							"catgram": "nom féminin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "soul"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin"
 			}
 		],
 	"definitions":
@@ -104472,13 +104926,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "stupa</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">stoupa"
+										"valeur": "stupa"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "sanskrit <i>stūpa, </i>amas, tertre, cime, sommet, notamment de la tête"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "stoupa"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "sanskrit <i>stūpa, </i>amas, tertre, cime, sommet, notamment de la tête"
 			}
 		],
 	"definitions":
@@ -106479,12 +106941,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "téléphérique</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">téléférique"
+										"valeur": "téléphérique"
 									}
-								],
-							"catgram": "nom masculin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "téléférique"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin"
 			}
 		],
 	"definitions":
@@ -107333,13 +107803,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "T.G.V.</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">TGV"
+										"valeur": "T.G.V."
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "nom déposé; sigle de <i>train à grande vitesse</i>"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "TGV"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "nom déposé; sigle de <i>train à grande vitesse</i>"
 			}
 		],
 	"definitions":
@@ -109497,12 +109975,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "transgenèse</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">transgénose"
+										"valeur": "transgenèse"
 									}
-								],
-							"catgram": "nom féminin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "transgénose"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin"
 			}
 		],
 	"definitions":
@@ -111409,12 +111895,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "ourdou</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">urdu"
+										"valeur": "ourdou"
 									}
-								],
-							"catgram": "nom masculin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "urdu"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin"
 			}
 		],
 	"definitions":
@@ -113129,10 +113623,19 @@
 										"valeur": "virginal, virginals"
 									}
 								],
-							"catgram": "nom masculin</p><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">virginale</h2><p class="CatgramDefinition">nom féminin",
-							"origine": "anglais <i>virginal</i>"
+							"catgram": "nom masculin"
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "virginale"
+									}
+								],
+							"catgram": "nom féminin"
 						}
-					]
+					],
+				"origine": "anglais <i>virginal</i>"
 			}
 		],
 	"definitions":
@@ -114214,13 +114717,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "volley-ball, volley-balls</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">volley"
+										"valeur": "volley-ball, volley-balls"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "anglais <i>volley-ball,</i> balle à la volée"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "volley"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "anglais <i>volley-ball,</i> balle à la volée"
 			}
 		],
 	"definitions":
@@ -114580,13 +115091,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "zéolite</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">zéolithe"
+										"valeur": "zéolite"
 									}
-								],
-							"catgram": "nom féminin",
-							"origine": "latin scientifique <i>zeolithus,</i> du grec <i>dzeîn,</i> bouillir, et <i>lithos,</i> pierre"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "zéolithe"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin",
+				"origine": "latin scientifique <i>zeolithus,</i> du grec <i>dzeîn,</i> bouillir, et <i>lithos,</i> pierre"
 			}
 		],
 	"definitions":
@@ -118858,12 +119377,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "désalinisation</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">dessalinisation"
+										"valeur": "désalinisation"
 									}
-								],
-							"catgram": "nom féminin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "dessalinisation"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin"
 			}
 		],
 	"definitions":
@@ -119457,13 +119984,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "houmous</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">hommos"
+										"valeur": "houmous"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "d'un mot arabe signifiant <i>pois chiche</i>"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "hommos"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "d'un mot arabe signifiant <i>pois chiche</i>"
 			}
 		],
 	"definitions":
@@ -120365,13 +120900,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "riad</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">ryad"
+										"valeur": "riad"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "mot arabe signifiant <i>jardin</i>"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "ryad"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "mot arabe signifiant <i>jardin</i>"
 			}
 		],
 	"definitions":
@@ -120635,13 +121178,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "sextette</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">sextet"
+										"valeur": "sextette"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "anglais <i>sextet</i>"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "sextet"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "anglais <i>sextet</i>"
 			}
 		],
 	"definitions":
@@ -121924,12 +122475,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "euroméditerranéen, euroméditerranéenne, euroméditerranéens, euroméditerranéennes</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">euro-méditerranéen, euro-méditerranéenne, euro-méditerranéens, euro-méditerranéennes"
+										"valeur": "euroméditerranéen, euroméditerranéenne, euroméditerranéens, euroméditerranéennes"
 									}
-								],
-							"catgram": "adjectif"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "euro-méditerranéen, euro-méditerranéenne, euro-méditerranéens, euro-méditerranéennes"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "adjectif"
 			}
 		],
 	"definitions":
@@ -122110,13 +122669,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "inukshuk</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">inuksuk"
+										"valeur": "inukshuk"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "mot de l'inuktitut"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "inuksuk"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "mot de l'inuktitut"
 			}
 		],
 	"definitions":
@@ -122187,13 +122754,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "kitesurf</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">kite"
+										"valeur": "kitesurf"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "anglo-américain <i>kite surfing,</i> de l'anglais <i>kite,</i> cerf-volant et <i>surfing,</i> surf"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "kite"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "anglo-américain <i>kite surfing,</i> de l'anglais <i>kite,</i> cerf-volant et <i>surfing,</i> surf"
 			}
 		],
 	"definitions":
@@ -122836,13 +123411,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "rassoul</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">rhassoul"
+										"valeur": "rassoul"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "arabe <i>ghāssoul,</i> matière qui lave"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "rhassoul"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "arabe <i>ghāssoul,</i> matière qui lave"
 			}
 		],
 	"definitions":
@@ -123403,13 +123986,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "cambaler</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">cambouler"
+										"valeur": "cambaler"
 									}
-								],
-							"catgram": "verbe transitif",
-							"origine": "provençal <i>cambala</i>, enjamber"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "cambouler"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "verbe transitif",
+				"origine": "provençal <i>cambala</i>, enjamber"
 			}
 		],
 	"definitions":
@@ -123627,13 +124218,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "zénitude</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">zenitude"
+										"valeur": "zénitude"
 									}
-								],
-							"catgram": "nom féminin",
-							"origine": "de <i>zen</i>"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "zenitude"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin",
+				"origine": "de <i>zen</i>"
 			}
 		],
 	"definitions":
@@ -123669,13 +124268,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "zénifiant, zénifiante</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">zenifiant, zenifiante"
+										"valeur": "zénifiant, zénifiante"
 									}
-								],
-							"catgram": "adjectif",
-							"origine": "de <i>zen</i>"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "zenifiant, zenifiante"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "adjectif",
+				"origine": "de <i>zen</i>"
 			}
 		],
 	"definitions":
@@ -123749,12 +124356,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "VTC</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">V.T.C."
+										"valeur": "VTC"
 									}
-								],
-							"catgram": "nom masculin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "V.T.C."
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin"
 			}
 		],
 	"definitions":
@@ -124053,7 +124668,16 @@
 										"valeur": "végan, végane"
 									}
 								],
-							"catgram": "adjectif et nom</p><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">vegan</h2><p class="CatgramDefinition">adjectif invariable et nom invariable"
+							"catgram": "adjectif et nom"
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "vegan"
+									}
+								],
+							"catgram": "adjectif invariable et nom invariable"
 						}
 					]
 			}
@@ -125298,12 +125922,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "SEP</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">S.E.P."
+										"valeur": "SEP"
 									}
-								],
-							"catgram": "nom féminin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "S.E.P."
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin"
 			}
 		],
 	"definitions":
@@ -125534,12 +126166,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "RH</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">R.H."
+										"valeur": "RH"
 									}
-								],
-							"catgram": "nom féminin pluriel"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "R.H."
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin pluriel"
 			}
 		],
 	"definitions":
@@ -125845,13 +126485,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "progeria</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">progéria"
+										"valeur": "progeria"
 									}
-								],
-							"catgram": "nom féminin",
-							"origine": "du grec <i>gerôn,</i> vieillard"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "progéria"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin",
+				"origine": "du grec <i>gerôn,</i> vieillard"
 			}
 		],
 	"definitions":
@@ -125969,10 +126617,19 @@
 										"valeur": "préquelle"
 									}
 								],
-							"catgram": "nom féminin</p><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">préquel</h2><p class="CatgramDefinition">nom masculin",
-							"origine": "anglais <i>prequel,</i> de <i>sequel,</i> suite, et du latin <i>prae,</i> avant"
+							"catgram": "nom féminin"
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "préquel"
+									}
+								],
+							"catgram": "nom masculin"
 						}
-					]
+					],
+				"origine": "anglais <i>prequel,</i> de <i>sequel,</i> suite, et du latin <i>prae,</i> avant"
 			}
 		],
 	"definitions":
@@ -127240,7 +127897,16 @@
 										"valeur": "micropaiement"
 									}
 								],
-							"catgram": "nom masculin</p><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">microtransaction</h2><p class="CatgramDefinition">nom féminin"
+							"catgram": "nom masculin"
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "microtransaction"
+									}
+								],
+							"catgram": "nom féminin"
 						}
 					]
 			}
@@ -127889,13 +128555,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "long-seller, long-sellers</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">longseller"
+										"valeur": "long-seller, long-sellers"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "mot anglo-américain « qui se vend longtemps »"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "longseller"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "mot anglo-américain « qui se vend longtemps »"
 			}
 		],
 	"definitions":
@@ -128591,12 +129265,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "maladie de *Huntington</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">chorée de *Huntington"
+										"valeur": "maladie de *Huntington"
 									}
-								],
-							"catgram": "nom féminin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "chorée de *Huntington"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom féminin"
 			}
 		],
 	"definitions":
@@ -129859,13 +130541,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "EIRL</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">E.I.R.L."
+										"valeur": "EIRL"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "sigle de <i>entrepreneur individuel à responsabilité limitée</i>"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "E.I.R.L."
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "sigle de <i>entrepreneur individuel à responsabilité limitée</i>"
 			}
 		],
 	"definitions":
@@ -129897,13 +130587,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "EHPAD</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">E.H.P.A.D."
+										"valeur": "EHPAD"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "acronyme de <i>établissement d’hébergement pour personnes âgées dépendantes</i>"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "E.H.P.A.D."
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "acronyme de <i>établissement d’hébergement pour personnes âgées dépendantes</i>"
 			}
 		],
 	"definitions":
@@ -130013,12 +130711,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "écopastoralisme</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">écopâturage"
+										"valeur": "écopastoralisme"
 									}
-								],
-							"catgram": "nom masculin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "écopâturage"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin"
 			}
 		],
 	"definitions":
@@ -130822,12 +131528,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "CVO</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">C.V.O."
+										"valeur": "CVO"
 									}
-								],
-							"catgram": "nom masculin"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "C.V.O."
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin"
 			}
 		],
 	"definitions":
@@ -131444,12 +132158,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "chneuquer</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">schneuquer"
+										"valeur": "chneuquer"
 									}
-								],
-							"catgram": "verbe intransitif"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "schneuquer"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "verbe intransitif"
 			}
 		],
 	"definitions":
@@ -131755,13 +132477,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "caïon</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">cayon"
+										"valeur": "caïon"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "mot franco-provençal"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "cayon"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "mot franco-provençal"
 			}
 		],
 	"definitions":
@@ -132110,12 +132840,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "boguer</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">bugger"
+										"valeur": "boguer"
 									}
-								],
-							"catgram": "verbe intransitif"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "bugger"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "verbe intransitif"
 			}
 		],
 	"definitions":
@@ -132155,10 +132893,28 @@
 										"valeur": "bo bun"
 									}
 								],
-							"catgram": "nom masculin invariable</p><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">bo-bun</h2><p class="CatgramDefinition">nom masculin invariable</p><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">bobun</h2><p class="CatgramDefinition">nom masculin",
-							"origine": "mot vietnamien"
+							"catgram": "nom masculin invariable"
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "bo-bun"
+									}
+								],
+							"catgram": "nom masculin invariable"
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "bobun"
+									}
+								],
+							"catgram": "nom masculin"
 						}
-					]
+					],
+				"origine": "mot vietnamien"
 			}
 		],
 	"definitions":
@@ -133184,13 +133940,21 @@
 							"adresse":
 								[
 									{
-										"valeur": "aquabiking</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">aquabike"
+										"valeur": "aquabiking"
 									}
-								],
-							"catgram": "nom masculin",
-							"origine": "mot anglo-américain"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "aquabike"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin",
+				"origine": "mot anglo-américain"
 			}
 		],
 	"definitions":
@@ -133222,12 +133986,20 @@
 							"adresse":
 								[
 									{
-										"valeur": "après-shampooing, après-shampooings</h2><p class="LienAdresse">ou </p><h2 class="AdresseDefinition">après-shampoing, après-shampoings"
+										"valeur": "après-shampooing, après-shampooings"
 									}
-								],
-							"catgram": "nom masculin et adjectif invariable"
+								]
+						},
+						{
+							"adresse":
+								[
+									{
+										"valeur": "après-shampoing, après-shampoings"
+									}
+								]
 						}
-					]
+					],
+				"catgram": "nom masculin et adjectif invariable"
 			}
 		],
 	"definitions":
