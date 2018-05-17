@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
   	<head>
-    	<meta charset="utf-8">
-    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     	<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Gramma</title>
 		<link href="css/style.css" rel="stylesheet">
@@ -11,7 +10,19 @@
 
 		<textarea id="user-request"></textarea>
 
+		<input id="text" type="text" />
+		<input type="button" value="écris un mot et click là" onclick="show()" />
+		<input type="button" value="écris un mot et click là" onclick="show2()" />
+		<div id="showResult"></div>
 
+		<input id="phrase" type="text" />
+		<input type="button" value="écris une phrase et click là" onclick="showTag()" />
+		<div id="showTag"></div>
+
+
+
+
+		<script type="text/javascript" src="../txt/definitions/jsonFinal.js"></script>
 		<script src="js/script.js"></script>
 	</body>
 </html>

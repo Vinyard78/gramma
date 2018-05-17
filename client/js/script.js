@@ -1,3 +1,87 @@
+var el1 = document.getElementById("showResult");
+var el2 = document.getElementById("text");
+var el3 = document.getElementById("showTag");
+var el4 = document.getElementById("phrase");
+
+function search(mot){
+  for (var i=0, n=bob.length; i < n; i++){
+    if(mot === bob[i].orthographe){
+      return bob[i];
+    }
+  }
+}
+
+function show(){
+  var result = search(el2.value);
+  el1.innerHTML = result.orthographe + "<br>" + result.proprietes[0].variantes[0].catgram + "<br>" + result.definitions[0].division[0].contenu[0].texte;
+}
+
+function show2() {
+  el1.innerHTML = parcourirObjet(search(el2.value));
+}
+
+function parcourirObjet(objet){
+  var res = "";
+  function addTab(i) {
+    let tab = "";
+    for (var j=0; j < i; j++){
+      tab += "&nbsp;&nbsp;&nbsp;&nbsp;";
+    }
+    return tab;
+  }
+  function parcourirObjet2(objet, index){
+    index++;
+    for (var prop in objet) {
+      if(Array.isArray(objet[prop])){
+        res += "<br>" + addTab(index) + `${prop} :`;
+        parcourirObjet2(objet[prop],index);
+      } else if (typeof objet[prop] === "object"){
+        parcourirObjet2(objet[prop],index);
+      } else {
+        res += "<br>" + addTab(index) + `${prop} : ${objet[prop]}`;
+      }
+    }
+  }
+  parcourirObjet2(objet, -1);
+  return res;
+}
+
+
+
+function showTag() {
+  var array = el4.value.split(" ");
+  var arrayResult = [];
+  for (var i=0, n=array.length; i < n; i++){
+    let obj = search(array[i]);
+    if(obj && obj.proprietes[0].variantes[0].catgram.substring(0,3) == "nom"){
+      arrayResult.push(obj.orthographe);
+    }
+  }
+  el3.innerHTML = arrayResult.join(" ");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*var endpointUsers = "http://localhost:3000/users/" 
 
 
