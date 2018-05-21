@@ -1,17 +1,18 @@
 {
-	"orthographe": "(.*?)",
-	"proprietes":
+	"mot": "(.*?)",
+	"variantes":
 		[
 			{
-				"variantes":
+				"orthographes":
 					[
 						{
-							"adresse":
+							"formes":
 								[
 									{
 										"valeur": "(.*?)",
 										"genre": "(.*?)",
 										"nombre": "(.*?)",
+										"catgram": "(.*?)",
 										"origine": "(.*?)",
 										"remarque":
 											[
@@ -33,36 +34,25 @@
 									},
 									...
 								],
-							"catgram": "(.*?)",
-							"origine": "(.*?)"
+							"indicateur":
+								[
+									"(.*?)",
+									...
+								]
 						},
 						...
-					],
-				"catgram": "(.*?)",
-				"origine": "(.*?)"
+					]
 			},
 			...
 		],
-	"textePresentatif": "(.*?)",
-	"remarque": 
+	"remarque":
 		[
 			"(.*?)",
 			...
 		],
-	"indicateurDefinition":
-		[
-			"(.*?)",
-			...
-		],
-	"origine": "(.*?)",
 	"definitions":
 		[
 			{
-				"indicateurDefinition":
-					[
-						"(.*?)",
-						...
-					],
 				"textePresentatif": "(.*?)",
 				"division":
 					[
@@ -76,6 +66,11 @@
 												{
 													"texte": "(.*?)"
 												}
+											],
+										"indicateur":
+											[
+												"(.*?)",
+												...
 											]
 									},
 									...
@@ -109,12 +104,7 @@
 									},
 									...
 								],
-							"remarque":
-								[
-									"(.*?)",
-									...
-								],
-							"indicateurDefinition":
+							"indicateur":
 								[
 									"(.*?)",
 									...

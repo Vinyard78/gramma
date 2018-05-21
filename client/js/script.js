@@ -5,7 +5,7 @@ var el4 = document.getElementById("phrase");
 
 function search(mot){
   for (var i=0, n=bob.length; i < n; i++){
-    if(mot === bob[i].orthographe){
+    if(mot === bob[i].mot){
       return bob[i];
     }
   }
@@ -13,7 +13,7 @@ function search(mot){
 
 function show(){
   var result = search(el2.value);
-  el1.innerHTML = result.orthographe + "<br>" + result.proprietes[0].variantes[0].catgram + "<br>" + result.definitions[0].division[0].contenu[0].texte;
+  el1.innerHTML = result.mot + "<br>" + result.variantes[0].orthographes[0].formes[0].catgram + "<br>" + result.definitions[0].division[0].contenu[0].texte;
 }
 
 function show2() {
