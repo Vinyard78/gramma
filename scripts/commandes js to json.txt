@@ -1,0 +1,24 @@
+^}
+
+}\n
+
+
+
+^\t*
+
+
+
+\n([^\n])
+
+$1
+
+[\n]^([^{])
+
+$1
+
+
+
+{variantes:{$elemMatch:{orthographes:{$elemMatch:{formes:{$elemMatch:{catgram:"conjonction de coordination"}}}}}}}
+
+
+C:\Program Files\MongoDB\Server\3.6\bin>mongoimport --db admin --collection mots --file d:\jsonFinal.json
