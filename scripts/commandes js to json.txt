@@ -1,3 +1,5 @@
+//Passer de Js à Json avec sublimeText :
+
 ^}
 
 }\n
@@ -17,8 +19,75 @@ $1
 $1
 
 
+//Commandes mongodb
 
 {variantes:{$elemMatch:{orthographes:{$elemMatch:{formes:{$elemMatch:{catgram:"conjonction de coordination"}}}}}}}
+db.mots.find({"variantes.orthographes.formes.catgram":/^pronom/})
 
+db.mots.find({"variantes.orthographes.formes.catgram":/^pronom/}, {mot:1, _id:0})
+
+db.mots.distinct("variantes.orthographes.formes.catgram")
+
+
+//importer la base mongodb à partir du json
 
 C:\Program Files\MongoDB\Server\3.6\bin>mongoimport --db admin --collection mots --file d:\jsonFinal.json
+
+
+//toutes les categories grammaticales de la base :
+
+		"locution adverbiale",
+        "adjectif",
+        "locution adjectivale",
+        "adverbe",
+        "nom",
+        "préposition",
+        "verbe transitif",
+        "verbe pronominal",
+        "verbe passif",
+        "verbe intransitif",
+        "verbe transitif indirect",
+        "interjection",
+        "verbe impersonnel",
+        "conjonction",
+        "article",
+        "pronom indéfini",
+        "pronom interrogatif",
+        "pronom relatif",
+        "pronom démonstratif",
+        "adjectif démonstratif",
+        "adjectif numéral cardinal",
+        "adjectif numéral ordinal",
+        "adjectif indéfini",
+        "locution verbale",
+        "adverbe exclamatif",
+        "adverbe interrogatif",
+        "locution prépositive",
+        "article indéfini",
+        "article défini",
+        "pronom personnel",
+        "conjonction de coordination",
+        "verbe transitif employé absolument",
+        "verbe auxiliaire",
+        "préfixe",
+        "adjectif numéral",
+        "pronom",
+        "locution verbale impersonnelle",
+        "adjectif relatif",
+        "adjectif possessif",
+        "pronom possessif",
+        "pronom réfléchi",
+        "locution prépositionnelle",
+        "pronom personnel accentué",
+        "adverbe de négation",
+        "abréviation",
+        "adjectif exclamatif",
+        "adjectif interrogatif",
+        "adjectif qualificatif",
+        "locution interjective",
+        "pronom relatif indéfini",
+        "pronom exclamatif",
+        "pronom personnel réfléchi",
+        "adverbe d'affirmation",
+        "adverbe de quantité",
+        "locution conjonctive"

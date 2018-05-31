@@ -49,16 +49,97 @@ function parcourirObjet(objet){
 
 
 function showTag() {
-  var array = el4.value.split(" ");
+  /*var array = el4.value.split(" ");
   var arrayResult = [];
+
   for (var i=0, n=array.length; i < n; i++){
     let obj = search(array[i]);
-    if(obj && obj.proprietes[0].variantes[0].catgram.substring(0,3) == "nom"){
+    if(obj && obj.orthographes[0].variantes[0].catgram.substring(0,3) == "nom"){
       arrayResult.push(obj.orthographe);
     }
   }
-  el3.innerHTML = arrayResult.join(" ");
+  el3.innerHTML = arrayResult.join(" ");*/
+
+ /* var arrayResult = [];
+  let xhr = new XMLHttpRequest();
+  xhr.open('POST', "http://localhost:3000/gramma", true);
+  xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+  xhr.onreadystatechange = ()=>{
+    if(xhr.readyState === XMLHttpRequest.DONE && (xhr.status === 200 || xhr.status === 0)){
+      let result = JSON.parse(xhr.responseText);
+      console.dir(result);
+      for (var i = 0; i < result.mots.length; i++) {
+        for (var j = 0; j < result.mots[i][j].length; j++) {
+            if(
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "article" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "article indéfini" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "article défini" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "adjectif démonstratif" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "adjectif numéral cardinal" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "adjectif numéral ordinal" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "adjectif indéfini" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "adjectif numéral" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "adjectif relatif" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "adjectif possessif" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "adjectif exclamatif" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "adjectif interrogatif" 
+            ) {
+              arrayResult.push(result.mots[i][0].mot);
+            }
+
+
+          }
+
+
+          A FAIRE AVEC MONGODB !!!!!!!
+
+
+
+
+
+
+
+        if(
+
+
+
+
+
+          result.mots[i][0] && result.mots[i][0].variantes[0].orthographes[0].formes[0].catgram == "nom"
+         && result.mots[i - 1]){
+
+          for (var j = 0; j < result.mots[i-1].length; j++) {
+            if(
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "article" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "article indéfini" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "article défini" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "adjectif démonstratif" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "adjectif numéral cardinal" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "adjectif numéral ordinal" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "adjectif indéfini" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "adjectif numéral" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "adjectif relatif" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "adjectif possessif" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "adjectif exclamatif" ||
+              result.mots[i-1][j].variantes[0].orthographes[0].formes[0].catgram == "adjectif interrogatif" 
+            ) {
+              arrayResult.push(result.mots[i][0].mot);
+            }
+
+
+          }
+
+          
+        }
+      }
+      el3.innerHTML = arrayResult.join(" ");
+    }
+  };
+  xhr.send(JSON.stringify({phrase:el4.value}));
+*/
 }
+
+
 
 
 
@@ -283,8 +364,8 @@ $( document ).ready(function() {
 window.onload = function(){
 
 	var userRequestElement = document.getElementById("user-request");
-	
-	userRequestElement.onkeydown = function(event) {
+
+  userRequestElement.onkeydown = function(event) {
 	    if (event.keyCode === 13)
 	    {	
 	    	event.preventDefault();
@@ -293,7 +374,7 @@ window.onload = function(){
 	    	//recherche(userRequest.split(" "));
 	    	sendData({phrase:userRequest});
 	    }
-	}
+	};
 
 	var sendData = function(data){
 		let xhr = new XMLHttpRequest();
@@ -302,6 +383,7 @@ window.onload = function(){
 		xhr.onreadystatechange = ()=>{
 			if(xhr.readyState === XMLHttpRequest.DONE && (xhr.status === 200 || xhr.status === 0)){
 				console.dir(JSON.parse(xhr.responseText));
+        return JSON.parse(xhr.responseText);
 			}
 		};
 		xhr.send(JSON.stringify(data));
@@ -323,12 +405,6 @@ window.onload = function(){
 		console.dir(result);
 		return result;
 	};*/
-
-
-
-
-
-
 
 
 };

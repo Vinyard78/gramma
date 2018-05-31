@@ -35,20 +35,69 @@ app.get('/', function (req, res) {
 app.post('/gramma', function (req,res){
 	let resObj = {mots:[]}; 
 	let motsTab = req.body.phrase.split(" ");
-	let i = 0;
-	let search = function(){
-		db.collection('mots').find({orthographe: motsTab[i]}).toArray((err, result) => {
-	        if (err) return console.log(err)
-	        resObj.mots.push(result);
-	    	if (i === motsTab.length-1 ){
-	    		res.send(resObj);
-	    	} else {
-	    		i++;
-	    		search();
-	    	}
-	    })
-	};
-	search();
+    db.collection('mots').find(
+        { 
+            $and : 
+                [
+                    { 
+                        "mot": 
+                            { 
+                                $in: motsTab 
+                            } 
+                    },
+                    {
+                        "variantes.orthographes.formes.catgram": 
+                            { 
+                                $in : 
+                                    [ 
+                                        "nom",
+                                        "article",
+                                        "article indéfini",
+                                        "article défini",
+                                        "adjectif démonstratif",
+                                        "adjectif numéral cardinal",
+                                        "adjectif numéral ordinal",
+                                        "adjectif indéfini",
+                                        "adjectif numéral",
+                                        "adjectif relatif",
+                                        "adjectif possessif",
+                                        "adjectif exclamatif",
+                                        "adjectif interrogatif"
+                                    ]
+                            }
+                    }
+                ]
+        }
+    ).project(
+        {
+            "_id":0, 
+            "mot":1, 
+            "variantes.orthographes.formes.catgram":1
+        }
+    ).toArray((err, result) => {
+        if (err) return console.log(err)
+        resObj.mots = result;
+        res.send(resObj);
+    })
+})
+
+app.post('/gramma/:catgram', function (req,res){
+    let resObj = {mots:[]}; 
+    let motsTab = req.body.phrase.split(" ");
+    let i = 0;
+    let search = function(){
+        db.collection('mots').find({"mot": motsTab[i]}, {mot:1, _id:0}).toArray((err, result) => {
+            if (err) return console.log(err)
+            resObj.mots.push(result);
+            if (i === motsTab.length-1 ){
+                res.send(resObj);
+            } else {
+                i++;
+                search();
+            }
+        })
+    };
+    search();
 })
 
 // GET : read all
@@ -486,8 +535,8 @@ fs.writeFile('urlAgain.txt', urlMotTemp.join('","') , function (err) {
              *                                                                    *
              **********************************************************************/   
 
-
-/*// GET : read one
+/*
+// GET : read one
 app.get('/users/:userId', function (req,res){
     console.log("user details : " + req.params.userId);
     db.collection('users').findOne({_id : new ObjectID(req.params.userId)},(err, result) => {

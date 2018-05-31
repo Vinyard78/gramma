@@ -4,4 +4,4 @@ REM open a nodejs commandline and move to projet folder
 TITLE = NodeJS
 REM start cmd 
 C:\Windows\system32\cmd.exe /k "C:\Program Files\nodejs\nodevars.bat"
-cd "E:\Vinyard78\gramma"
+cd "D:\Perso\Projets\gramma"
