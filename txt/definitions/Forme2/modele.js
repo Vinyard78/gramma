@@ -1,53 +1,29 @@
 {
-	"mot": "(.*?)",
-	"variantes":
+	"valeur": "(.*?)",
+	"genre": "(.*?)",
+	"nombre": "(.*?)",
+	"catgram": "(.*?)",
+	"origine": "(.*?)",
+	"indicateur":
 		[
-			{
-				"orthographes":
-					[
-						{
-							"formes":
-								[
-									{
-										"valeur": "(.*?)",
-										"genre": "(.*?)",
-										"nombre": "(.*?)",
-										"catgram": "(.*?)",
-										"origine": "(.*?)",
-										"indicateur":
-											[
-												"(.*?)",
-												...
-											],
-										"remarque":
-											[
-												"(.*?)",
-												...
-											],
-										"abreviation":
-											[
-												{
-													"valeur": "(.*?)",
-													"remarque":
-														[
-															"(.*?)",
-															...
-														]
-												},
-												...
-											]
-									},
-									...
-								]
-						},
-						...
-					]
-			},
+			"(.*?)",
 			...
 		],
 	"remarque":
 		[
 			"(.*?)",
+			...
+		],
+	"abreviation":
+		[
+			{
+				"valeur": "(.*?)",
+				"remarque":
+					[
+						"(.*?)",
+						...
+					]
+			},
 			...
 		],
 	"definitions":
@@ -124,5 +100,11 @@
 					]
 			},
 			...
-		]
+		],
+	"references": {
+		"forme": ([0-9]),
+		"orthographe": ([0-9]),
+		"variante": ([0-9]),
+		"motRef": "(.*?)"
+	}
 }
