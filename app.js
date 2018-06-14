@@ -34,51 +34,72 @@ app.get('/', function (req, res) {
 
 app.post('/gramma', function (req,res){
 	let resObj = {mots:[]}; 
-	let motsTab = req.body.phrase.split(" ");
-    db.collection('mots').find(
-        { 
-            $and : 
-                [
-                    { 
-                        "mot": 
-                            { 
-                                $in: motsTab 
-                            } 
-                    },
-                    {
-                        "variantes.orthographes.formes.catgram": 
-                            { 
-                                $in : 
-                                    [ 
-                                        "nom",
-                                        "article",
-                                        "article indéfini",
-                                        "article défini",
-                                        "adjectif démonstratif",
-                                        "adjectif numéral cardinal",
-                                        "adjectif numéral ordinal",
-                                        "adjectif indéfini",
-                                        "adjectif numéral",
-                                        "adjectif relatif",
-                                        "adjectif possessif",
-                                        "adjectif exclamatif",
-                                        "adjectif interrogatif"
-                                    ]
-                            }
-                    }
-                ]
-        }
-    ).project(
-        {
-            "_id":0, 
-            "mot":1, 
-            "variantes.orthographes.formes.catgram":1
-        }
-    ).toArray((err, result) => {
-        if (err) return console.log(err)
-        resObj.mots = result;
-        res.send(resObj);
-    })
+	let motsTab = req.body.data.split(" ");
+    resObj.motsTab = motsTab;
+    let end = 0;
+    for(var i =0; i<motsTab.length; i++){
+        let element = {
+            results: [],
+            index: i
+        };
+        db.collection('mots').find(
+            /*{ 
+                $and : 
+                    [
+                        { 
+                            "valeur": 
+                                { 
+                                    $in: motsTab 
+                                } 
+                        },
+                        {
+                            "catgram": 
+                                { 
+                                    $in : 
+                                        [ 
+                                            "nom",
+                                            "article",
+                                            "article indéfini",
+                                            "article défini",
+                                            "adjectif démonstratif",
+                                            "adjectif numéral cardinal",
+                                            "adjectif numéral ordinal",
+                                            "adjectif indéfini",
+                                            "adjectif numéral",
+                                            "adjectif relatif",
+                                            "adjectif possessif",
+                                            "adjectif exclamatif",
+                                            "adjectif interrogatif"
+                                        ]
+                                }
+                        }
+                    ]
+            }*/
+
+            { 
+                "valeur": motsTab[i]
+            }
+        )/*.project(
+            {
+                "_id":0, 
+                "valeur":1, 
+                "catgram":1,
+                "references.variante":1,
+                "references.orthographe":1,
+                "references.forme":1
+            }
+        )*/.toArray((err, result) => {
+            if (err) return console.log(err)
+            element.results = result;
+            resObj.mots.push(element);
+            end++;
+            if(end == motsTab.length) {
+                resObj.mots.sort(function(a,b) {return a.index-b.index});
+                res.send(resObj);
+            } 
+        })
+    }
+
 })
 
 app.post('/gramma/:catgram', function (req,res){

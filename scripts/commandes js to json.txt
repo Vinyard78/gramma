@@ -39,7 +39,7 @@ C:\Program Files\MongoDB\Server\3.6\bin>mongoimport --db admin --collection mots
 
 //toutes les categories grammaticales de la base :
 
-		"locution adverbiale",
+        "locution adverbiale",
         "adjectif",
         "locution adjectivale",
         "adverbe",
